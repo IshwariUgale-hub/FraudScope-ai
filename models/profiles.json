@@ -1,0 +1,9902 @@
+{
+  "U00372": {
+    "txn_count": 83,
+    "mean_amount": 830.78,
+    "std_amount": 1250.35,
+    "known_devices": [
+      "android-b",
+      "ios-a",
+      "unk-3729",
+      "unk-4674",
+      "web-chrome",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Chennai",
+      "Delhi",
+      "Hyderabad",
+      "Jaipur",
+      "Nagpur"
+    ]
+  },
+  "U00634": {
+    "txn_count": 79,
+    "mean_amount": 1674.93,
+    "std_amount": 1741.99,
+    "known_devices": [
+      "android-a",
+      "android-b",
+      "ios-a",
+      "unk-2785",
+      "web-chrome",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Delhi",
+      "Jaipur",
+      "Mumbai",
+      "Nagpur",
+      "Pune"
+    ]
+  },
+  "U00566": {
+    "txn_count": 78,
+    "mean_amount": 5936.95,
+    "std_amount": 9626.92,
+    "known_devices": [
+      "ios-a",
+      "ios-b",
+      "unk-1491",
+      "web-chrome",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Chennai",
+      "Delhi",
+      "Hyderabad",
+      "Jaipur",
+      "Mumbai",
+      "Nagpur",
+      "Pune"
+    ]
+  },
+  "U00165": {
+    "txn_count": 78,
+    "mean_amount": 2748.37,
+    "std_amount": 2753.54,
+    "known_devices": [
+      "android-a",
+      "android-b",
+      "ios-a",
+      "web-chrome",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Chennai",
+      "Hyderabad",
+      "Jaipur",
+      "Mumbai",
+      "Nagpur",
+      "Pune"
+    ]
+  },
+  "U01035": {
+    "txn_count": 77,
+    "mean_amount": 4101.62,
+    "std_amount": 5164.97,
+    "known_devices": [
+      "android-a",
+      "android-b",
+      "ios-a",
+      "ios-b",
+      "unk-2892",
+      "unk-4467",
+      "web-chrome"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Chennai",
+      "Hyderabad",
+      "Jaipur",
+      "Mumbai",
+      "Nagpur"
+    ]
+  },
+  "U01197": {
+    "txn_count": 76,
+    "mean_amount": 2064.23,
+    "std_amount": 2528.16,
+    "known_devices": [
+      "android-a",
+      "android-b",
+      "ios-a",
+      "unk-4330",
+      "unk-8930"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Chennai",
+      "Delhi",
+      "Jaipur",
+      "Nagpur"
+    ]
+  },
+  "U00282": {
+    "txn_count": 75,
+    "mean_amount": 4567.14,
+    "std_amount": 6348.14,
+    "known_devices": [
+      "android-a",
+      "android-b",
+      "ios-a",
+      "web-chrome",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Chennai",
+      "Delhi",
+      "Hyderabad",
+      "Jaipur",
+      "Nagpur",
+      "Pune"
+    ]
+  },
+  "U00490": {
+    "txn_count": 74,
+    "mean_amount": 1689.11,
+    "std_amount": 4403.82,
+    "known_devices": [
+      "android-a",
+      "ios-a",
+      "ios-b",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Chennai",
+      "Delhi",
+      "Jaipur",
+      "Mumbai",
+      "Pune"
+    ]
+  },
+  "U01128": {
+    "txn_count": 73,
+    "mean_amount": 8154.1,
+    "std_amount": 8137.27,
+    "known_devices": [
+      "android-a",
+      "ios-a",
+      "ios-b",
+      "unk-2423",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Chennai",
+      "Delhi",
+      "Hyderabad",
+      "Jaipur",
+      "Mumbai",
+      "Pune"
+    ]
+  },
+  "U00322": {
+    "txn_count": 73,
+    "mean_amount": 4389.86,
+    "std_amount": 5333.05,
+    "known_devices": [
+      "android-a",
+      "android-b",
+      "ios-b",
+      "unk-6687",
+      "web-chrome",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Chennai",
+      "Delhi",
+      "Hyderabad",
+      "Jaipur",
+      "Mumbai",
+      "Nagpur",
+      "Pune"
+    ]
+  },
+  "U00311": {
+    "txn_count": 72,
+    "mean_amount": 11034.24,
+    "std_amount": 26582.71,
+    "known_devices": [
+      "android-a",
+      "ios-a",
+      "web-chrome",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Chennai",
+      "Delhi",
+      "Nagpur",
+      "Pune"
+    ]
+  },
+  "U00930": {
+    "txn_count": 72,
+    "mean_amount": 3114.35,
+    "std_amount": 2578.21,
+    "known_devices": [
+      "android-a",
+      "ios-b",
+      "web-chrome"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Hyderabad",
+      "Jaipur",
+      "Nagpur",
+      "Pune"
+    ]
+  },
+  "U01172": {
+    "txn_count": 71,
+    "mean_amount": 3233.93,
+    "std_amount": 2993.1,
+    "known_devices": [
+      "android-a",
+      "android-b",
+      "ios-b",
+      "web-chrome",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Chennai",
+      "Delhi",
+      "Hyderabad",
+      "Jaipur",
+      "Mumbai"
+    ]
+  },
+  "U01027": {
+    "txn_count": 71,
+    "mean_amount": 1552.16,
+    "std_amount": 1613.68,
+    "known_devices": [
+      "android-b",
+      "ios-b",
+      "unk-9039",
+      "unk-9060",
+      "web-chrome",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Delhi",
+      "Hyderabad",
+      "Jaipur",
+      "Mumbai",
+      "Nagpur",
+      "Pune"
+    ]
+  },
+  "U00750": {
+    "txn_count": 70,
+    "mean_amount": 6193.4,
+    "std_amount": 6752.99,
+    "known_devices": [
+      "android-a",
+      "ios-a",
+      "ios-b",
+      "web-chrome",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Chennai",
+      "Delhi",
+      "Hyderabad",
+      "Jaipur",
+      "Mumbai",
+      "Nagpur",
+      "Pune"
+    ]
+  },
+  "U00410": {
+    "txn_count": 70,
+    "mean_amount": 3611.19,
+    "std_amount": 4631.63,
+    "known_devices": [
+      "android-a",
+      "ios-a",
+      "ios-b",
+      "unk-644",
+      "unk-8297",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Chennai",
+      "Delhi",
+      "Hyderabad",
+      "Jaipur",
+      "Mumbai",
+      "Nagpur",
+      "Pune"
+    ]
+  },
+  "U01129": {
+    "txn_count": 69,
+    "mean_amount": 4653.86,
+    "std_amount": 4482.53,
+    "known_devices": [
+      "android-a",
+      "ios-a",
+      "ios-b",
+      "unk-3486",
+      "web-chrome",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Delhi",
+      "Hyderabad",
+      "Jaipur",
+      "Mumbai",
+      "Pune"
+    ]
+  },
+  "U01088": {
+    "txn_count": 69,
+    "mean_amount": 2408.13,
+    "std_amount": 2600.43,
+    "known_devices": [
+      "android-a",
+      "android-b",
+      "ios-b",
+      "web-chrome",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Chennai",
+      "Delhi",
+      "Hyderabad",
+      "Jaipur",
+      "Pune"
+    ]
+  },
+  "U01155": {
+    "txn_count": 69,
+    "mean_amount": 6146.31,
+    "std_amount": 10293.58,
+    "known_devices": [
+      "android-a",
+      "android-b",
+      "ios-a",
+      "ios-b"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Chennai",
+      "Delhi",
+      "Hyderabad",
+      "Jaipur",
+      "Nagpur",
+      "Pune"
+    ]
+  },
+  "U00982": {
+    "txn_count": 69,
+    "mean_amount": 1073.32,
+    "std_amount": 982.53,
+    "known_devices": [
+      "android-a",
+      "android-b",
+      "ios-a",
+      "ios-b",
+      "unk-3229",
+      "web-chrome"
+    ],
+    "known_locations": [
+      "Chennai",
+      "Delhi",
+      "Hyderabad",
+      "Jaipur",
+      "Pune"
+    ]
+  },
+  "U00179": {
+    "txn_count": 69,
+    "mean_amount": 4470.16,
+    "std_amount": 5025.2,
+    "known_devices": [
+      "android-a",
+      "android-b",
+      "ios-a",
+      "unk-4815",
+      "web-chrome"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Chennai",
+      "Delhi",
+      "Hyderabad",
+      "Jaipur",
+      "Mumbai",
+      "Nagpur",
+      "Pune"
+    ]
+  },
+  "U00577": {
+    "txn_count": 68,
+    "mean_amount": 2355.9,
+    "std_amount": 4258.63,
+    "known_devices": [
+      "android-a",
+      "ios-a",
+      "ios-b",
+      "unk-3410",
+      "unk-658",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Chennai",
+      "Delhi",
+      "Hyderabad",
+      "Mumbai",
+      "Nagpur",
+      "Pune"
+    ]
+  },
+  "U00946": {
+    "txn_count": 68,
+    "mean_amount": 1645.86,
+    "std_amount": 2058.33,
+    "known_devices": [
+      "android-a",
+      "ios-a",
+      "ios-b",
+      "unk-6560",
+      "web-chrome",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Chennai",
+      "Delhi",
+      "Hyderabad",
+      "Jaipur",
+      "Mumbai",
+      "Nagpur",
+      "Pune"
+    ]
+  },
+  "U00451": {
+    "txn_count": 68,
+    "mean_amount": 1738.37,
+    "std_amount": 1748.22,
+    "known_devices": [
+      "android-a",
+      "ios-a",
+      "ios-b",
+      "unk-3559",
+      "web-chrome",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Chennai",
+      "Delhi",
+      "Jaipur",
+      "Mumbai",
+      "Nagpur",
+      "Pune"
+    ]
+  },
+  "U00745": {
+    "txn_count": 68,
+    "mean_amount": 4921.92,
+    "std_amount": 5777.09,
+    "known_devices": [
+      "android-b",
+      "ios-a",
+      "ios-b",
+      "web-chrome",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Chennai",
+      "Delhi",
+      "Hyderabad",
+      "Mumbai",
+      "Nagpur",
+      "Pune"
+    ]
+  },
+  "U00383": {
+    "txn_count": 68,
+    "mean_amount": 8216.59,
+    "std_amount": 11781.53,
+    "known_devices": [
+      "android-a",
+      "android-b",
+      "web-chrome",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Chennai",
+      "Delhi",
+      "Hyderabad",
+      "Mumbai",
+      "Nagpur",
+      "Pune"
+    ]
+  },
+  "U00069": {
+    "txn_count": 68,
+    "mean_amount": 2158.44,
+    "std_amount": 3192.14,
+    "known_devices": [
+      "ios-a",
+      "ios-b",
+      "unk-3907",
+      "unk-7896",
+      "unk-9347",
+      "web-chrome",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Chennai",
+      "Delhi",
+      "Hyderabad",
+      "Jaipur",
+      "Mumbai",
+      "Nagpur",
+      "Pune"
+    ]
+  },
+  "U00013": {
+    "txn_count": 68,
+    "mean_amount": 1385.33,
+    "std_amount": 1994.14,
+    "known_devices": [
+      "android-a",
+      "ios-a",
+      "ios-b",
+      "web-chrome",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Chennai",
+      "Jaipur",
+      "Mumbai",
+      "Nagpur",
+      "Pune"
+    ]
+  },
+  "U00409": {
+    "txn_count": 67,
+    "mean_amount": 2212.6,
+    "std_amount": 1512.39,
+    "known_devices": [
+      "android-a",
+      "android-b",
+      "ios-a",
+      "unk-5674",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Chennai",
+      "Delhi",
+      "Hyderabad",
+      "Jaipur",
+      "Nagpur",
+      "Pune"
+    ]
+  },
+  "U01006": {
+    "txn_count": 67,
+    "mean_amount": 5214.36,
+    "std_amount": 5776.87,
+    "known_devices": [
+      "android-a",
+      "android-b",
+      "ios-a",
+      "ios-b",
+      "unk-7103",
+      "web-chrome",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Delhi",
+      "Hyderabad",
+      "Jaipur",
+      "Mumbai",
+      "Nagpur",
+      "Pune"
+    ]
+  },
+  "U00385": {
+    "txn_count": 66,
+    "mean_amount": 4847.13,
+    "std_amount": 4624.02,
+    "known_devices": [
+      "android-a",
+      "android-b",
+      "ios-a",
+      "unk-7546",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Chennai",
+      "Hyderabad",
+      "Mumbai",
+      "Nagpur",
+      "Pune"
+    ]
+  },
+  "U00579": {
+    "txn_count": 66,
+    "mean_amount": 6785.07,
+    "std_amount": 8935.81,
+    "known_devices": [
+      "android-a",
+      "android-b",
+      "ios-a",
+      "ios-b",
+      "web-chrome",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Chennai",
+      "Delhi",
+      "Hyderabad",
+      "Jaipur",
+      "Nagpur",
+      "Pune"
+    ]
+  },
+  "U00581": {
+    "txn_count": 66,
+    "mean_amount": 3840.41,
+    "std_amount": 6530.81,
+    "known_devices": [
+      "android-a",
+      "ios-a",
+      "unk-2762",
+      "web-chrome",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Chennai",
+      "Delhi",
+      "Hyderabad",
+      "Mumbai",
+      "Nagpur"
+    ]
+  },
+  "U00054": {
+    "txn_count": 66,
+    "mean_amount": 14386.93,
+    "std_amount": 17935.95,
+    "known_devices": [
+      "android-a",
+      "android-b",
+      "unk-64",
+      "web-chrome"
+    ],
+    "known_locations": [
+      "Chennai",
+      "Hyderabad",
+      "Jaipur",
+      "Mumbai",
+      "Nagpur",
+      "Pune"
+    ]
+  },
+  "U00617": {
+    "txn_count": 66,
+    "mean_amount": 3372.06,
+    "std_amount": 3033.98,
+    "known_devices": [
+      "android-b",
+      "ios-a",
+      "ios-b",
+      "web-chrome",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Chennai",
+      "Delhi",
+      "Mumbai",
+      "Nagpur",
+      "Pune"
+    ]
+  },
+  "U00878": {
+    "txn_count": 66,
+    "mean_amount": 5211.5,
+    "std_amount": 10697.5,
+    "known_devices": [
+      "android-a",
+      "android-b",
+      "ios-a",
+      "ios-b",
+      "unk-9581",
+      "web-chrome",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Chennai",
+      "Delhi",
+      "Hyderabad",
+      "Jaipur",
+      "Mumbai",
+      "Nagpur",
+      "Pune"
+    ]
+  },
+  "U00208": {
+    "txn_count": 66,
+    "mean_amount": 6404.14,
+    "std_amount": 14031.57,
+    "known_devices": [
+      "android-b",
+      "ios-a",
+      "ios-b",
+      "unk-7718",
+      "web-chrome"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Chennai",
+      "Delhi",
+      "Hyderabad",
+      "Nagpur",
+      "Pune"
+    ]
+  },
+  "U00589": {
+    "txn_count": 66,
+    "mean_amount": 2779.06,
+    "std_amount": 2772.85,
+    "known_devices": [
+      "android-a",
+      "android-b",
+      "ios-a",
+      "ios-b",
+      "unk-1986",
+      "unk-5677",
+      "web-chrome",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Chennai",
+      "Hyderabad",
+      "Mumbai",
+      "Nagpur"
+    ]
+  },
+  "U00230": {
+    "txn_count": 66,
+    "mean_amount": 7215.82,
+    "std_amount": 7654.33,
+    "known_devices": [
+      "android-a",
+      "android-b",
+      "ios-a",
+      "ios-b",
+      "unk-1227",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Chennai",
+      "Jaipur",
+      "Pune"
+    ]
+  },
+  "U00154": {
+    "txn_count": 65,
+    "mean_amount": 737.01,
+    "std_amount": 894.07,
+    "known_devices": [
+      "android-b",
+      "ios-a",
+      "ios-b",
+      "unk-6001",
+      "web-chrome",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Chennai",
+      "Delhi",
+      "Hyderabad",
+      "Jaipur",
+      "Mumbai",
+      "Nagpur",
+      "Pune"
+    ]
+  },
+  "U01072": {
+    "txn_count": 65,
+    "mean_amount": 4220.41,
+    "std_amount": 3711.66,
+    "known_devices": [
+      "android-b",
+      "ios-a",
+      "ios-b",
+      "web-chrome"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Chennai",
+      "Jaipur",
+      "Mumbai",
+      "Pune"
+    ]
+  },
+  "U00820": {
+    "txn_count": 65,
+    "mean_amount": 6272.09,
+    "std_amount": 12449.15,
+    "known_devices": [
+      "android-a",
+      "android-b",
+      "ios-a",
+      "ios-b",
+      "unk-8852",
+      "web-chrome",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Chennai",
+      "Delhi",
+      "Hyderabad",
+      "Jaipur",
+      "Mumbai",
+      "Pune"
+    ]
+  },
+  "U00962": {
+    "txn_count": 65,
+    "mean_amount": 2785.92,
+    "std_amount": 2202.71,
+    "known_devices": [
+      "android-b",
+      "ios-a",
+      "ios-b",
+      "unk-3027",
+      "web-chrome"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Chennai",
+      "Delhi",
+      "Hyderabad",
+      "Jaipur",
+      "Mumbai",
+      "Nagpur",
+      "Pune"
+    ]
+  },
+  "U00035": {
+    "txn_count": 64,
+    "mean_amount": 1583.95,
+    "std_amount": 2781.0,
+    "known_devices": [
+      "android-b",
+      "ios-a",
+      "ios-b",
+      "unk-6894",
+      "web-chrome",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Chennai",
+      "Delhi",
+      "Jaipur",
+      "Mumbai",
+      "Nagpur",
+      "Pune"
+    ]
+  },
+  "U00393": {
+    "txn_count": 64,
+    "mean_amount": 2106.48,
+    "std_amount": 1890.36,
+    "known_devices": [
+      "android-a",
+      "ios-a",
+      "ios-b",
+      "unk-3604",
+      "unk-8202",
+      "web-chrome",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Hyderabad",
+      "Jaipur",
+      "Mumbai",
+      "Nagpur",
+      "Pune"
+    ]
+  },
+  "U01090": {
+    "txn_count": 64,
+    "mean_amount": 1527.35,
+    "std_amount": 2536.55,
+    "known_devices": [
+      "android-b",
+      "ios-b",
+      "web-chrome",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Chennai",
+      "Hyderabad",
+      "Jaipur",
+      "Mumbai",
+      "Nagpur",
+      "Pune"
+    ]
+  },
+  "U01055": {
+    "txn_count": 64,
+    "mean_amount": 867.76,
+    "std_amount": 987.87,
+    "known_devices": [
+      "android-a",
+      "android-b",
+      "ios-a",
+      "ios-b",
+      "web-chrome",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Chennai",
+      "Delhi",
+      "Hyderabad",
+      "Jaipur",
+      "Mumbai",
+      "Nagpur"
+    ]
+  },
+  "U00342": {
+    "txn_count": 64,
+    "mean_amount": 3961.94,
+    "std_amount": 3717.98,
+    "known_devices": [
+      "android-a",
+      "android-b",
+      "ios-b",
+      "unk-3542",
+      "web-chrome",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Delhi",
+      "Hyderabad",
+      "Jaipur",
+      "Pune"
+    ]
+  },
+  "U01126": {
+    "txn_count": 64,
+    "mean_amount": 3713.96,
+    "std_amount": 3433.72,
+    "known_devices": [
+      "android-b",
+      "ios-a",
+      "unk-9774",
+      "web-chrome",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Chennai",
+      "Delhi",
+      "Hyderabad",
+      "Mumbai",
+      "Nagpur",
+      "Pune"
+    ]
+  },
+  "U01068": {
+    "txn_count": 63,
+    "mean_amount": 4055.09,
+    "std_amount": 5533.51,
+    "known_devices": [
+      "android-a",
+      "android-b",
+      "ios-b",
+      "web-chrome"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Chennai",
+      "Delhi",
+      "Hyderabad",
+      "Jaipur",
+      "Mumbai",
+      "Nagpur"
+    ]
+  },
+  "U00506": {
+    "txn_count": 63,
+    "mean_amount": 2304.94,
+    "std_amount": 2480.04,
+    "known_devices": [
+      "android-b",
+      "ios-b",
+      "web-chrome",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Delhi",
+      "Hyderabad",
+      "Jaipur",
+      "Mumbai",
+      "Nagpur",
+      "Pune"
+    ]
+  },
+  "U00122": {
+    "txn_count": 63,
+    "mean_amount": 728.99,
+    "std_amount": 990.75,
+    "known_devices": [
+      "android-a",
+      "android-b",
+      "ios-a",
+      "unk-8447",
+      "web-chrome",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Chennai",
+      "Delhi",
+      "Hyderabad",
+      "Jaipur",
+      "Mumbai",
+      "Nagpur"
+    ]
+  },
+  "U00428": {
+    "txn_count": 63,
+    "mean_amount": 883.79,
+    "std_amount": 800.42,
+    "known_devices": [
+      "android-b",
+      "ios-a",
+      "ios-b",
+      "web-chrome",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Chennai",
+      "Delhi",
+      "Hyderabad",
+      "Jaipur",
+      "Nagpur",
+      "Pune"
+    ]
+  },
+  "U00225": {
+    "txn_count": 63,
+    "mean_amount": 3366.88,
+    "std_amount": 6970.66,
+    "known_devices": [
+      "android-a",
+      "android-b",
+      "ios-a",
+      "unk-3079",
+      "web-chrome"
+    ],
+    "known_locations": [
+      "Chennai",
+      "Hyderabad",
+      "Nagpur",
+      "Pune"
+    ]
+  },
+  "U00020": {
+    "txn_count": 63,
+    "mean_amount": 2488.23,
+    "std_amount": 2497.21,
+    "known_devices": [
+      "android-a",
+      "android-b",
+      "ios-b",
+      "web-chrome",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Chennai",
+      "Delhi",
+      "Hyderabad",
+      "Jaipur",
+      "Mumbai",
+      "Pune"
+    ]
+  },
+  "U00142": {
+    "txn_count": 63,
+    "mean_amount": 3198.9,
+    "std_amount": 5004.63,
+    "known_devices": [
+      "android-a",
+      "android-b",
+      "ios-a",
+      "ios-b",
+      "web-chrome"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Chennai",
+      "Delhi",
+      "Hyderabad",
+      "Jaipur",
+      "Mumbai",
+      "Nagpur",
+      "Pune"
+    ]
+  },
+  "U01028": {
+    "txn_count": 63,
+    "mean_amount": 3561.13,
+    "std_amount": 5882.99,
+    "known_devices": [
+      "android-a",
+      "android-b",
+      "ios-a",
+      "ios-b",
+      "unk-6471",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Chennai",
+      "Delhi",
+      "Hyderabad",
+      "Jaipur",
+      "Mumbai",
+      "Nagpur",
+      "Pune"
+    ]
+  },
+  "U00277": {
+    "txn_count": 63,
+    "mean_amount": 3859.73,
+    "std_amount": 4640.16,
+    "known_devices": [
+      "android-a",
+      "android-b",
+      "ios-a",
+      "ios-b",
+      "unk-9309",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Chennai",
+      "Hyderabad",
+      "Mumbai",
+      "Pune"
+    ]
+  },
+  "U00918": {
+    "txn_count": 63,
+    "mean_amount": 11949.69,
+    "std_amount": 17299.81,
+    "known_devices": [
+      "android-a",
+      "ios-a",
+      "web-chrome",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Chennai",
+      "Delhi",
+      "Jaipur",
+      "Pune"
+    ]
+  },
+  "U00048": {
+    "txn_count": 63,
+    "mean_amount": 10720.86,
+    "std_amount": 10232.43,
+    "known_devices": [
+      "android-b",
+      "ios-a",
+      "ios-b",
+      "unk-6036",
+      "unk-8149",
+      "web-chrome",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Chennai",
+      "Delhi",
+      "Hyderabad",
+      "Jaipur",
+      "Mumbai",
+      "Nagpur",
+      "Pune"
+    ]
+  },
+  "U00540": {
+    "txn_count": 63,
+    "mean_amount": 3718.47,
+    "std_amount": 2848.15,
+    "known_devices": [
+      "android-b",
+      "ios-a",
+      "ios-b"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Chennai",
+      "Delhi",
+      "Hyderabad",
+      "Jaipur",
+      "Nagpur",
+      "Pune"
+    ]
+  },
+  "U00803": {
+    "txn_count": 62,
+    "mean_amount": 2166.54,
+    "std_amount": 2557.68,
+    "known_devices": [
+      "android-a",
+      "android-b",
+      "ios-a",
+      "ios-b",
+      "unk-2837",
+      "unk-3830",
+      "web-chrome",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Delhi",
+      "Jaipur",
+      "Mumbai",
+      "Nagpur",
+      "Pune"
+    ]
+  },
+  "U01175": {
+    "txn_count": 62,
+    "mean_amount": 1775.91,
+    "std_amount": 1529.48,
+    "known_devices": [
+      "android-a",
+      "android-b",
+      "ios-a",
+      "ios-b",
+      "unk-2904",
+      "unk-33",
+      "unk-7938",
+      "unk-8755",
+      "web-chrome"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Delhi",
+      "Hyderabad",
+      "Jaipur",
+      "Mumbai",
+      "Nagpur",
+      "Pune"
+    ]
+  },
+  "U00137": {
+    "txn_count": 62,
+    "mean_amount": 14988.69,
+    "std_amount": 31225.72,
+    "known_devices": [
+      "android-a",
+      "ios-a",
+      "ios-b",
+      "web-chrome",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Chennai",
+      "Delhi",
+      "Hyderabad",
+      "Jaipur",
+      "Mumbai",
+      "Pune"
+    ]
+  },
+  "U00725": {
+    "txn_count": 62,
+    "mean_amount": 1827.28,
+    "std_amount": 2895.47,
+    "known_devices": [
+      "android-a",
+      "android-b",
+      "ios-a",
+      "ios-b",
+      "unk-1697",
+      "unk-4180",
+      "unk-9614",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Delhi",
+      "Hyderabad",
+      "Pune"
+    ]
+  },
+  "U00472": {
+    "txn_count": 62,
+    "mean_amount": 1585.72,
+    "std_amount": 1486.84,
+    "known_devices": [
+      "android-a",
+      "android-b",
+      "ios-a",
+      "ios-b",
+      "unk-6036",
+      "web-chrome",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Delhi",
+      "Hyderabad",
+      "Jaipur",
+      "Mumbai",
+      "Nagpur",
+      "Pune"
+    ]
+  },
+  "U00339": {
+    "txn_count": 62,
+    "mean_amount": 1267.99,
+    "std_amount": 1404.29,
+    "known_devices": [
+      "android-b",
+      "ios-a",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Delhi",
+      "Jaipur",
+      "Mumbai",
+      "Nagpur",
+      "Pune"
+    ]
+  },
+  "U00041": {
+    "txn_count": 62,
+    "mean_amount": 2411.94,
+    "std_amount": 2204.52,
+    "known_devices": [
+      "android-a",
+      "android-b",
+      "ios-a",
+      "ios-b",
+      "unk-5008",
+      "web-chrome",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Chennai",
+      "Delhi",
+      "Hyderabad",
+      "Jaipur",
+      "Mumbai",
+      "Nagpur"
+    ]
+  },
+  "U00302": {
+    "txn_count": 62,
+    "mean_amount": 4955.31,
+    "std_amount": 10121.88,
+    "known_devices": [
+      "android-a",
+      "android-b",
+      "ios-a",
+      "ios-b"
+    ],
+    "known_locations": [
+      "Chennai",
+      "Delhi",
+      "Mumbai",
+      "Nagpur",
+      "Pune"
+    ]
+  },
+  "U00665": {
+    "txn_count": 62,
+    "mean_amount": 1003.21,
+    "std_amount": 760.55,
+    "known_devices": [
+      "android-a",
+      "android-b",
+      "ios-b",
+      "web-chrome"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Chennai",
+      "Hyderabad",
+      "Jaipur",
+      "Mumbai"
+    ]
+  },
+  "U00604": {
+    "txn_count": 62,
+    "mean_amount": 865.3,
+    "std_amount": 1358.41,
+    "known_devices": [
+      "android-a",
+      "android-b",
+      "ios-a",
+      "ios-b",
+      "web-chrome",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Chennai",
+      "Delhi",
+      "Hyderabad",
+      "Jaipur",
+      "Mumbai"
+    ]
+  },
+  "U00078": {
+    "txn_count": 62,
+    "mean_amount": 2283.96,
+    "std_amount": 2313.27,
+    "known_devices": [
+      "android-a",
+      "android-b",
+      "ios-a",
+      "unk-3867",
+      "unk-9347"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Chennai",
+      "Delhi",
+      "Hyderabad",
+      "Mumbai",
+      "Nagpur",
+      "Pune"
+    ]
+  },
+  "U00321": {
+    "txn_count": 62,
+    "mean_amount": 5284.22,
+    "std_amount": 5800.58,
+    "known_devices": [
+      "android-a",
+      "android-b",
+      "ios-a",
+      "ios-b",
+      "web-chrome",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Chennai",
+      "Delhi",
+      "Hyderabad",
+      "Jaipur",
+      "Nagpur",
+      "Pune"
+    ]
+  },
+  "U00388": {
+    "txn_count": 61,
+    "mean_amount": 2367.16,
+    "std_amount": 2159.99,
+    "known_devices": [
+      "android-a",
+      "android-b",
+      "ios-a",
+      "web-chrome",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Delhi",
+      "Hyderabad",
+      "Mumbai"
+    ]
+  },
+  "U00714": {
+    "txn_count": 61,
+    "mean_amount": 3089.45,
+    "std_amount": 4496.05,
+    "known_devices": [
+      "android-a",
+      "android-b",
+      "ios-b",
+      "web-chrome",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Jaipur",
+      "Mumbai",
+      "Nagpur",
+      "Pune"
+    ]
+  },
+  "U00171": {
+    "txn_count": 61,
+    "mean_amount": 6121.14,
+    "std_amount": 10179.68,
+    "known_devices": [
+      "android-a",
+      "android-b",
+      "ios-a",
+      "ios-b",
+      "unk-7934",
+      "web-chrome",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Chennai",
+      "Delhi",
+      "Hyderabad",
+      "Mumbai",
+      "Pune"
+    ]
+  },
+  "U00519": {
+    "txn_count": 61,
+    "mean_amount": 10595.99,
+    "std_amount": 14712.75,
+    "known_devices": [
+      "android-a",
+      "android-b",
+      "ios-b",
+      "web-chrome",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Delhi",
+      "Hyderabad",
+      "Jaipur",
+      "Mumbai",
+      "Pune"
+    ]
+  },
+  "U00664": {
+    "txn_count": 61,
+    "mean_amount": 1524.11,
+    "std_amount": 2395.2,
+    "known_devices": [
+      "android-a",
+      "android-b",
+      "ios-a",
+      "ios-b",
+      "web-chrome"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Chennai",
+      "Delhi",
+      "Hyderabad",
+      "Mumbai",
+      "Nagpur",
+      "Pune"
+    ]
+  },
+  "U01002": {
+    "txn_count": 61,
+    "mean_amount": 13649.44,
+    "std_amount": 12777.41,
+    "known_devices": [
+      "android-a",
+      "android-b",
+      "ios-a",
+      "ios-b",
+      "web-chrome",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Delhi",
+      "Mumbai",
+      "Nagpur",
+      "Pune"
+    ]
+  },
+  "U00622": {
+    "txn_count": 61,
+    "mean_amount": 12652.09,
+    "std_amount": 25654.26,
+    "known_devices": [
+      "android-a",
+      "android-b",
+      "ios-a",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Chennai",
+      "Delhi",
+      "Hyderabad",
+      "Jaipur",
+      "Mumbai",
+      "Pune"
+    ]
+  },
+  "U00832": {
+    "txn_count": 60,
+    "mean_amount": 7069.84,
+    "std_amount": 6923.09,
+    "known_devices": [
+      "android-a",
+      "android-b",
+      "ios-a",
+      "ios-b",
+      "web-chrome",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Chennai",
+      "Hyderabad",
+      "Jaipur",
+      "Mumbai",
+      "Nagpur"
+    ]
+  },
+  "U00624": {
+    "txn_count": 60,
+    "mean_amount": 2480.11,
+    "std_amount": 1707.7,
+    "known_devices": [
+      "android-a",
+      "android-b",
+      "ios-a",
+      "ios-b",
+      "web-chrome",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Delhi",
+      "Hyderabad",
+      "Mumbai",
+      "Nagpur"
+    ]
+  },
+  "U00776": {
+    "txn_count": 60,
+    "mean_amount": 4999.61,
+    "std_amount": 6284.87,
+    "known_devices": [
+      "android-b",
+      "ios-a",
+      "ios-b",
+      "unk-2888",
+      "unk-6579",
+      "web-chrome",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Chennai",
+      "Delhi",
+      "Hyderabad",
+      "Nagpur"
+    ]
+  },
+  "U00042": {
+    "txn_count": 60,
+    "mean_amount": 1703.15,
+    "std_amount": 1240.92,
+    "known_devices": [
+      "android-a",
+      "android-b",
+      "ios-a",
+      "ios-b",
+      "unk-8062"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Chennai",
+      "Delhi",
+      "Jaipur",
+      "Mumbai",
+      "Nagpur",
+      "Pune"
+    ]
+  },
+  "U00592": {
+    "txn_count": 60,
+    "mean_amount": 6859.58,
+    "std_amount": 15046.1,
+    "known_devices": [
+      "android-a",
+      "android-b",
+      "ios-b",
+      "web-chrome",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Delhi",
+      "Hyderabad",
+      "Jaipur",
+      "Mumbai",
+      "Nagpur"
+    ]
+  },
+  "U00021": {
+    "txn_count": 60,
+    "mean_amount": 2008.84,
+    "std_amount": 2600.03,
+    "known_devices": [
+      "android-a",
+      "android-b",
+      "ios-a",
+      "web-chrome",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Chennai",
+      "Delhi",
+      "Hyderabad",
+      "Jaipur",
+      "Mumbai",
+      "Nagpur",
+      "Pune"
+    ]
+  },
+  "U01095": {
+    "txn_count": 60,
+    "mean_amount": 7505.42,
+    "std_amount": 18340.91,
+    "known_devices": [
+      "android-a",
+      "ios-b",
+      "web-chrome",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Delhi",
+      "Hyderabad",
+      "Jaipur",
+      "Mumbai",
+      "Nagpur",
+      "Pune"
+    ]
+  },
+  "U00030": {
+    "txn_count": 60,
+    "mean_amount": 819.97,
+    "std_amount": 708.8,
+    "known_devices": [
+      "android-a",
+      "android-b",
+      "ios-a",
+      "ios-b",
+      "unk-1585",
+      "unk-7366",
+      "web-chrome"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Chennai",
+      "Delhi",
+      "Jaipur",
+      "Mumbai",
+      "Pune"
+    ]
+  },
+  "U00346": {
+    "txn_count": 60,
+    "mean_amount": 9541.51,
+    "std_amount": 9110.24,
+    "known_devices": [
+      "android-b",
+      "ios-a",
+      "unk-398",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Delhi",
+      "Hyderabad",
+      "Jaipur",
+      "Nagpur"
+    ]
+  },
+  "U01016": {
+    "txn_count": 60,
+    "mean_amount": 2121.94,
+    "std_amount": 1974.29,
+    "known_devices": [
+      "android-a",
+      "android-b",
+      "ios-a",
+      "unk-3289",
+      "web-chrome",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Chennai",
+      "Delhi",
+      "Jaipur",
+      "Nagpur",
+      "Pune"
+    ]
+  },
+  "U00263": {
+    "txn_count": 60,
+    "mean_amount": 5335.65,
+    "std_amount": 8602.33,
+    "known_devices": [
+      "android-a",
+      "ios-a",
+      "ios-b",
+      "unk-138",
+      "unk-5783",
+      "web-chrome"
+    ],
+    "known_locations": [
+      "Chennai",
+      "Delhi",
+      "Hyderabad",
+      "Jaipur",
+      "Mumbai",
+      "Nagpur",
+      "Pune"
+    ]
+  },
+  "U01093": {
+    "txn_count": 60,
+    "mean_amount": 3662.04,
+    "std_amount": 4077.99,
+    "known_devices": [
+      "android-a",
+      "android-b",
+      "ios-a",
+      "ios-b",
+      "unk-1180",
+      "unk-7728",
+      "web-chrome",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Chennai",
+      "Delhi",
+      "Hyderabad",
+      "Jaipur",
+      "Mumbai",
+      "Pune"
+    ]
+  },
+  "U01196": {
+    "txn_count": 60,
+    "mean_amount": 1138.09,
+    "std_amount": 931.6,
+    "known_devices": [
+      "android-a",
+      "android-b",
+      "ios-a",
+      "ios-b",
+      "web-chrome",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Chennai",
+      "Jaipur",
+      "Mumbai",
+      "Pune"
+    ]
+  },
+  "U00240": {
+    "txn_count": 59,
+    "mean_amount": 678.46,
+    "std_amount": 604.54,
+    "known_devices": [
+      "android-b",
+      "ios-a",
+      "ios-b",
+      "unk-8163",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Delhi",
+      "Hyderabad",
+      "Jaipur",
+      "Mumbai",
+      "Pune"
+    ]
+  },
+  "U00155": {
+    "txn_count": 59,
+    "mean_amount": 5960.41,
+    "std_amount": 6880.19,
+    "known_devices": [
+      "android-a",
+      "android-b",
+      "ios-a",
+      "unk-1033",
+      "unk-9857",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Delhi",
+      "Hyderabad",
+      "Jaipur",
+      "Mumbai",
+      "Nagpur",
+      "Pune"
+    ]
+  },
+  "U01170": {
+    "txn_count": 59,
+    "mean_amount": 2082.97,
+    "std_amount": 2891.42,
+    "known_devices": [
+      "android-b",
+      "ios-a",
+      "ios-b",
+      "web-chrome",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Chennai",
+      "Delhi",
+      "Hyderabad",
+      "Nagpur",
+      "Pune"
+    ]
+  },
+  "U00752": {
+    "txn_count": 59,
+    "mean_amount": 5005.85,
+    "std_amount": 8250.89,
+    "known_devices": [
+      "android-a",
+      "android-b",
+      "ios-a",
+      "ios-b",
+      "unk-8348",
+      "web-chrome",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Chennai",
+      "Delhi",
+      "Jaipur",
+      "Mumbai",
+      "Pune"
+    ]
+  },
+  "U00609": {
+    "txn_count": 59,
+    "mean_amount": 995.89,
+    "std_amount": 1207.18,
+    "known_devices": [
+      "android-a",
+      "ios-a",
+      "ios-b",
+      "unk-8928",
+      "web-chrome",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Chennai",
+      "Hyderabad",
+      "Jaipur",
+      "Mumbai",
+      "Nagpur",
+      "Pune"
+    ]
+  },
+  "U00853": {
+    "txn_count": 59,
+    "mean_amount": 1927.22,
+    "std_amount": 1926.91,
+    "known_devices": [
+      "android-b",
+      "ios-a",
+      "unk-6408",
+      "unk-8857",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Chennai",
+      "Hyderabad",
+      "Jaipur",
+      "Pune"
+    ]
+  },
+  "U00289": {
+    "txn_count": 59,
+    "mean_amount": 2017.38,
+    "std_amount": 2738.27,
+    "known_devices": [
+      "android-b",
+      "ios-a",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Chennai",
+      "Delhi",
+      "Jaipur",
+      "Mumbai",
+      "Nagpur",
+      "Pune"
+    ]
+  },
+  "U00549": {
+    "txn_count": 59,
+    "mean_amount": 1647.63,
+    "std_amount": 2126.76,
+    "known_devices": [
+      "android-a",
+      "android-b",
+      "ios-a",
+      "ios-b",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Chennai",
+      "Delhi",
+      "Hyderabad",
+      "Jaipur",
+      "Nagpur",
+      "Pune"
+    ]
+  },
+  "U00280": {
+    "txn_count": 59,
+    "mean_amount": 4457.37,
+    "std_amount": 10119.13,
+    "known_devices": [
+      "android-b",
+      "ios-a",
+      "ios-b",
+      "unk-1698",
+      "unk-352",
+      "web-chrome",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Chennai",
+      "Hyderabad",
+      "Jaipur",
+      "Mumbai"
+    ]
+  },
+  "U01145": {
+    "txn_count": 59,
+    "mean_amount": 675.17,
+    "std_amount": 1942.24,
+    "known_devices": [
+      "android-a",
+      "android-b",
+      "ios-a",
+      "unk-3183",
+      "web-chrome"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Chennai",
+      "Delhi",
+      "Hyderabad",
+      "Jaipur",
+      "Nagpur",
+      "Pune"
+    ]
+  },
+  "U00091": {
+    "txn_count": 59,
+    "mean_amount": 3464.63,
+    "std_amount": 3066.98,
+    "known_devices": [
+      "android-a",
+      "android-b",
+      "ios-a",
+      "ios-b",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Delhi",
+      "Jaipur",
+      "Mumbai",
+      "Nagpur"
+    ]
+  },
+  "U01092": {
+    "txn_count": 59,
+    "mean_amount": 6240.6,
+    "std_amount": 4929.21,
+    "known_devices": [
+      "android-a",
+      "ios-a",
+      "ios-b",
+      "web-chrome",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Chennai",
+      "Hyderabad",
+      "Jaipur",
+      "Mumbai",
+      "Nagpur",
+      "Pune"
+    ]
+  },
+  "U00691": {
+    "txn_count": 59,
+    "mean_amount": 11539.53,
+    "std_amount": 31421.19,
+    "known_devices": [
+      "android-a",
+      "android-b",
+      "ios-a",
+      "ios-b",
+      "web-chrome",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Chennai",
+      "Hyderabad",
+      "Jaipur",
+      "Mumbai",
+      "Nagpur",
+      "Pune"
+    ]
+  },
+  "U00071": {
+    "txn_count": 59,
+    "mean_amount": 1535.29,
+    "std_amount": 1666.83,
+    "known_devices": [
+      "android-a",
+      "android-b",
+      "ios-a",
+      "ios-b",
+      "web-chrome",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Chennai",
+      "Delhi",
+      "Hyderabad",
+      "Jaipur",
+      "Nagpur",
+      "Pune"
+    ]
+  },
+  "U00465": {
+    "txn_count": 59,
+    "mean_amount": 17085.36,
+    "std_amount": 39464.69,
+    "known_devices": [
+      "android-a",
+      "ios-b",
+      "unk-3930",
+      "unk-6522",
+      "web-chrome"
+    ],
+    "known_locations": [
+      "Chennai",
+      "Delhi",
+      "Jaipur",
+      "Mumbai",
+      "Nagpur",
+      "Pune"
+    ]
+  },
+  "U00076": {
+    "txn_count": 59,
+    "mean_amount": 1094.14,
+    "std_amount": 870.37,
+    "known_devices": [
+      "android-a",
+      "ios-a",
+      "ios-b",
+      "web-chrome",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Chennai",
+      "Delhi",
+      "Hyderabad",
+      "Jaipur",
+      "Mumbai",
+      "Pune"
+    ]
+  },
+  "U00730": {
+    "txn_count": 59,
+    "mean_amount": 1584.31,
+    "std_amount": 1334.23,
+    "known_devices": [
+      "android-b",
+      "ios-b",
+      "web-chrome",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Hyderabad",
+      "Jaipur",
+      "Mumbai",
+      "Nagpur",
+      "Pune"
+    ]
+  },
+  "U00047": {
+    "txn_count": 59,
+    "mean_amount": 4520.84,
+    "std_amount": 4728.26,
+    "known_devices": [
+      "android-a",
+      "ios-b",
+      "web-chrome",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Chennai",
+      "Delhi",
+      "Hyderabad",
+      "Jaipur",
+      "Mumbai",
+      "Nagpur",
+      "Pune"
+    ]
+  },
+  "U00119": {
+    "txn_count": 59,
+    "mean_amount": 2915.68,
+    "std_amount": 3604.26,
+    "known_devices": [
+      "android-a",
+      "ios-a",
+      "ios-b",
+      "unk-272",
+      "unk-2788",
+      "unk-489",
+      "web-chrome"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Chennai",
+      "Delhi",
+      "Hyderabad",
+      "Mumbai",
+      "Nagpur",
+      "Pune"
+    ]
+  },
+  "U01151": {
+    "txn_count": 58,
+    "mean_amount": 7895.11,
+    "std_amount": 12265.02,
+    "known_devices": [
+      "android-a",
+      "ios-a",
+      "ios-b",
+      "web-chrome"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Delhi",
+      "Hyderabad",
+      "Mumbai",
+      "Pune"
+    ]
+  },
+  "U00885": {
+    "txn_count": 58,
+    "mean_amount": 1805.46,
+    "std_amount": 3633.67,
+    "known_devices": [
+      "android-a",
+      "android-b",
+      "ios-a",
+      "ios-b",
+      "web-chrome",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Chennai",
+      "Delhi",
+      "Hyderabad",
+      "Jaipur",
+      "Nagpur",
+      "Pune"
+    ]
+  },
+  "U00489": {
+    "txn_count": 58,
+    "mean_amount": 950.66,
+    "std_amount": 1159.32,
+    "known_devices": [
+      "android-a",
+      "ios-a",
+      "ios-b",
+      "web-chrome",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Chennai",
+      "Delhi",
+      "Hyderabad",
+      "Jaipur",
+      "Mumbai",
+      "Nagpur"
+    ]
+  },
+  "U01008": {
+    "txn_count": 58,
+    "mean_amount": 6482.31,
+    "std_amount": 12309.69,
+    "known_devices": [
+      "android-a",
+      "android-b",
+      "ios-a",
+      "ios-b",
+      "unk-2790",
+      "web-chrome",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Chennai",
+      "Delhi",
+      "Hyderabad",
+      "Jaipur",
+      "Mumbai",
+      "Nagpur",
+      "Pune"
+    ]
+  },
+  "U00636": {
+    "txn_count": 58,
+    "mean_amount": 1805.02,
+    "std_amount": 3151.21,
+    "known_devices": [
+      "android-a",
+      "android-b",
+      "ios-a",
+      "ios-b",
+      "unk-766",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Delhi",
+      "Hyderabad",
+      "Mumbai",
+      "Nagpur",
+      "Pune"
+    ]
+  },
+  "U00249": {
+    "txn_count": 58,
+    "mean_amount": 4390.77,
+    "std_amount": 7165.93,
+    "known_devices": [
+      "android-a",
+      "android-b",
+      "ios-b",
+      "web-chrome",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Delhi",
+      "Jaipur",
+      "Nagpur",
+      "Pune"
+    ]
+  },
+  "U00663": {
+    "txn_count": 58,
+    "mean_amount": 2974.84,
+    "std_amount": 2549.03,
+    "known_devices": [
+      "android-a",
+      "ios-a",
+      "ios-b",
+      "web-chrome",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Hyderabad",
+      "Mumbai",
+      "Nagpur",
+      "Pune"
+    ]
+  },
+  "U00699": {
+    "txn_count": 58,
+    "mean_amount": 2665.3,
+    "std_amount": 2681.91,
+    "known_devices": [
+      "android-a",
+      "android-b",
+      "ios-a",
+      "unk-640"
+    ],
+    "known_locations": [
+      "Chennai",
+      "Delhi",
+      "Hyderabad",
+      "Jaipur",
+      "Mumbai",
+      "Pune"
+    ]
+  },
+  "U01195": {
+    "txn_count": 58,
+    "mean_amount": 1216.42,
+    "std_amount": 1467.76,
+    "known_devices": [
+      "ios-a",
+      "ios-b",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Chennai",
+      "Delhi",
+      "Jaipur",
+      "Nagpur",
+      "Pune"
+    ]
+  },
+  "U00043": {
+    "txn_count": 58,
+    "mean_amount": 2863.11,
+    "std_amount": 3182.55,
+    "known_devices": [
+      "android-b",
+      "ios-b",
+      "unk-4108",
+      "unk-9368",
+      "web-chrome",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Hyderabad",
+      "Jaipur",
+      "Mumbai",
+      "Nagpur"
+    ]
+  },
+  "U00274": {
+    "txn_count": 58,
+    "mean_amount": 1161.84,
+    "std_amount": 1076.6,
+    "known_devices": [
+      "android-a",
+      "android-b",
+      "ios-a",
+      "ios-b",
+      "web-chrome",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Chennai",
+      "Hyderabad",
+      "Jaipur",
+      "Nagpur",
+      "Pune"
+    ]
+  },
+  "U00473": {
+    "txn_count": 58,
+    "mean_amount": 729.27,
+    "std_amount": 744.73,
+    "known_devices": [
+      "android-b",
+      "ios-b",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Chennai",
+      "Delhi",
+      "Jaipur",
+      "Mumbai"
+    ]
+  },
+  "U00191": {
+    "txn_count": 58,
+    "mean_amount": 1368.95,
+    "std_amount": 1320.68,
+    "known_devices": [
+      "android-b",
+      "ios-a",
+      "ios-b",
+      "web-chrome",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Chennai",
+      "Delhi",
+      "Hyderabad",
+      "Jaipur",
+      "Mumbai",
+      "Nagpur",
+      "Pune"
+    ]
+  },
+  "U00546": {
+    "txn_count": 57,
+    "mean_amount": 3409.3,
+    "std_amount": 4840.66,
+    "known_devices": [
+      "android-a",
+      "android-b",
+      "ios-a",
+      "ios-b",
+      "unk-6015",
+      "web-chrome",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Chennai",
+      "Delhi",
+      "Hyderabad",
+      "Jaipur",
+      "Mumbai",
+      "Nagpur",
+      "Pune"
+    ]
+  },
+  "U00785": {
+    "txn_count": 57,
+    "mean_amount": 4348.67,
+    "std_amount": 7305.9,
+    "known_devices": [
+      "android-a",
+      "ios-a",
+      "ios-b",
+      "web-chrome",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Delhi",
+      "Mumbai"
+    ]
+  },
+  "U00431": {
+    "txn_count": 57,
+    "mean_amount": 2613.57,
+    "std_amount": 4598.7,
+    "known_devices": [
+      "android-a",
+      "ios-a",
+      "unk-299",
+      "unk-3463",
+      "unk-395",
+      "web-chrome",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Chennai",
+      "Hyderabad",
+      "Jaipur",
+      "Mumbai",
+      "Pune"
+    ]
+  },
+  "U00602": {
+    "txn_count": 57,
+    "mean_amount": 2907.43,
+    "std_amount": 2877.18,
+    "known_devices": [
+      "android-a",
+      "ios-b",
+      "web-chrome",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Delhi",
+      "Hyderabad",
+      "Mumbai",
+      "Nagpur",
+      "Pune"
+    ]
+  },
+  "U00824": {
+    "txn_count": 57,
+    "mean_amount": 10376.1,
+    "std_amount": 9234.76,
+    "known_devices": [
+      "android-a",
+      "ios-b",
+      "unk-8383",
+      "web-chrome"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Delhi",
+      "Hyderabad",
+      "Jaipur",
+      "Mumbai",
+      "Nagpur",
+      "Pune"
+    ]
+  },
+  "U01071": {
+    "txn_count": 57,
+    "mean_amount": 2581.05,
+    "std_amount": 2163.81,
+    "known_devices": [
+      "android-a",
+      "android-b",
+      "ios-a",
+      "ios-b",
+      "web-chrome",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Jaipur",
+      "Mumbai",
+      "Nagpur",
+      "Pune"
+    ]
+  },
+  "U00468": {
+    "txn_count": 57,
+    "mean_amount": 1038.09,
+    "std_amount": 1177.46,
+    "known_devices": [
+      "android-a",
+      "android-b",
+      "ios-a",
+      "ios-b",
+      "unk-6531",
+      "unk-929",
+      "web-chrome",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Chennai",
+      "Hyderabad",
+      "Jaipur",
+      "Mumbai",
+      "Nagpur",
+      "Pune"
+    ]
+  },
+  "U01132": {
+    "txn_count": 57,
+    "mean_amount": 13479.0,
+    "std_amount": 27582.06,
+    "known_devices": [
+      "android-a",
+      "android-b",
+      "ios-a",
+      "ios-b",
+      "web-chrome",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Chennai",
+      "Delhi",
+      "Jaipur",
+      "Mumbai",
+      "Nagpur",
+      "Pune"
+    ]
+  },
+  "U00793": {
+    "txn_count": 57,
+    "mean_amount": 8388.91,
+    "std_amount": 8153.27,
+    "known_devices": [
+      "android-a",
+      "ios-a",
+      "ios-b",
+      "unk-6814",
+      "web-chrome",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Chennai",
+      "Delhi",
+      "Mumbai",
+      "Pune"
+    ]
+  },
+  "U00352": {
+    "txn_count": 57,
+    "mean_amount": 3178.79,
+    "std_amount": 2553.51,
+    "known_devices": [
+      "android-a",
+      "android-b",
+      "unk-5920",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Chennai",
+      "Delhi",
+      "Hyderabad",
+      "Jaipur",
+      "Mumbai",
+      "Nagpur",
+      "Pune"
+    ]
+  },
+  "U00621": {
+    "txn_count": 57,
+    "mean_amount": 11084.81,
+    "std_amount": 14288.97,
+    "known_devices": [
+      "android-a",
+      "ios-a",
+      "ios-b",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Delhi",
+      "Hyderabad",
+      "Mumbai",
+      "Nagpur",
+      "Pune"
+    ]
+  },
+  "U00397": {
+    "txn_count": 57,
+    "mean_amount": 1765.46,
+    "std_amount": 1908.09,
+    "known_devices": [
+      "android-a",
+      "android-b",
+      "ios-a",
+      "ios-b",
+      "unk-5187",
+      "unk-7767",
+      "web-chrome"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Delhi",
+      "Hyderabad",
+      "Jaipur",
+      "Mumbai",
+      "Nagpur",
+      "Pune"
+    ]
+  },
+  "U01014": {
+    "txn_count": 57,
+    "mean_amount": 4234.51,
+    "std_amount": 8948.63,
+    "known_devices": [
+      "android-a",
+      "android-b",
+      "web-chrome",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Chennai",
+      "Delhi",
+      "Jaipur",
+      "Mumbai",
+      "Nagpur",
+      "Pune"
+    ]
+  },
+  "U00305": {
+    "txn_count": 57,
+    "mean_amount": 5732.87,
+    "std_amount": 7223.33,
+    "known_devices": [
+      "android-a",
+      "android-b",
+      "ios-a",
+      "unk-1938",
+      "web-chrome"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Chennai",
+      "Delhi",
+      "Hyderabad",
+      "Jaipur",
+      "Mumbai",
+      "Pune"
+    ]
+  },
+  "U00887": {
+    "txn_count": 57,
+    "mean_amount": 7935.9,
+    "std_amount": 10760.03,
+    "known_devices": [
+      "android-a",
+      "android-b",
+      "ios-a",
+      "ios-b",
+      "web-chrome",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Chennai",
+      "Delhi",
+      "Hyderabad",
+      "Jaipur",
+      "Mumbai",
+      "Nagpur"
+    ]
+  },
+  "U00040": {
+    "txn_count": 57,
+    "mean_amount": 3269.97,
+    "std_amount": 5437.04,
+    "known_devices": [
+      "android-a",
+      "android-b",
+      "web-chrome",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Delhi",
+      "Hyderabad",
+      "Jaipur",
+      "Mumbai",
+      "Nagpur",
+      "Pune"
+    ]
+  },
+  "U00161": {
+    "txn_count": 56,
+    "mean_amount": 11718.7,
+    "std_amount": 24626.84,
+    "known_devices": [
+      "android-a",
+      "android-b",
+      "ios-a",
+      "ios-b",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Delhi",
+      "Hyderabad",
+      "Jaipur",
+      "Mumbai"
+    ]
+  },
+  "U00145": {
+    "txn_count": 56,
+    "mean_amount": 2466.84,
+    "std_amount": 2572.55,
+    "known_devices": [
+      "android-a",
+      "android-b",
+      "ios-a",
+      "ios-b",
+      "unk-8167",
+      "web-chrome",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Hyderabad",
+      "Jaipur",
+      "Mumbai",
+      "Nagpur"
+    ]
+  },
+  "U00810": {
+    "txn_count": 56,
+    "mean_amount": 2648.32,
+    "std_amount": 4621.21,
+    "known_devices": [
+      "ios-a",
+      "ios-b",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Chennai",
+      "Delhi",
+      "Hyderabad",
+      "Jaipur",
+      "Mumbai"
+    ]
+  },
+  "U00169": {
+    "txn_count": 56,
+    "mean_amount": 5329.35,
+    "std_amount": 5603.59,
+    "known_devices": [
+      "android-a",
+      "android-b",
+      "ios-b",
+      "unk-1595",
+      "unk-479",
+      "web-chrome"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Delhi",
+      "Hyderabad",
+      "Jaipur",
+      "Mumbai",
+      "Pune"
+    ]
+  },
+  "U00914": {
+    "txn_count": 56,
+    "mean_amount": 2952.8,
+    "std_amount": 4048.88,
+    "known_devices": [
+      "android-a",
+      "android-b",
+      "ios-a",
+      "unk-2971",
+      "web-chrome",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Chennai",
+      "Delhi",
+      "Hyderabad",
+      "Jaipur",
+      "Mumbai",
+      "Nagpur",
+      "Pune"
+    ]
+  },
+  "U00168": {
+    "txn_count": 56,
+    "mean_amount": 2853.98,
+    "std_amount": 3518.53,
+    "known_devices": [
+      "ios-a",
+      "ios-b",
+      "unk-3180",
+      "unk-4720",
+      "web-chrome"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Chennai",
+      "Delhi",
+      "Hyderabad",
+      "Jaipur",
+      "Nagpur",
+      "Pune"
+    ]
+  },
+  "U00135": {
+    "txn_count": 56,
+    "mean_amount": 4693.9,
+    "std_amount": 6777.02,
+    "known_devices": [
+      "ios-b",
+      "web-chrome",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Chennai",
+      "Delhi",
+      "Hyderabad",
+      "Jaipur",
+      "Mumbai"
+    ]
+  },
+  "U00970": {
+    "txn_count": 56,
+    "mean_amount": 1556.09,
+    "std_amount": 1524.36,
+    "known_devices": [
+      "android-a",
+      "android-b",
+      "ios-b",
+      "web-chrome",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Chennai",
+      "Delhi",
+      "Nagpur"
+    ]
+  },
+  "U00660": {
+    "txn_count": 56,
+    "mean_amount": 10320.16,
+    "std_amount": 12025.48,
+    "known_devices": [
+      "android-b",
+      "ios-a",
+      "unk-2844",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Chennai",
+      "Hyderabad",
+      "Jaipur",
+      "Mumbai",
+      "Nagpur",
+      "Pune"
+    ]
+  },
+  "U00462": {
+    "txn_count": 56,
+    "mean_amount": 387.49,
+    "std_amount": 419.51,
+    "known_devices": [
+      "android-a",
+      "android-b",
+      "ios-b",
+      "unk-864",
+      "web-chrome",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Chennai",
+      "Hyderabad",
+      "Jaipur",
+      "Mumbai",
+      "Nagpur",
+      "Pune"
+    ]
+  },
+  "U00771": {
+    "txn_count": 56,
+    "mean_amount": 781.31,
+    "std_amount": 620.97,
+    "known_devices": [
+      "android-a",
+      "android-b",
+      "ios-b",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Hyderabad",
+      "Jaipur",
+      "Mumbai",
+      "Pune"
+    ]
+  },
+  "U00434": {
+    "txn_count": 56,
+    "mean_amount": 6740.64,
+    "std_amount": 11632.66,
+    "known_devices": [
+      "android-a",
+      "android-b",
+      "ios-a",
+      "ios-b",
+      "unk-6707",
+      "web-chrome",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Delhi",
+      "Hyderabad",
+      "Mumbai",
+      "Pune"
+    ]
+  },
+  "U00424": {
+    "txn_count": 56,
+    "mean_amount": 669.49,
+    "std_amount": 569.21,
+    "known_devices": [
+      "android-b",
+      "ios-b",
+      "unk-5642",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Chennai",
+      "Delhi",
+      "Jaipur",
+      "Pune"
+    ]
+  },
+  "U00018": {
+    "txn_count": 56,
+    "mean_amount": 2190.28,
+    "std_amount": 2653.55,
+    "known_devices": [
+      "android-a",
+      "android-b",
+      "ios-a",
+      "ios-b",
+      "web-chrome"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Chennai",
+      "Delhi",
+      "Hyderabad",
+      "Jaipur",
+      "Mumbai",
+      "Nagpur",
+      "Pune"
+    ]
+  },
+  "U01156": {
+    "txn_count": 56,
+    "mean_amount": 4020.69,
+    "std_amount": 4044.79,
+    "known_devices": [
+      "android-a",
+      "android-b",
+      "unk-4878",
+      "web-chrome",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Chennai",
+      "Delhi",
+      "Hyderabad",
+      "Jaipur",
+      "Nagpur",
+      "Pune"
+    ]
+  },
+  "U00674": {
+    "txn_count": 56,
+    "mean_amount": 1162.96,
+    "std_amount": 1146.19,
+    "known_devices": [
+      "android-a",
+      "android-b",
+      "ios-a",
+      "ios-b",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Chennai",
+      "Delhi",
+      "Hyderabad",
+      "Mumbai",
+      "Pune"
+    ]
+  },
+  "U00951": {
+    "txn_count": 56,
+    "mean_amount": 1730.53,
+    "std_amount": 3494.17,
+    "known_devices": [
+      "android-a",
+      "android-b",
+      "ios-b",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Chennai",
+      "Delhi",
+      "Hyderabad",
+      "Jaipur",
+      "Mumbai",
+      "Nagpur"
+    ]
+  },
+  "U00319": {
+    "txn_count": 56,
+    "mean_amount": 4853.18,
+    "std_amount": 6298.7,
+    "known_devices": [
+      "android-a",
+      "android-b",
+      "ios-b",
+      "unk-5192",
+      "unk-6746"
+    ],
+    "known_locations": [
+      "Chennai",
+      "Delhi",
+      "Pune"
+    ]
+  },
+  "U00194": {
+    "txn_count": 56,
+    "mean_amount": 4504.52,
+    "std_amount": 5851.5,
+    "known_devices": [
+      "android-a",
+      "android-b",
+      "ios-a",
+      "unk-2001",
+      "web-chrome",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Chennai",
+      "Delhi",
+      "Mumbai",
+      "Pune"
+    ]
+  },
+  "U00488": {
+    "txn_count": 56,
+    "mean_amount": 1429.23,
+    "std_amount": 1837.13,
+    "known_devices": [
+      "android-a",
+      "ios-a",
+      "unk-4685",
+      "web-chrome",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Delhi",
+      "Hyderabad",
+      "Jaipur",
+      "Pune"
+    ]
+  },
+  "U00757": {
+    "txn_count": 56,
+    "mean_amount": 4353.71,
+    "std_amount": 4496.14,
+    "known_devices": [
+      "android-a",
+      "android-b",
+      "ios-b",
+      "unk-8404",
+      "web-chrome"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Chennai",
+      "Hyderabad",
+      "Jaipur",
+      "Mumbai",
+      "Pune"
+    ]
+  },
+  "U00226": {
+    "txn_count": 56,
+    "mean_amount": 7691.53,
+    "std_amount": 15735.03,
+    "known_devices": [
+      "android-a",
+      "ios-b",
+      "web-chrome",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Jaipur",
+      "Mumbai"
+    ]
+  },
+  "U00334": {
+    "txn_count": 56,
+    "mean_amount": 4080.17,
+    "std_amount": 9223.63,
+    "known_devices": [
+      "android-a",
+      "ios-a",
+      "unk-7012",
+      "unk-8844",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Delhi",
+      "Mumbai"
+    ]
+  },
+  "U00558": {
+    "txn_count": 56,
+    "mean_amount": 5340.64,
+    "std_amount": 5538.03,
+    "known_devices": [
+      "android-a",
+      "android-b",
+      "ios-b",
+      "unk-2168",
+      "unk-3476"
+    ],
+    "known_locations": [
+      "Chennai",
+      "Delhi",
+      "Hyderabad",
+      "Jaipur",
+      "Nagpur",
+      "Pune"
+    ]
+  },
+  "U00464": {
+    "txn_count": 55,
+    "mean_amount": 1001.68,
+    "std_amount": 984.12,
+    "known_devices": [
+      "android-a",
+      "android-b",
+      "ios-b",
+      "web-chrome",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Chennai",
+      "Delhi",
+      "Hyderabad",
+      "Jaipur",
+      "Mumbai",
+      "Nagpur",
+      "Pune"
+    ]
+  },
+  "U01102": {
+    "txn_count": 55,
+    "mean_amount": 4237.51,
+    "std_amount": 6470.92,
+    "known_devices": [
+      "android-b",
+      "ios-a",
+      "web-chrome",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Delhi",
+      "Hyderabad",
+      "Nagpur"
+    ]
+  },
+  "U01063": {
+    "txn_count": 55,
+    "mean_amount": 2607.16,
+    "std_amount": 2523.45,
+    "known_devices": [
+      "android-a",
+      "ios-b",
+      "web-chrome",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Chennai",
+      "Delhi",
+      "Hyderabad",
+      "Jaipur",
+      "Mumbai",
+      "Nagpur",
+      "Pune"
+    ]
+  },
+  "U00735": {
+    "txn_count": 55,
+    "mean_amount": 2523.18,
+    "std_amount": 2333.28,
+    "known_devices": [
+      "android-b",
+      "ios-a",
+      "ios-b",
+      "web-chrome",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Hyderabad",
+      "Mumbai",
+      "Nagpur"
+    ]
+  },
+  "U00969": {
+    "txn_count": 55,
+    "mean_amount": 7887.15,
+    "std_amount": 14942.83,
+    "known_devices": [
+      "android-a",
+      "ios-a",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Chennai",
+      "Jaipur",
+      "Mumbai",
+      "Pune"
+    ]
+  },
+  "U00538": {
+    "txn_count": 55,
+    "mean_amount": 7722.05,
+    "std_amount": 22753.7,
+    "known_devices": [
+      "android-a",
+      "android-b",
+      "ios-a",
+      "ios-b",
+      "web-chrome",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Chennai",
+      "Delhi",
+      "Hyderabad",
+      "Jaipur",
+      "Nagpur",
+      "Pune"
+    ]
+  },
+  "U00162": {
+    "txn_count": 55,
+    "mean_amount": 3854.06,
+    "std_amount": 6074.55,
+    "known_devices": [
+      "android-a",
+      "android-b",
+      "ios-a",
+      "unk-2018",
+      "unk-7992",
+      "web-chrome",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Chennai",
+      "Delhi",
+      "Hyderabad",
+      "Jaipur",
+      "Mumbai",
+      "Pune"
+    ]
+  },
+  "U01076": {
+    "txn_count": 55,
+    "mean_amount": 1478.39,
+    "std_amount": 1648.1,
+    "known_devices": [
+      "android-b",
+      "ios-b",
+      "unk-2598",
+      "unk-3518",
+      "web-chrome",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Chennai",
+      "Delhi",
+      "Hyderabad",
+      "Mumbai",
+      "Pune"
+    ]
+  },
+  "U00906": {
+    "txn_count": 55,
+    "mean_amount": 1407.39,
+    "std_amount": 1163.87,
+    "known_devices": [
+      "android-a",
+      "android-b",
+      "unk-526",
+      "unk-7023",
+      "web-chrome"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Chennai",
+      "Delhi",
+      "Hyderabad",
+      "Jaipur",
+      "Mumbai",
+      "Nagpur",
+      "Pune"
+    ]
+  },
+  "U00467": {
+    "txn_count": 55,
+    "mean_amount": 1640.22,
+    "std_amount": 2500.9,
+    "known_devices": [
+      "android-a",
+      "android-b",
+      "unk-7205",
+      "web-chrome"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Chennai",
+      "Hyderabad",
+      "Mumbai",
+      "Nagpur",
+      "Pune"
+    ]
+  },
+  "U00942": {
+    "txn_count": 55,
+    "mean_amount": 740.83,
+    "std_amount": 700.8,
+    "known_devices": [
+      "android-a",
+      "android-b",
+      "ios-a",
+      "ios-b",
+      "unk-5561",
+      "web-chrome"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Chennai",
+      "Jaipur",
+      "Mumbai",
+      "Pune"
+    ]
+  },
+  "U00650": {
+    "txn_count": 55,
+    "mean_amount": 2128.4,
+    "std_amount": 3589.73,
+    "known_devices": [
+      "android-a",
+      "android-b",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Hyderabad",
+      "Mumbai",
+      "Nagpur",
+      "Pune"
+    ]
+  },
+  "U00186": {
+    "txn_count": 55,
+    "mean_amount": 2548.01,
+    "std_amount": 2584.66,
+    "known_devices": [
+      "android-a",
+      "android-b",
+      "ios-a",
+      "ios-b",
+      "unk-1066",
+      "unk-6668",
+      "web-chrome",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Chennai",
+      "Hyderabad",
+      "Jaipur",
+      "Mumbai",
+      "Nagpur",
+      "Pune"
+    ]
+  },
+  "U00051": {
+    "txn_count": 55,
+    "mean_amount": 2695.93,
+    "std_amount": 2814.84,
+    "known_devices": [
+      "android-a",
+      "android-b",
+      "ios-a",
+      "unk-2988",
+      "web-chrome",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Delhi",
+      "Hyderabad",
+      "Mumbai",
+      "Nagpur",
+      "Pune"
+    ]
+  },
+  "U00005": {
+    "txn_count": 55,
+    "mean_amount": 7515.92,
+    "std_amount": 10760.18,
+    "known_devices": [
+      "android-a",
+      "android-b",
+      "ios-a",
+      "ios-b",
+      "unk-2694",
+      "unk-2910",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Chennai",
+      "Delhi",
+      "Hyderabad",
+      "Jaipur",
+      "Mumbai",
+      "Nagpur",
+      "Pune"
+    ]
+  },
+  "U00460": {
+    "txn_count": 55,
+    "mean_amount": 2493.37,
+    "std_amount": 2894.45,
+    "known_devices": [
+      "android-a",
+      "android-b",
+      "ios-b",
+      "unk-6718",
+      "web-chrome",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Chennai",
+      "Jaipur",
+      "Nagpur",
+      "Pune"
+    ]
+  },
+  "U00798": {
+    "txn_count": 55,
+    "mean_amount": 3608.89,
+    "std_amount": 3731.56,
+    "known_devices": [
+      "ios-a",
+      "ios-b",
+      "unk-2373",
+      "web-chrome",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Chennai",
+      "Delhi",
+      "Hyderabad",
+      "Jaipur",
+      "Mumbai",
+      "Nagpur"
+    ]
+  },
+  "U00266": {
+    "txn_count": 55,
+    "mean_amount": 1375.94,
+    "std_amount": 1381.65,
+    "known_devices": [
+      "android-a",
+      "android-b",
+      "ios-a",
+      "ios-b",
+      "unk-2014",
+      "unk-7845",
+      "web-chrome"
+    ],
+    "known_locations": [
+      "Chennai",
+      "Jaipur",
+      "Mumbai",
+      "Nagpur",
+      "Pune"
+    ]
+  },
+  "U00430": {
+    "txn_count": 55,
+    "mean_amount": 5444.06,
+    "std_amount": 7045.17,
+    "known_devices": [
+      "android-a",
+      "ios-a",
+      "ios-b",
+      "unk-2042",
+      "web-chrome",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Hyderabad",
+      "Jaipur",
+      "Nagpur",
+      "Pune"
+    ]
+  },
+  "U00201": {
+    "txn_count": 55,
+    "mean_amount": 781.26,
+    "std_amount": 1403.2,
+    "known_devices": [
+      "android-a",
+      "android-b",
+      "ios-a",
+      "ios-b",
+      "unk-7400",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Chennai",
+      "Hyderabad",
+      "Nagpur",
+      "Pune"
+    ]
+  },
+  "U00438": {
+    "txn_count": 55,
+    "mean_amount": 3183.32,
+    "std_amount": 4110.76,
+    "known_devices": [
+      "android-a",
+      "android-b",
+      "ios-b",
+      "unk-566",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Chennai",
+      "Delhi",
+      "Hyderabad",
+      "Jaipur",
+      "Mumbai",
+      "Pune"
+    ]
+  },
+  "U00762": {
+    "txn_count": 55,
+    "mean_amount": 1961.98,
+    "std_amount": 2030.63,
+    "known_devices": [
+      "android-a",
+      "android-b",
+      "ios-a",
+      "unk-265",
+      "web-chrome",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Chennai",
+      "Delhi",
+      "Hyderabad",
+      "Mumbai",
+      "Nagpur"
+    ]
+  },
+  "U00939": {
+    "txn_count": 55,
+    "mean_amount": 992.92,
+    "std_amount": 1629.65,
+    "known_devices": [
+      "android-a",
+      "android-b",
+      "ios-a",
+      "web-chrome",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Delhi",
+      "Mumbai",
+      "Pune"
+    ]
+  },
+  "U00338": {
+    "txn_count": 55,
+    "mean_amount": 2185.29,
+    "std_amount": 4282.17,
+    "known_devices": [
+      "android-b",
+      "ios-a",
+      "ios-b",
+      "web-chrome",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Delhi",
+      "Hyderabad",
+      "Mumbai",
+      "Nagpur"
+    ]
+  },
+  "U00153": {
+    "txn_count": 55,
+    "mean_amount": 1653.3,
+    "std_amount": 1174.34,
+    "known_devices": [
+      "android-b",
+      "ios-a",
+      "ios-b",
+      "web-chrome",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Hyderabad",
+      "Jaipur",
+      "Mumbai",
+      "Nagpur",
+      "Pune"
+    ]
+  },
+  "U00534": {
+    "txn_count": 55,
+    "mean_amount": 1107.53,
+    "std_amount": 1093.63,
+    "known_devices": [
+      "android-b",
+      "ios-a",
+      "ios-b",
+      "unk-1839",
+      "web-chrome"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Chennai",
+      "Delhi",
+      "Jaipur",
+      "Mumbai",
+      "Pune"
+    ]
+  },
+  "U00267": {
+    "txn_count": 55,
+    "mean_amount": 7128.06,
+    "std_amount": 5557.7,
+    "known_devices": [
+      "android-b",
+      "ios-a",
+      "ios-b",
+      "unk-6086",
+      "web-chrome",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Chennai",
+      "Delhi",
+      "Mumbai",
+      "Nagpur",
+      "Pune"
+    ]
+  },
+  "U00132": {
+    "txn_count": 55,
+    "mean_amount": 1763.32,
+    "std_amount": 2014.23,
+    "known_devices": [
+      "android-b",
+      "ios-a",
+      "ios-b",
+      "unk-3941",
+      "unk-5663",
+      "unk-8053",
+      "web-chrome"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Delhi",
+      "Hyderabad",
+      "Jaipur",
+      "Mumbai",
+      "Pune"
+    ]
+  },
+  "U00065": {
+    "txn_count": 55,
+    "mean_amount": 3301.87,
+    "std_amount": 3441.19,
+    "known_devices": [
+      "android-a",
+      "android-b",
+      "ios-a",
+      "ios-b",
+      "web-chrome",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Delhi",
+      "Hyderabad",
+      "Jaipur",
+      "Nagpur"
+    ]
+  },
+  "U00485": {
+    "txn_count": 55,
+    "mean_amount": 2144.47,
+    "std_amount": 1796.43,
+    "known_devices": [
+      "android-a",
+      "android-b",
+      "ios-a",
+      "ios-b"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Delhi",
+      "Hyderabad",
+      "Jaipur"
+    ]
+  },
+  "U01189": {
+    "txn_count": 54,
+    "mean_amount": 1341.41,
+    "std_amount": 1775.39,
+    "known_devices": [
+      "android-a",
+      "ios-a",
+      "ios-b",
+      "unk-4770",
+      "unk-9704",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Chennai",
+      "Delhi",
+      "Jaipur",
+      "Mumbai",
+      "Pune"
+    ]
+  },
+  "U01087": {
+    "txn_count": 54,
+    "mean_amount": 730.39,
+    "std_amount": 954.15,
+    "known_devices": [
+      "android-a",
+      "android-b",
+      "ios-a"
+    ],
+    "known_locations": [
+      "Chennai",
+      "Delhi",
+      "Hyderabad",
+      "Jaipur",
+      "Mumbai",
+      "Pune"
+    ]
+  },
+  "U00567": {
+    "txn_count": 54,
+    "mean_amount": 4416.63,
+    "std_amount": 4646.65,
+    "known_devices": [
+      "android-a",
+      "android-b",
+      "ios-a",
+      "unk-1100",
+      "unk-3831",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Chennai",
+      "Delhi",
+      "Hyderabad",
+      "Mumbai",
+      "Pune"
+    ]
+  },
+  "U00965": {
+    "txn_count": 54,
+    "mean_amount": 3420.71,
+    "std_amount": 4425.47,
+    "known_devices": [
+      "android-a",
+      "android-b",
+      "ios-a",
+      "ios-b",
+      "web-chrome"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Chennai",
+      "Delhi",
+      "Jaipur",
+      "Mumbai",
+      "Nagpur"
+    ]
+  },
+  "U00998": {
+    "txn_count": 54,
+    "mean_amount": 1649.76,
+    "std_amount": 1890.27,
+    "known_devices": [
+      "android-a",
+      "ios-a",
+      "ios-b",
+      "web-chrome"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Chennai",
+      "Delhi",
+      "Hyderabad",
+      "Jaipur",
+      "Nagpur"
+    ]
+  },
+  "U00284": {
+    "txn_count": 54,
+    "mean_amount": 1661.89,
+    "std_amount": 1458.08,
+    "known_devices": [
+      "android-a",
+      "android-b",
+      "ios-a",
+      "ios-b",
+      "web-chrome",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Chennai",
+      "Delhi",
+      "Hyderabad",
+      "Jaipur",
+      "Nagpur",
+      "Pune"
+    ]
+  },
+  "U00480": {
+    "txn_count": 54,
+    "mean_amount": 908.87,
+    "std_amount": 869.99,
+    "known_devices": [
+      "android-a",
+      "android-b",
+      "ios-a",
+      "unk-4546",
+      "unk-6589",
+      "unk-9694",
+      "web-chrome"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Chennai",
+      "Hyderabad",
+      "Jaipur",
+      "Pune"
+    ]
+  },
+  "U00466": {
+    "txn_count": 54,
+    "mean_amount": 5068.23,
+    "std_amount": 8853.63,
+    "known_devices": [
+      "android-a",
+      "android-b",
+      "ios-b",
+      "web-chrome",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Chennai",
+      "Hyderabad",
+      "Jaipur",
+      "Mumbai",
+      "Nagpur"
+    ]
+  },
+  "U00362": {
+    "txn_count": 54,
+    "mean_amount": 2174.62,
+    "std_amount": 1900.85,
+    "known_devices": [
+      "android-a",
+      "android-b",
+      "ios-b",
+      "unk-5722",
+      "web-chrome",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Chennai",
+      "Delhi",
+      "Mumbai",
+      "Nagpur",
+      "Pune"
+    ]
+  },
+  "U00601": {
+    "txn_count": 54,
+    "mean_amount": 1944.8,
+    "std_amount": 1726.65,
+    "known_devices": [
+      "android-a",
+      "android-b",
+      "ios-a",
+      "ios-b",
+      "unk-252",
+      "unk-3330",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Chennai",
+      "Delhi",
+      "Hyderabad",
+      "Mumbai",
+      "Nagpur",
+      "Pune"
+    ]
+  },
+  "U00412": {
+    "txn_count": 54,
+    "mean_amount": 4075.94,
+    "std_amount": 3693.36,
+    "known_devices": [
+      "android-a",
+      "android-b",
+      "ios-a",
+      "ios-b",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Chennai",
+      "Delhi",
+      "Hyderabad",
+      "Jaipur",
+      "Mumbai",
+      "Nagpur"
+    ]
+  },
+  "U00693": {
+    "txn_count": 54,
+    "mean_amount": 3105.49,
+    "std_amount": 3518.8,
+    "known_devices": [
+      "android-a",
+      "android-b",
+      "ios-a",
+      "ios-b",
+      "unk-6441",
+      "web-chrome",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Delhi",
+      "Hyderabad",
+      "Mumbai",
+      "Nagpur",
+      "Pune"
+    ]
+  },
+  "U00104": {
+    "txn_count": 54,
+    "mean_amount": 5269.15,
+    "std_amount": 5629.67,
+    "known_devices": [
+      "android-a",
+      "android-b",
+      "ios-a",
+      "ios-b",
+      "unk-3292",
+      "web-chrome"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Chennai",
+      "Delhi",
+      "Hyderabad",
+      "Jaipur",
+      "Nagpur",
+      "Pune"
+    ]
+  },
+  "U00259": {
+    "txn_count": 54,
+    "mean_amount": 1484.69,
+    "std_amount": 1644.87,
+    "known_devices": [
+      "android-a",
+      "ios-a",
+      "ios-b",
+      "web-chrome",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Chennai",
+      "Delhi",
+      "Nagpur"
+    ]
+  },
+  "U00402": {
+    "txn_count": 54,
+    "mean_amount": 10066.48,
+    "std_amount": 9991.31,
+    "known_devices": [
+      "ios-a",
+      "ios-b",
+      "unk-629",
+      "web-chrome",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Chennai",
+      "Delhi",
+      "Hyderabad",
+      "Jaipur",
+      "Pune"
+    ]
+  },
+  "U00670": {
+    "txn_count": 54,
+    "mean_amount": 6306.53,
+    "std_amount": 6318.48,
+    "known_devices": [
+      "android-b",
+      "ios-a",
+      "ios-b",
+      "unk-6043",
+      "web-chrome"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Chennai",
+      "Delhi",
+      "Hyderabad",
+      "Jaipur",
+      "Mumbai",
+      "Nagpur",
+      "Pune"
+    ]
+  },
+  "U00262": {
+    "txn_count": 54,
+    "mean_amount": 2266.28,
+    "std_amount": 3410.21,
+    "known_devices": [
+      "android-a",
+      "android-b",
+      "ios-a",
+      "ios-b",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Chennai",
+      "Delhi",
+      "Hyderabad",
+      "Jaipur",
+      "Mumbai",
+      "Nagpur",
+      "Pune"
+    ]
+  },
+  "U00133": {
+    "txn_count": 54,
+    "mean_amount": 3214.35,
+    "std_amount": 4276.18,
+    "known_devices": [
+      "android-a",
+      "ios-a",
+      "ios-b",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Delhi",
+      "Jaipur",
+      "Mumbai",
+      "Nagpur",
+      "Pune"
+    ]
+  },
+  "U00253": {
+    "txn_count": 54,
+    "mean_amount": 774.44,
+    "std_amount": 832.57,
+    "known_devices": [
+      "android-a",
+      "android-b",
+      "ios-a",
+      "ios-b",
+      "unk-1500",
+      "web-chrome",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Chennai",
+      "Delhi",
+      "Jaipur",
+      "Mumbai",
+      "Nagpur",
+      "Pune"
+    ]
+  },
+  "U00801": {
+    "txn_count": 54,
+    "mean_amount": 1600.78,
+    "std_amount": 1696.69,
+    "known_devices": [
+      "android-a",
+      "android-b",
+      "ios-a",
+      "unk-2460",
+      "unk-9206",
+      "web-chrome",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Delhi",
+      "Hyderabad",
+      "Jaipur",
+      "Mumbai",
+      "Nagpur"
+    ]
+  },
+  "U00183": {
+    "txn_count": 54,
+    "mean_amount": 10199.65,
+    "std_amount": 16412.27,
+    "known_devices": [
+      "android-a",
+      "android-b",
+      "ios-a",
+      "ios-b",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Delhi",
+      "Hyderabad",
+      "Jaipur",
+      "Mumbai",
+      "Nagpur",
+      "Pune"
+    ]
+  },
+  "U01149": {
+    "txn_count": 54,
+    "mean_amount": 1851.86,
+    "std_amount": 2158.17,
+    "known_devices": [
+      "android-a",
+      "android-b",
+      "ios-a",
+      "ios-b",
+      "web-chrome"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Chennai",
+      "Hyderabad",
+      "Jaipur",
+      "Mumbai",
+      "Nagpur",
+      "Pune"
+    ]
+  },
+  "U00984": {
+    "txn_count": 54,
+    "mean_amount": 3903.9,
+    "std_amount": 3605.42,
+    "known_devices": [
+      "android-a",
+      "android-b",
+      "ios-a",
+      "ios-b",
+      "unk-1394",
+      "unk-572",
+      "web-chrome",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Chennai",
+      "Hyderabad",
+      "Jaipur",
+      "Nagpur",
+      "Pune"
+    ]
+  },
+  "U00960": {
+    "txn_count": 54,
+    "mean_amount": 7956.6,
+    "std_amount": 13515.07,
+    "known_devices": [
+      "android-a",
+      "android-b",
+      "ios-a",
+      "ios-b",
+      "web-chrome",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Chennai",
+      "Delhi",
+      "Hyderabad",
+      "Jaipur",
+      "Mumbai",
+      "Nagpur",
+      "Pune"
+    ]
+  },
+  "U00313": {
+    "txn_count": 54,
+    "mean_amount": 1806.13,
+    "std_amount": 2350.4,
+    "known_devices": [
+      "android-a",
+      "android-b",
+      "ios-b",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Delhi",
+      "Hyderabad",
+      "Mumbai",
+      "Nagpur",
+      "Pune"
+    ]
+  },
+  "U00511": {
+    "txn_count": 54,
+    "mean_amount": 5411.3,
+    "std_amount": 8385.75,
+    "known_devices": [
+      "android-a",
+      "ios-a",
+      "ios-b",
+      "web-chrome",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Chennai",
+      "Delhi",
+      "Jaipur",
+      "Mumbai",
+      "Nagpur"
+    ]
+  },
+  "U00676": {
+    "txn_count": 53,
+    "mean_amount": 532.89,
+    "std_amount": 582.01,
+    "known_devices": [
+      "android-a",
+      "unk-122",
+      "web-chrome",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Chennai",
+      "Delhi",
+      "Hyderabad"
+    ]
+  },
+  "U01121": {
+    "txn_count": 53,
+    "mean_amount": 1158.55,
+    "std_amount": 1855.7,
+    "known_devices": [
+      "android-b",
+      "ios-a",
+      "ios-b",
+      "web-chrome",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Chennai",
+      "Delhi",
+      "Hyderabad",
+      "Jaipur",
+      "Pune"
+    ]
+  },
+  "U00726": {
+    "txn_count": 53,
+    "mean_amount": 2768.81,
+    "std_amount": 3106.15,
+    "known_devices": [
+      "ios-a",
+      "ios-b",
+      "unk-5172",
+      "web-chrome",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Chennai",
+      "Delhi",
+      "Hyderabad",
+      "Jaipur",
+      "Mumbai",
+      "Nagpur",
+      "Pune"
+    ]
+  },
+  "U00729": {
+    "txn_count": 53,
+    "mean_amount": 2054.06,
+    "std_amount": 3521.84,
+    "known_devices": [
+      "android-a",
+      "ios-a",
+      "ios-b",
+      "unk-5945",
+      "web-chrome",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Chennai",
+      "Jaipur",
+      "Mumbai",
+      "Nagpur"
+    ]
+  },
+  "U01031": {
+    "txn_count": 53,
+    "mean_amount": 4902.27,
+    "std_amount": 11591.61,
+    "known_devices": [
+      "android-b",
+      "ios-a",
+      "ios-b",
+      "web-chrome",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Delhi",
+      "Jaipur",
+      "Mumbai",
+      "Nagpur",
+      "Pune"
+    ]
+  },
+  "U00792": {
+    "txn_count": 53,
+    "mean_amount": 4262.82,
+    "std_amount": 4240.87,
+    "known_devices": [
+      "android-a",
+      "android-b",
+      "ios-a",
+      "ios-b",
+      "unk-6842",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Chennai",
+      "Hyderabad",
+      "Jaipur",
+      "Mumbai",
+      "Nagpur",
+      "Pune"
+    ]
+  },
+  "U00026": {
+    "txn_count": 53,
+    "mean_amount": 1338.62,
+    "std_amount": 1470.54,
+    "known_devices": [
+      "android-a",
+      "android-b",
+      "ios-a",
+      "ios-b",
+      "web-chrome",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Chennai",
+      "Delhi",
+      "Mumbai",
+      "Nagpur",
+      "Pune"
+    ]
+  },
+  "U00517": {
+    "txn_count": 53,
+    "mean_amount": 2131.86,
+    "std_amount": 2766.51,
+    "known_devices": [
+      "android-a",
+      "android-b",
+      "ios-a",
+      "unk-65",
+      "web-chrome",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Chennai",
+      "Delhi",
+      "Hyderabad",
+      "Jaipur"
+    ]
+  },
+  "U00058": {
+    "txn_count": 53,
+    "mean_amount": 1187.19,
+    "std_amount": 3086.2,
+    "known_devices": [
+      "android-a",
+      "ios-b",
+      "unk-7555",
+      "web-chrome",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Chennai",
+      "Delhi",
+      "Hyderabad",
+      "Pune"
+    ]
+  },
+  "U00799": {
+    "txn_count": 53,
+    "mean_amount": 14971.54,
+    "std_amount": 26420.39,
+    "known_devices": [
+      "android-b",
+      "ios-a",
+      "ios-b",
+      "web-chrome",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Chennai",
+      "Delhi",
+      "Jaipur",
+      "Nagpur",
+      "Pune"
+    ]
+  },
+  "U00456": {
+    "txn_count": 53,
+    "mean_amount": 3618.02,
+    "std_amount": 5620.06,
+    "known_devices": [
+      "android-a",
+      "android-b",
+      "ios-b",
+      "web-chrome"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Chennai",
+      "Hyderabad",
+      "Jaipur",
+      "Mumbai",
+      "Nagpur",
+      "Pune"
+    ]
+  },
+  "U00307": {
+    "txn_count": 53,
+    "mean_amount": 3432.32,
+    "std_amount": 3311.08,
+    "known_devices": [
+      "android-a",
+      "android-b",
+      "ios-b",
+      "web-chrome",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Chennai",
+      "Hyderabad",
+      "Jaipur",
+      "Mumbai",
+      "Nagpur"
+    ]
+  },
+  "U00897": {
+    "txn_count": 53,
+    "mean_amount": 6265.07,
+    "std_amount": 7010.81,
+    "known_devices": [
+      "android-a",
+      "android-b",
+      "ios-a",
+      "ios-b",
+      "web-chrome",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Delhi",
+      "Jaipur",
+      "Mumbai",
+      "Nagpur",
+      "Pune"
+    ]
+  },
+  "U00528": {
+    "txn_count": 53,
+    "mean_amount": 2242.74,
+    "std_amount": 3715.47,
+    "known_devices": [
+      "android-a",
+      "ios-a",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Chennai",
+      "Jaipur",
+      "Pune"
+    ]
+  },
+  "U00080": {
+    "txn_count": 53,
+    "mean_amount": 3653.55,
+    "std_amount": 4692.02,
+    "known_devices": [
+      "android-a",
+      "ios-b",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Delhi",
+      "Hyderabad",
+      "Mumbai",
+      "Nagpur",
+      "Pune"
+    ]
+  },
+  "U00830": {
+    "txn_count": 53,
+    "mean_amount": 4996.1,
+    "std_amount": 9544.98,
+    "known_devices": [
+      "android-b",
+      "ios-a",
+      "web-chrome"
+    ],
+    "known_locations": [
+      "Chennai",
+      "Delhi",
+      "Jaipur",
+      "Mumbai",
+      "Nagpur",
+      "Pune"
+    ]
+  },
+  "U00543": {
+    "txn_count": 53,
+    "mean_amount": 913.71,
+    "std_amount": 1012.64,
+    "known_devices": [
+      "android-b",
+      "ios-a",
+      "ios-b",
+      "web-chrome"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Chennai",
+      "Delhi",
+      "Mumbai",
+      "Nagpur",
+      "Pune"
+    ]
+  },
+  "U00723": {
+    "txn_count": 53,
+    "mean_amount": 5361.7,
+    "std_amount": 6870.28,
+    "known_devices": [
+      "android-a",
+      "android-b",
+      "ios-a",
+      "ios-b",
+      "web-chrome"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Jaipur",
+      "Nagpur",
+      "Pune"
+    ]
+  },
+  "U01050": {
+    "txn_count": 53,
+    "mean_amount": 2182.55,
+    "std_amount": 1713.93,
+    "known_devices": [
+      "android-a",
+      "android-b",
+      "ios-a",
+      "ios-b",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Chennai",
+      "Delhi",
+      "Hyderabad",
+      "Jaipur",
+      "Mumbai",
+      "Pune"
+    ]
+  },
+  "U00073": {
+    "txn_count": 53,
+    "mean_amount": 2375.95,
+    "std_amount": 3740.71,
+    "known_devices": [
+      "android-b",
+      "ios-b",
+      "unk-4871",
+      "unk-7013",
+      "unk-7675",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Chennai",
+      "Delhi",
+      "Hyderabad",
+      "Jaipur",
+      "Mumbai",
+      "Nagpur"
+    ]
+  },
+  "U00411": {
+    "txn_count": 53,
+    "mean_amount": 3557.9,
+    "std_amount": 5060.02,
+    "known_devices": [
+      "android-a",
+      "android-b",
+      "ios-a",
+      "unk-8967",
+      "web-chrome"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Delhi",
+      "Hyderabad",
+      "Mumbai",
+      "Pune"
+    ]
+  },
+  "U00227": {
+    "txn_count": 53,
+    "mean_amount": 1054.69,
+    "std_amount": 1468.09,
+    "known_devices": [
+      "android-a",
+      "android-b",
+      "ios-a",
+      "ios-b",
+      "web-chrome"
+    ],
+    "known_locations": [
+      "Chennai",
+      "Delhi",
+      "Hyderabad",
+      "Mumbai",
+      "Pune"
+    ]
+  },
+  "U00769": {
+    "txn_count": 53,
+    "mean_amount": 623.84,
+    "std_amount": 565.78,
+    "known_devices": [
+      "android-a",
+      "ios-a",
+      "web-chrome"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Chennai",
+      "Delhi",
+      "Hyderabad",
+      "Mumbai",
+      "Pune"
+    ]
+  },
+  "U01082": {
+    "txn_count": 53,
+    "mean_amount": 7901.93,
+    "std_amount": 9741.47,
+    "known_devices": [
+      "android-b",
+      "ios-b",
+      "unk-1135",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Chennai",
+      "Delhi",
+      "Hyderabad",
+      "Jaipur",
+      "Nagpur"
+    ]
+  },
+  "U01131": {
+    "txn_count": 53,
+    "mean_amount": 2110.09,
+    "std_amount": 1702.96,
+    "known_devices": [
+      "android-a",
+      "android-b",
+      "ios-a",
+      "unk-4342",
+      "unk-9741",
+      "web-chrome",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Chennai",
+      "Delhi",
+      "Hyderabad",
+      "Jaipur",
+      "Mumbai",
+      "Pune"
+    ]
+  },
+  "U00085": {
+    "txn_count": 53,
+    "mean_amount": 3199.5,
+    "std_amount": 3204.97,
+    "known_devices": [
+      "android-b",
+      "unk-1178",
+      "unk-5411",
+      "web-chrome",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Delhi",
+      "Jaipur",
+      "Mumbai",
+      "Nagpur",
+      "Pune"
+    ]
+  },
+  "U00127": {
+    "txn_count": 53,
+    "mean_amount": 7851.94,
+    "std_amount": 7915.39,
+    "known_devices": [
+      "android-b",
+      "ios-b",
+      "web-chrome",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Chennai",
+      "Delhi",
+      "Hyderabad",
+      "Jaipur",
+      "Mumbai",
+      "Nagpur"
+    ]
+  },
+  "U00681": {
+    "txn_count": 53,
+    "mean_amount": 1743.04,
+    "std_amount": 1819.68,
+    "known_devices": [
+      "android-a",
+      "android-b",
+      "ios-a",
+      "unk-2421",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Chennai",
+      "Delhi",
+      "Mumbai",
+      "Nagpur",
+      "Pune"
+    ]
+  },
+  "U01023": {
+    "txn_count": 53,
+    "mean_amount": 4573.08,
+    "std_amount": 9597.0,
+    "known_devices": [
+      "android-a",
+      "android-b",
+      "ios-a",
+      "ios-b",
+      "unk-2564",
+      "unk-3219",
+      "web-chrome"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Chennai",
+      "Hyderabad",
+      "Jaipur"
+    ]
+  },
+  "U00658": {
+    "txn_count": 53,
+    "mean_amount": 1845.48,
+    "std_amount": 1540.94,
+    "known_devices": [
+      "android-a",
+      "android-b",
+      "ios-a",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Chennai",
+      "Delhi",
+      "Hyderabad",
+      "Jaipur",
+      "Mumbai",
+      "Pune"
+    ]
+  },
+  "U00353": {
+    "txn_count": 52,
+    "mean_amount": 2998.32,
+    "std_amount": 2434.6,
+    "known_devices": [
+      "android-a",
+      "android-b",
+      "ios-a",
+      "ios-b",
+      "unk-3595",
+      "web-chrome",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Chennai",
+      "Delhi",
+      "Pune"
+    ]
+  },
+  "U00700": {
+    "txn_count": 52,
+    "mean_amount": 1505.66,
+    "std_amount": 1337.24,
+    "known_devices": [
+      "android-a",
+      "android-b",
+      "ios-a",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Chennai",
+      "Delhi",
+      "Hyderabad",
+      "Nagpur",
+      "Pune"
+    ]
+  },
+  "U00390": {
+    "txn_count": 52,
+    "mean_amount": 3159.31,
+    "std_amount": 7182.64,
+    "known_devices": [
+      "android-a",
+      "ios-a",
+      "ios-b",
+      "unk-2184",
+      "unk-822",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Chennai",
+      "Hyderabad",
+      "Mumbai",
+      "Nagpur",
+      "Pune"
+    ]
+  },
+  "U00932": {
+    "txn_count": 52,
+    "mean_amount": 4136.55,
+    "std_amount": 4941.74,
+    "known_devices": [
+      "android-a",
+      "android-b",
+      "ios-a",
+      "ios-b",
+      "unk-7379",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Delhi",
+      "Hyderabad",
+      "Jaipur",
+      "Mumbai",
+      "Nagpur"
+    ]
+  },
+  "U00637": {
+    "txn_count": 52,
+    "mean_amount": 6492.57,
+    "std_amount": 6569.23,
+    "known_devices": [
+      "ios-a",
+      "ios-b",
+      "unk-9273",
+      "unk-9695",
+      "web-chrome",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Chennai",
+      "Hyderabad",
+      "Jaipur",
+      "Mumbai",
+      "Nagpur",
+      "Pune"
+    ]
+  },
+  "U00662": {
+    "txn_count": 52,
+    "mean_amount": 17710.91,
+    "std_amount": 25097.71,
+    "known_devices": [
+      "android-a",
+      "android-b",
+      "web-chrome"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Chennai",
+      "Hyderabad",
+      "Jaipur",
+      "Mumbai",
+      "Pune"
+    ]
+  },
+  "U00175": {
+    "txn_count": 52,
+    "mean_amount": 2020.66,
+    "std_amount": 3596.5,
+    "known_devices": [
+      "android-a",
+      "android-b",
+      "ios-a",
+      "ios-b",
+      "unk-7834",
+      "web-chrome",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Chennai",
+      "Delhi",
+      "Hyderabad",
+      "Jaipur",
+      "Nagpur"
+    ]
+  },
+  "U00200": {
+    "txn_count": 52,
+    "mean_amount": 3702.48,
+    "std_amount": 3844.78,
+    "known_devices": [
+      "android-a",
+      "android-b",
+      "ios-a",
+      "ios-b",
+      "web-chrome",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Chennai",
+      "Jaipur",
+      "Mumbai",
+      "Nagpur",
+      "Pune"
+    ]
+  },
+  "U00706": {
+    "txn_count": 52,
+    "mean_amount": 4590.33,
+    "std_amount": 5942.26,
+    "known_devices": [
+      "android-a",
+      "ios-a",
+      "unk-1604",
+      "unk-5098",
+      "web-chrome"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Chennai",
+      "Delhi",
+      "Jaipur",
+      "Mumbai",
+      "Nagpur"
+    ]
+  },
+  "U00671": {
+    "txn_count": 52,
+    "mean_amount": 4187.66,
+    "std_amount": 5162.19,
+    "known_devices": [
+      "android-a",
+      "ios-a",
+      "unk-1566",
+      "web-chrome",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Delhi",
+      "Hyderabad",
+      "Jaipur",
+      "Nagpur",
+      "Pune"
+    ]
+  },
+  "U00000": {
+    "txn_count": 52,
+    "mean_amount": 1287.61,
+    "std_amount": 1432.08,
+    "known_devices": [
+      "android-a",
+      "android-b",
+      "ios-a",
+      "web-chrome",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Delhi",
+      "Mumbai",
+      "Nagpur",
+      "Pune"
+    ]
+  },
+  "U00056": {
+    "txn_count": 52,
+    "mean_amount": 4293.04,
+    "std_amount": 5273.9,
+    "known_devices": [
+      "android-a",
+      "android-b",
+      "ios-a",
+      "ios-b",
+      "web-chrome",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Chennai",
+      "Delhi",
+      "Hyderabad",
+      "Jaipur",
+      "Mumbai",
+      "Nagpur",
+      "Pune"
+    ]
+  },
+  "U00767": {
+    "txn_count": 52,
+    "mean_amount": 672.94,
+    "std_amount": 711.32,
+    "known_devices": [
+      "android-a",
+      "android-b",
+      "ios-b",
+      "unk-3424",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Delhi",
+      "Hyderabad",
+      "Jaipur",
+      "Mumbai",
+      "Nagpur"
+    ]
+  },
+  "U00001": {
+    "txn_count": 52,
+    "mean_amount": 4122.45,
+    "std_amount": 6583.93,
+    "known_devices": [
+      "android-a",
+      "android-b",
+      "ios-a",
+      "ios-b",
+      "unk-5072",
+      "web-chrome",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Chennai",
+      "Delhi",
+      "Mumbai",
+      "Nagpur",
+      "Pune"
+    ]
+  },
+  "U00880": {
+    "txn_count": 52,
+    "mean_amount": 1709.84,
+    "std_amount": 3035.62,
+    "known_devices": [
+      "android-b",
+      "ios-a",
+      "web-chrome",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Chennai",
+      "Delhi",
+      "Hyderabad",
+      "Jaipur",
+      "Pune"
+    ]
+  },
+  "U01184": {
+    "txn_count": 52,
+    "mean_amount": 5176.06,
+    "std_amount": 4173.2,
+    "known_devices": [
+      "android-b",
+      "ios-a",
+      "web-chrome",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Chennai",
+      "Jaipur",
+      "Mumbai",
+      "Nagpur"
+    ]
+  },
+  "U00500": {
+    "txn_count": 52,
+    "mean_amount": 2706.92,
+    "std_amount": 2986.09,
+    "known_devices": [
+      "android-a",
+      "android-b",
+      "ios-b",
+      "unk-2246",
+      "unk-4296",
+      "web-chrome"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Delhi",
+      "Pune"
+    ]
+  },
+  "U00573": {
+    "txn_count": 52,
+    "mean_amount": 881.36,
+    "std_amount": 914.08,
+    "known_devices": [
+      "android-a",
+      "ios-a",
+      "ios-b",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Chennai",
+      "Delhi",
+      "Hyderabad",
+      "Jaipur",
+      "Mumbai"
+    ]
+  },
+  "U00657": {
+    "txn_count": 52,
+    "mean_amount": 2712.94,
+    "std_amount": 2838.2,
+    "known_devices": [
+      "android-a",
+      "android-b",
+      "ios-a",
+      "ios-b",
+      "unk-1410",
+      "web-chrome",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Chennai",
+      "Delhi",
+      "Hyderabad",
+      "Mumbai",
+      "Pune"
+    ]
+  },
+  "U00290": {
+    "txn_count": 52,
+    "mean_amount": 503.61,
+    "std_amount": 535.25,
+    "known_devices": [
+      "android-a",
+      "android-b",
+      "ios-a",
+      "unk-5099",
+      "unk-7880",
+      "web-chrome",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Hyderabad"
+    ]
+  },
+  "U00126": {
+    "txn_count": 52,
+    "mean_amount": 5042.36,
+    "std_amount": 4773.09,
+    "known_devices": [
+      "android-a",
+      "ios-a",
+      "ios-b",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Chennai",
+      "Jaipur",
+      "Nagpur"
+    ]
+  },
+  "U00935": {
+    "txn_count": 52,
+    "mean_amount": 2845.39,
+    "std_amount": 7056.13,
+    "known_devices": [
+      "android-a",
+      "android-b",
+      "ios-b",
+      "unk-7222",
+      "unk-8707",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Chennai",
+      "Delhi",
+      "Jaipur",
+      "Mumbai",
+      "Nagpur",
+      "Pune"
+    ]
+  },
+  "U00741": {
+    "txn_count": 52,
+    "mean_amount": 4042.72,
+    "std_amount": 4586.72,
+    "known_devices": [
+      "ios-b",
+      "web-chrome",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Chennai",
+      "Delhi",
+      "Hyderabad",
+      "Jaipur",
+      "Nagpur"
+    ]
+  },
+  "U01188": {
+    "txn_count": 52,
+    "mean_amount": 6547.73,
+    "std_amount": 9054.83,
+    "known_devices": [
+      "android-a",
+      "android-b",
+      "ios-a",
+      "ios-b",
+      "web-chrome"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Chennai",
+      "Delhi",
+      "Hyderabad",
+      "Jaipur",
+      "Mumbai",
+      "Nagpur"
+    ]
+  },
+  "U00203": {
+    "txn_count": 52,
+    "mean_amount": 2157.21,
+    "std_amount": 6078.5,
+    "known_devices": [
+      "android-a",
+      "android-b",
+      "ios-a",
+      "ios-b",
+      "unk-4198",
+      "web-chrome",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Delhi",
+      "Hyderabad",
+      "Mumbai",
+      "Nagpur",
+      "Pune"
+    ]
+  },
+  "U00007": {
+    "txn_count": 52,
+    "mean_amount": 1972.56,
+    "std_amount": 2160.26,
+    "known_devices": [
+      "android-a",
+      "android-b",
+      "ios-b",
+      "unk-3309",
+      "unk-6577",
+      "unk-9281",
+      "web-chrome",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Chennai",
+      "Hyderabad",
+      "Jaipur",
+      "Mumbai",
+      "Nagpur"
+    ]
+  },
+  "U00613": {
+    "txn_count": 52,
+    "mean_amount": 3316.0,
+    "std_amount": 4359.45,
+    "known_devices": [
+      "android-b",
+      "ios-a",
+      "ios-b",
+      "unk-8164",
+      "web-chrome",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Chennai",
+      "Delhi",
+      "Jaipur",
+      "Mumbai",
+      "Nagpur",
+      "Pune"
+    ]
+  },
+  "U00667": {
+    "txn_count": 51,
+    "mean_amount": 2604.24,
+    "std_amount": 2042.24,
+    "known_devices": [
+      "android-a",
+      "ios-a",
+      "ios-b",
+      "unk-6747",
+      "web-chrome",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Chennai",
+      "Delhi",
+      "Mumbai",
+      "Nagpur",
+      "Pune"
+    ]
+  },
+  "U00214": {
+    "txn_count": 51,
+    "mean_amount": 7503.72,
+    "std_amount": 10186.6,
+    "known_devices": [
+      "android-a",
+      "android-b",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Chennai",
+      "Delhi",
+      "Hyderabad",
+      "Jaipur",
+      "Mumbai",
+      "Nagpur",
+      "Pune"
+    ]
+  },
+  "U00844": {
+    "txn_count": 51,
+    "mean_amount": 4814.29,
+    "std_amount": 8745.81,
+    "known_devices": [
+      "android-a",
+      "ios-a",
+      "ios-b",
+      "web-chrome",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Chennai",
+      "Delhi",
+      "Mumbai",
+      "Pune"
+    ]
+  },
+  "U00744": {
+    "txn_count": 51,
+    "mean_amount": 10662.15,
+    "std_amount": 13922.7,
+    "known_devices": [
+      "ios-a",
+      "unk-9153",
+      "web-chrome",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Delhi",
+      "Jaipur",
+      "Mumbai",
+      "Pune"
+    ]
+  },
+  "U00325": {
+    "txn_count": 51,
+    "mean_amount": 7353.35,
+    "std_amount": 5752.79,
+    "known_devices": [
+      "android-b",
+      "ios-a",
+      "ios-b",
+      "unk-2231"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Chennai",
+      "Delhi",
+      "Jaipur",
+      "Mumbai",
+      "Pune"
+    ]
+  },
+  "U00642": {
+    "txn_count": 51,
+    "mean_amount": 3715.71,
+    "std_amount": 6079.84,
+    "known_devices": [
+      "android-a",
+      "android-b",
+      "web-chrome",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Delhi",
+      "Nagpur",
+      "Pune"
+    ]
+  },
+  "U00825": {
+    "txn_count": 51,
+    "mean_amount": 3288.73,
+    "std_amount": 3481.73,
+    "known_devices": [
+      "android-a",
+      "android-b",
+      "ios-a",
+      "ios-b",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Chennai",
+      "Delhi",
+      "Hyderabad",
+      "Mumbai",
+      "Nagpur",
+      "Pune"
+    ]
+  },
+  "U01097": {
+    "txn_count": 51,
+    "mean_amount": 1840.83,
+    "std_amount": 1618.36,
+    "known_devices": [
+      "android-a",
+      "android-b",
+      "ios-b",
+      "unk-1989",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Hyderabad",
+      "Mumbai",
+      "Nagpur",
+      "Pune"
+    ]
+  },
+  "U00976": {
+    "txn_count": 51,
+    "mean_amount": 13669.07,
+    "std_amount": 23123.87,
+    "known_devices": [
+      "android-a",
+      "android-b",
+      "ios-b",
+      "unk-5456",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Chennai",
+      "Delhi",
+      "Hyderabad",
+      "Jaipur",
+      "Mumbai",
+      "Pune"
+    ]
+  },
+  "U00719": {
+    "txn_count": 51,
+    "mean_amount": 3095.35,
+    "std_amount": 3831.93,
+    "known_devices": [
+      "android-a",
+      "ios-a",
+      "ios-b",
+      "unk-2957",
+      "web-chrome",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Delhi",
+      "Hyderabad",
+      "Mumbai",
+      "Pune"
+    ]
+  },
+  "U00360": {
+    "txn_count": 51,
+    "mean_amount": 4340.76,
+    "std_amount": 5804.76,
+    "known_devices": [
+      "android-a",
+      "android-b",
+      "ios-a",
+      "web-chrome"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Delhi",
+      "Hyderabad",
+      "Mumbai",
+      "Pune"
+    ]
+  },
+  "U00228": {
+    "txn_count": 51,
+    "mean_amount": 4001.58,
+    "std_amount": 6888.42,
+    "known_devices": [
+      "ios-a",
+      "ios-b",
+      "unk-2400",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Delhi",
+      "Hyderabad",
+      "Jaipur",
+      "Mumbai",
+      "Nagpur",
+      "Pune"
+    ]
+  },
+  "U00630": {
+    "txn_count": 51,
+    "mean_amount": 1681.76,
+    "std_amount": 3125.08,
+    "known_devices": [
+      "ios-a",
+      "ios-b",
+      "unk-1836",
+      "unk-3143",
+      "web-chrome"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Chennai",
+      "Delhi",
+      "Hyderabad",
+      "Jaipur",
+      "Nagpur",
+      "Pune"
+    ]
+  },
+  "U01174": {
+    "txn_count": 51,
+    "mean_amount": 3089.32,
+    "std_amount": 3204.06,
+    "known_devices": [
+      "android-a",
+      "ios-a",
+      "ios-b",
+      "unk-3848",
+      "web-chrome"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Chennai",
+      "Delhi",
+      "Jaipur"
+    ]
+  },
+  "U00698": {
+    "txn_count": 51,
+    "mean_amount": 2050.37,
+    "std_amount": 2390.06,
+    "known_devices": [
+      "android-a",
+      "android-b",
+      "ios-a",
+      "ios-b",
+      "unk-3117",
+      "unk-4810",
+      "web-chrome",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Chennai",
+      "Delhi",
+      "Hyderabad",
+      "Nagpur",
+      "Pune"
+    ]
+  },
+  "U00160": {
+    "txn_count": 51,
+    "mean_amount": 1824.69,
+    "std_amount": 6313.63,
+    "known_devices": [
+      "android-a",
+      "android-b",
+      "ios-a",
+      "unk-1988",
+      "web-chrome",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Delhi",
+      "Hyderabad",
+      "Jaipur",
+      "Nagpur",
+      "Pune"
+    ]
+  },
+  "U01194": {
+    "txn_count": 51,
+    "mean_amount": 2356.43,
+    "std_amount": 2286.28,
+    "known_devices": [
+      "android-b",
+      "ios-a",
+      "ios-b",
+      "unk-9185",
+      "web-chrome"
+    ],
+    "known_locations": [
+      "Delhi",
+      "Mumbai",
+      "Nagpur",
+      "Pune"
+    ]
+  },
+  "U00163": {
+    "txn_count": 51,
+    "mean_amount": 3864.67,
+    "std_amount": 10163.17,
+    "known_devices": [
+      "android-b",
+      "ios-b",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Chennai",
+      "Delhi",
+      "Hyderabad",
+      "Jaipur",
+      "Mumbai",
+      "Nagpur"
+    ]
+  },
+  "U01065": {
+    "txn_count": 51,
+    "mean_amount": 4097.52,
+    "std_amount": 5084.97,
+    "known_devices": [
+      "android-a",
+      "ios-a",
+      "unk-2527",
+      "web-chrome"
+    ],
+    "known_locations": [
+      "Delhi",
+      "Hyderabad",
+      "Jaipur",
+      "Mumbai"
+    ]
+  },
+  "U00847": {
+    "txn_count": 51,
+    "mean_amount": 10810.11,
+    "std_amount": 27808.86,
+    "known_devices": [
+      "android-a",
+      "ios-a",
+      "ios-b",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Chennai",
+      "Hyderabad",
+      "Jaipur",
+      "Nagpur"
+    ]
+  },
+  "U00999": {
+    "txn_count": 51,
+    "mean_amount": 1927.85,
+    "std_amount": 2256.61,
+    "known_devices": [
+      "android-b",
+      "ios-a",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Chennai",
+      "Delhi",
+      "Hyderabad",
+      "Mumbai"
+    ]
+  },
+  "U00355": {
+    "txn_count": 51,
+    "mean_amount": 1665.87,
+    "std_amount": 2426.05,
+    "known_devices": [
+      "android-b",
+      "ios-a",
+      "unk-2704",
+      "web-chrome",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Chennai",
+      "Delhi",
+      "Hyderabad",
+      "Jaipur",
+      "Mumbai",
+      "Nagpur",
+      "Pune"
+    ]
+  },
+  "U00816": {
+    "txn_count": 51,
+    "mean_amount": 5886.37,
+    "std_amount": 6113.22,
+    "known_devices": [
+      "android-b",
+      "ios-a",
+      "ios-b",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Chennai",
+      "Jaipur",
+      "Mumbai",
+      "Nagpur",
+      "Pune"
+    ]
+  },
+  "U00954": {
+    "txn_count": 51,
+    "mean_amount": 2136.81,
+    "std_amount": 2095.94,
+    "known_devices": [
+      "android-a",
+      "ios-b",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Chennai",
+      "Delhi",
+      "Hyderabad",
+      "Jaipur",
+      "Mumbai",
+      "Nagpur"
+    ]
+  },
+  "U00856": {
+    "txn_count": 51,
+    "mean_amount": 4116.45,
+    "std_amount": 5988.29,
+    "known_devices": [
+      "android-a",
+      "android-b",
+      "ios-a",
+      "unk-9982",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Chennai",
+      "Delhi",
+      "Mumbai",
+      "Nagpur"
+    ]
+  },
+  "U00292": {
+    "txn_count": 51,
+    "mean_amount": 1945.11,
+    "std_amount": 2437.01,
+    "known_devices": [
+      "android-a",
+      "ios-a",
+      "ios-b",
+      "web-chrome",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Hyderabad",
+      "Jaipur",
+      "Mumbai",
+      "Pune"
+    ]
+  },
+  "U00229": {
+    "txn_count": 51,
+    "mean_amount": 4484.1,
+    "std_amount": 4686.43,
+    "known_devices": [
+      "android-a",
+      "android-b",
+      "ios-a",
+      "unk-1237",
+      "web-chrome",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Chennai",
+      "Delhi",
+      "Jaipur",
+      "Pune"
+    ]
+  },
+  "U01164": {
+    "txn_count": 51,
+    "mean_amount": 6629.75,
+    "std_amount": 5536.88,
+    "known_devices": [
+      "android-a",
+      "android-b",
+      "ios-a",
+      "ios-b"
+    ],
+    "known_locations": [
+      "Chennai",
+      "Delhi",
+      "Hyderabad",
+      "Jaipur",
+      "Mumbai",
+      "Pune"
+    ]
+  },
+  "U00107": {
+    "txn_count": 51,
+    "mean_amount": 2201.26,
+    "std_amount": 3260.23,
+    "known_devices": [
+      "android-a",
+      "ios-a",
+      "ios-b",
+      "web-chrome",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Delhi",
+      "Hyderabad",
+      "Pune"
+    ]
+  },
+  "U00395": {
+    "txn_count": 51,
+    "mean_amount": 1802.96,
+    "std_amount": 4011.28,
+    "known_devices": [
+      "android-b",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Chennai",
+      "Hyderabad",
+      "Mumbai",
+      "Nagpur",
+      "Pune"
+    ]
+  },
+  "U00562": {
+    "txn_count": 51,
+    "mean_amount": 2861.44,
+    "std_amount": 4045.44,
+    "known_devices": [
+      "android-a",
+      "ios-a",
+      "ios-b",
+      "web-chrome"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Chennai",
+      "Delhi",
+      "Mumbai",
+      "Nagpur",
+      "Pune"
+    ]
+  },
+  "U00838": {
+    "txn_count": 51,
+    "mean_amount": 5298.38,
+    "std_amount": 7521.57,
+    "known_devices": [
+      "android-a",
+      "ios-a",
+      "unk-4017",
+      "web-chrome",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Chennai",
+      "Delhi",
+      "Hyderabad",
+      "Nagpur"
+    ]
+  },
+  "U00348": {
+    "txn_count": 51,
+    "mean_amount": 4066.37,
+    "std_amount": 3270.71,
+    "known_devices": [
+      "android-a",
+      "android-b",
+      "ios-a",
+      "ios-b",
+      "unk-4354",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Mumbai",
+      "Nagpur",
+      "Pune"
+    ]
+  },
+  "U00416": {
+    "txn_count": 51,
+    "mean_amount": 3460.5,
+    "std_amount": 2795.86,
+    "known_devices": [
+      "android-a",
+      "android-b",
+      "ios-b",
+      "unk-2120",
+      "unk-2441",
+      "web-chrome",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Chennai",
+      "Jaipur",
+      "Mumbai",
+      "Nagpur"
+    ]
+  },
+  "U00931": {
+    "txn_count": 51,
+    "mean_amount": 3600.31,
+    "std_amount": 3297.62,
+    "known_devices": [
+      "android-b",
+      "ios-a",
+      "ios-b"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Chennai",
+      "Hyderabad",
+      "Jaipur",
+      "Mumbai",
+      "Pune"
+    ]
+  },
+  "U00443": {
+    "txn_count": 50,
+    "mean_amount": 1962.89,
+    "std_amount": 1624.29,
+    "known_devices": [
+      "android-a",
+      "android-b",
+      "ios-a",
+      "web-chrome",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Hyderabad",
+      "Mumbai",
+      "Nagpur"
+    ]
+  },
+  "U00889": {
+    "txn_count": 50,
+    "mean_amount": 6026.45,
+    "std_amount": 6083.7,
+    "known_devices": [
+      "android-a",
+      "ios-a",
+      "ios-b",
+      "unk-3227",
+      "web-chrome",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Delhi",
+      "Hyderabad",
+      "Nagpur"
+    ]
+  },
+  "U00421": {
+    "txn_count": 50,
+    "mean_amount": 4978.84,
+    "std_amount": 4156.93,
+    "known_devices": [
+      "android-a",
+      "android-b",
+      "ios-a",
+      "unk-9822",
+      "web-chrome",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Delhi",
+      "Hyderabad",
+      "Mumbai",
+      "Nagpur",
+      "Pune"
+    ]
+  },
+  "U00212": {
+    "txn_count": 50,
+    "mean_amount": 3912.48,
+    "std_amount": 4414.14,
+    "known_devices": [
+      "android-b",
+      "ios-a",
+      "ios-b",
+      "unk-1153",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Chennai",
+      "Nagpur",
+      "Pune"
+    ]
+  },
+  "U00858": {
+    "txn_count": 50,
+    "mean_amount": 386.23,
+    "std_amount": 368.65,
+    "known_devices": [
+      "android-a",
+      "android-b",
+      "ios-a",
+      "ios-b",
+      "web-chrome",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Chennai",
+      "Delhi",
+      "Hyderabad",
+      "Mumbai",
+      "Nagpur",
+      "Pune"
+    ]
+  },
+  "U00239": {
+    "txn_count": 50,
+    "mean_amount": 4475.76,
+    "std_amount": 4950.65,
+    "known_devices": [
+      "android-a",
+      "android-b",
+      "ios-b",
+      "web-chrome",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Chennai",
+      "Delhi",
+      "Jaipur",
+      "Mumbai",
+      "Nagpur"
+    ]
+  },
+  "U00420": {
+    "txn_count": 50,
+    "mean_amount": 4007.7,
+    "std_amount": 7158.44,
+    "known_devices": [
+      "android-a",
+      "android-b",
+      "ios-a",
+      "ios-b",
+      "unk-6283",
+      "web-chrome",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Chennai",
+      "Hyderabad",
+      "Jaipur",
+      "Pune"
+    ]
+  },
+  "U00811": {
+    "txn_count": 50,
+    "mean_amount": 2142.43,
+    "std_amount": 4459.22,
+    "known_devices": [
+      "android-a",
+      "android-b",
+      "ios-a",
+      "unk-5347",
+      "web-chrome"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Delhi",
+      "Hyderabad",
+      "Mumbai",
+      "Nagpur"
+    ]
+  },
+  "U00905": {
+    "txn_count": 50,
+    "mean_amount": 2693.24,
+    "std_amount": 2401.98,
+    "known_devices": [
+      "android-a",
+      "android-b",
+      "unk-3302",
+      "unk-4420",
+      "web-chrome",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Delhi",
+      "Jaipur",
+      "Nagpur",
+      "Pune"
+    ]
+  },
+  "U00247": {
+    "txn_count": 50,
+    "mean_amount": 2813.18,
+    "std_amount": 6374.38,
+    "known_devices": [
+      "android-a",
+      "android-b",
+      "ios-a",
+      "ios-b",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Chennai",
+      "Delhi",
+      "Hyderabad",
+      "Jaipur",
+      "Mumbai",
+      "Nagpur"
+    ]
+  },
+  "U01017": {
+    "txn_count": 50,
+    "mean_amount": 6057.77,
+    "std_amount": 7135.21,
+    "known_devices": [
+      "android-a",
+      "android-b",
+      "ios-a",
+      "ios-b",
+      "unk-6349",
+      "web-chrome",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Delhi",
+      "Mumbai",
+      "Nagpur"
+    ]
+  },
+  "U00522": {
+    "txn_count": 50,
+    "mean_amount": 3673.09,
+    "std_amount": 3941.82,
+    "known_devices": [
+      "android-a",
+      "ios-b",
+      "web-chrome",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Chennai",
+      "Hyderabad",
+      "Jaipur",
+      "Mumbai",
+      "Nagpur",
+      "Pune"
+    ]
+  },
+  "U00164": {
+    "txn_count": 50,
+    "mean_amount": 3204.13,
+    "std_amount": 2249.32,
+    "known_devices": [
+      "android-a",
+      "android-b",
+      "ios-b",
+      "web-chrome"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Chennai",
+      "Jaipur",
+      "Pune"
+    ]
+  },
+  "U00555": {
+    "txn_count": 50,
+    "mean_amount": 2674.31,
+    "std_amount": 2873.77,
+    "known_devices": [
+      "android-b",
+      "ios-a",
+      "web-chrome",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Hyderabad",
+      "Jaipur",
+      "Mumbai",
+      "Pune"
+    ]
+  },
+  "U01190": {
+    "txn_count": 50,
+    "mean_amount": 7193.58,
+    "std_amount": 6732.45,
+    "known_devices": [
+      "android-a",
+      "android-b",
+      "ios-a",
+      "ios-b",
+      "web-chrome",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Chennai",
+      "Delhi",
+      "Hyderabad"
+    ]
+  },
+  "U00686": {
+    "txn_count": 50,
+    "mean_amount": 7656.71,
+    "std_amount": 8795.37,
+    "known_devices": [
+      "android-a",
+      "android-b",
+      "ios-b",
+      "unk-7400",
+      "web-chrome"
+    ],
+    "known_locations": [
+      "Delhi",
+      "Hyderabad",
+      "Jaipur",
+      "Nagpur"
+    ]
+  },
+  "U00514": {
+    "txn_count": 50,
+    "mean_amount": 3218.43,
+    "std_amount": 6380.74,
+    "known_devices": [
+      "android-a",
+      "android-b",
+      "unk-762",
+      "web-chrome",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Delhi",
+      "Hyderabad",
+      "Jaipur",
+      "Mumbai",
+      "Nagpur"
+    ]
+  },
+  "U00050": {
+    "txn_count": 50,
+    "mean_amount": 3091.67,
+    "std_amount": 8390.15,
+    "known_devices": [
+      "android-a",
+      "android-b",
+      "ios-a",
+      "ios-b",
+      "unk-1754",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Chennai",
+      "Hyderabad",
+      "Mumbai"
+    ]
+  },
+  "U00629": {
+    "txn_count": 50,
+    "mean_amount": 3959.56,
+    "std_amount": 5157.44,
+    "known_devices": [
+      "android-a",
+      "ios-a",
+      "ios-b"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Delhi",
+      "Hyderabad",
+      "Jaipur",
+      "Mumbai",
+      "Nagpur",
+      "Pune"
+    ]
+  },
+  "U00027": {
+    "txn_count": 50,
+    "mean_amount": 2778.79,
+    "std_amount": 2309.45,
+    "known_devices": [
+      "android-a",
+      "android-b",
+      "ios-a",
+      "ios-b",
+      "unk-4873",
+      "web-chrome",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Chennai",
+      "Delhi",
+      "Hyderabad",
+      "Jaipur",
+      "Mumbai",
+      "Nagpur",
+      "Pune"
+    ]
+  },
+  "U01046": {
+    "txn_count": 50,
+    "mean_amount": 3353.55,
+    "std_amount": 2856.8,
+    "known_devices": [
+      "android-a",
+      "android-b",
+      "ios-b",
+      "web-chrome",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Chennai",
+      "Jaipur",
+      "Pune"
+    ]
+  },
+  "U00199": {
+    "txn_count": 50,
+    "mean_amount": 5420.88,
+    "std_amount": 6184.97,
+    "known_devices": [
+      "ios-a",
+      "ios-b",
+      "unk-3792",
+      "unk-6796",
+      "web-chrome",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Chennai",
+      "Delhi",
+      "Hyderabad",
+      "Jaipur",
+      "Mumbai",
+      "Nagpur",
+      "Pune"
+    ]
+  },
+  "U01183": {
+    "txn_count": 50,
+    "mean_amount": 3856.09,
+    "std_amount": 3652.69,
+    "known_devices": [
+      "android-a",
+      "android-b",
+      "ios-a",
+      "ios-b",
+      "web-chrome",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Chennai",
+      "Delhi",
+      "Hyderabad",
+      "Mumbai",
+      "Nagpur"
+    ]
+  },
+  "U00418": {
+    "txn_count": 50,
+    "mean_amount": 10975.03,
+    "std_amount": 9699.54,
+    "known_devices": [
+      "android-a",
+      "android-b",
+      "ios-a",
+      "unk-1943",
+      "unk-6108",
+      "web-chrome",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Chennai",
+      "Delhi",
+      "Mumbai",
+      "Nagpur",
+      "Pune"
+    ]
+  },
+  "U01099": {
+    "txn_count": 50,
+    "mean_amount": 6049.1,
+    "std_amount": 7445.24,
+    "known_devices": [
+      "android-b",
+      "ios-a",
+      "ios-b",
+      "unk-4376",
+      "unk-8328",
+      "web-chrome"
+    ],
+    "known_locations": [
+      "Delhi",
+      "Jaipur",
+      "Nagpur",
+      "Pune"
+    ]
+  },
+  "U01100": {
+    "txn_count": 50,
+    "mean_amount": 515.33,
+    "std_amount": 475.14,
+    "known_devices": [
+      "ios-a",
+      "ios-b",
+      "unk-4682",
+      "web-chrome"
+    ],
+    "known_locations": [
+      "Chennai",
+      "Delhi",
+      "Hyderabad",
+      "Mumbai",
+      "Nagpur"
+    ]
+  },
+  "U00684": {
+    "txn_count": 50,
+    "mean_amount": 3786.31,
+    "std_amount": 3833.27,
+    "known_devices": [
+      "android-a",
+      "android-b",
+      "ios-b",
+      "web-chrome"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Chennai",
+      "Delhi",
+      "Jaipur",
+      "Nagpur",
+      "Pune"
+    ]
+  },
+  "U00742": {
+    "txn_count": 50,
+    "mean_amount": 2071.69,
+    "std_amount": 1730.96,
+    "known_devices": [
+      "android-b",
+      "ios-a",
+      "ios-b",
+      "unk-9652",
+      "web-chrome",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Chennai",
+      "Delhi",
+      "Hyderabad",
+      "Jaipur",
+      "Mumbai",
+      "Nagpur",
+      "Pune"
+    ]
+  },
+  "U00866": {
+    "txn_count": 50,
+    "mean_amount": 6472.91,
+    "std_amount": 7108.63,
+    "known_devices": [
+      "android-a",
+      "android-b",
+      "ios-a",
+      "ios-b",
+      "web-chrome"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Chennai",
+      "Hyderabad",
+      "Jaipur",
+      "Mumbai",
+      "Nagpur"
+    ]
+  },
+  "U00926": {
+    "txn_count": 50,
+    "mean_amount": 745.93,
+    "std_amount": 877.31,
+    "known_devices": [
+      "android-a",
+      "android-b",
+      "ios-a",
+      "ios-b",
+      "unk-6826",
+      "web-chrome",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Chennai",
+      "Delhi",
+      "Hyderabad",
+      "Mumbai",
+      "Nagpur",
+      "Pune"
+    ]
+  },
+  "U00521": {
+    "txn_count": 50,
+    "mean_amount": 2430.6,
+    "std_amount": 2183.59,
+    "known_devices": [
+      "android-a",
+      "android-b",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Chennai",
+      "Delhi",
+      "Jaipur",
+      "Mumbai",
+      "Nagpur",
+      "Pune"
+    ]
+  },
+  "U00903": {
+    "txn_count": 50,
+    "mean_amount": 1683.42,
+    "std_amount": 1263.01,
+    "known_devices": [
+      "android-a",
+      "ios-b",
+      "unk-718",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Chennai",
+      "Delhi",
+      "Hyderabad",
+      "Jaipur",
+      "Mumbai",
+      "Nagpur",
+      "Pune"
+    ]
+  },
+  "U00821": {
+    "txn_count": 50,
+    "mean_amount": 3607.75,
+    "std_amount": 4330.39,
+    "known_devices": [
+      "android-a",
+      "ios-a",
+      "ios-b",
+      "web-chrome",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Chennai",
+      "Delhi",
+      "Jaipur",
+      "Mumbai",
+      "Nagpur"
+    ]
+  },
+  "U00839": {
+    "txn_count": 50,
+    "mean_amount": 917.26,
+    "std_amount": 994.77,
+    "known_devices": [
+      "android-a",
+      "android-b",
+      "ios-a",
+      "ios-b",
+      "unk-4480",
+      "unk-7662",
+      "unk-8629"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Chennai",
+      "Delhi",
+      "Hyderabad",
+      "Jaipur",
+      "Mumbai"
+    ]
+  },
+  "U00014": {
+    "txn_count": 50,
+    "mean_amount": 1925.52,
+    "std_amount": 1240.03,
+    "known_devices": [
+      "android-b",
+      "ios-a",
+      "ios-b",
+      "web-chrome",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Delhi",
+      "Hyderabad",
+      "Nagpur"
+    ]
+  },
+  "U00096": {
+    "txn_count": 49,
+    "mean_amount": 4450.29,
+    "std_amount": 3968.86,
+    "known_devices": [
+      "android-b",
+      "ios-a",
+      "ios-b",
+      "unk-2160",
+      "unk-57",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Chennai",
+      "Delhi",
+      "Hyderabad",
+      "Jaipur",
+      "Mumbai",
+      "Pune"
+    ]
+  },
+  "U00062": {
+    "txn_count": 49,
+    "mean_amount": 1337.7,
+    "std_amount": 1741.46,
+    "known_devices": [
+      "android-a",
+      "ios-a",
+      "ios-b",
+      "web-chrome",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Chennai",
+      "Delhi",
+      "Hyderabad",
+      "Jaipur",
+      "Pune"
+    ]
+  },
+  "U00482": {
+    "txn_count": 49,
+    "mean_amount": 10984.39,
+    "std_amount": 23981.3,
+    "known_devices": [
+      "ios-b",
+      "unk-3608",
+      "web-chrome"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Chennai",
+      "Hyderabad",
+      "Jaipur",
+      "Nagpur",
+      "Pune"
+    ]
+  },
+  "U00484": {
+    "txn_count": 49,
+    "mean_amount": 2092.56,
+    "std_amount": 2933.28,
+    "known_devices": [
+      "android-a",
+      "android-b",
+      "ios-b",
+      "unk-9797",
+      "web-chrome",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Chennai",
+      "Hyderabad",
+      "Jaipur",
+      "Mumbai",
+      "Pune"
+    ]
+  },
+  "U00724": {
+    "txn_count": 49,
+    "mean_amount": 2946.15,
+    "std_amount": 4831.62,
+    "known_devices": [
+      "android-a",
+      "android-b",
+      "ios-a",
+      "unk-8058",
+      "unk-9481",
+      "web-chrome",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Chennai",
+      "Hyderabad",
+      "Jaipur",
+      "Pune"
+    ]
+  },
+  "U00265": {
+    "txn_count": 49,
+    "mean_amount": 6579.43,
+    "std_amount": 8968.23,
+    "known_devices": [
+      "android-a",
+      "android-b",
+      "ios-a",
+      "ios-b",
+      "unk-1719",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Chennai",
+      "Delhi",
+      "Hyderabad",
+      "Mumbai",
+      "Nagpur"
+    ]
+  },
+  "U00584": {
+    "txn_count": 49,
+    "mean_amount": 4179.64,
+    "std_amount": 8197.32,
+    "known_devices": [
+      "android-b",
+      "ios-a",
+      "web-chrome",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Chennai",
+      "Delhi",
+      "Mumbai",
+      "Nagpur",
+      "Pune"
+    ]
+  },
+  "U00986": {
+    "txn_count": 49,
+    "mean_amount": 3797.57,
+    "std_amount": 4513.79,
+    "known_devices": [
+      "android-a",
+      "android-b",
+      "ios-a",
+      "ios-b",
+      "unk-6914",
+      "unk-7740",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Chennai",
+      "Delhi",
+      "Hyderabad",
+      "Jaipur",
+      "Mumbai",
+      "Nagpur",
+      "Pune"
+    ]
+  },
+  "U01086": {
+    "txn_count": 49,
+    "mean_amount": 8236.96,
+    "std_amount": 8872.77,
+    "known_devices": [
+      "android-b",
+      "ios-b",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Chennai",
+      "Delhi",
+      "Hyderabad",
+      "Mumbai",
+      "Pune"
+    ]
+  },
+  "U00470": {
+    "txn_count": 49,
+    "mean_amount": 1904.72,
+    "std_amount": 1521.27,
+    "known_devices": [
+      "android-b",
+      "ios-a",
+      "unk-9404",
+      "web-chrome",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Chennai",
+      "Hyderabad",
+      "Jaipur",
+      "Nagpur",
+      "Pune"
+    ]
+  },
+  "U00037": {
+    "txn_count": 49,
+    "mean_amount": 5053.94,
+    "std_amount": 7549.94,
+    "known_devices": [
+      "ios-a",
+      "ios-b",
+      "unk-28",
+      "unk-3108",
+      "unk-780",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Chennai",
+      "Delhi",
+      "Hyderabad",
+      "Mumbai",
+      "Nagpur",
+      "Pune"
+    ]
+  },
+  "U00419": {
+    "txn_count": 49,
+    "mean_amount": 3068.84,
+    "std_amount": 3378.74,
+    "known_devices": [
+      "ios-a",
+      "ios-b",
+      "web-chrome",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Chennai",
+      "Delhi",
+      "Hyderabad",
+      "Nagpur",
+      "Pune"
+    ]
+  },
+  "U00588": {
+    "txn_count": 49,
+    "mean_amount": 1481.52,
+    "std_amount": 2786.95,
+    "known_devices": [
+      "android-b",
+      "ios-b",
+      "unk-3583",
+      "web-chrome"
+    ],
+    "known_locations": [
+      "Hyderabad",
+      "Jaipur",
+      "Mumbai",
+      "Nagpur",
+      "Pune"
+    ]
+  },
+  "U00537": {
+    "txn_count": 49,
+    "mean_amount": 1439.23,
+    "std_amount": 1696.8,
+    "known_devices": [
+      "android-b",
+      "ios-a",
+      "ios-b",
+      "web-chrome",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Chennai",
+      "Hyderabad",
+      "Jaipur",
+      "Nagpur"
+    ]
+  },
+  "U00261": {
+    "txn_count": 49,
+    "mean_amount": 1286.29,
+    "std_amount": 1441.93,
+    "known_devices": [
+      "android-a",
+      "android-b",
+      "ios-a",
+      "ios-b",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Delhi",
+      "Hyderabad",
+      "Mumbai",
+      "Nagpur"
+    ]
+  },
+  "U00404": {
+    "txn_count": 49,
+    "mean_amount": 11122.99,
+    "std_amount": 18035.06,
+    "known_devices": [
+      "android-a",
+      "android-b",
+      "ios-a",
+      "ios-b",
+      "unk-7300",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Chennai",
+      "Delhi",
+      "Hyderabad",
+      "Jaipur",
+      "Nagpur",
+      "Pune"
+    ]
+  },
+  "U00800": {
+    "txn_count": 49,
+    "mean_amount": 4327.1,
+    "std_amount": 5823.7,
+    "known_devices": [
+      "android-a",
+      "android-b",
+      "ios-a",
+      "ios-b",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Chennai",
+      "Hyderabad",
+      "Jaipur",
+      "Mumbai"
+    ]
+  },
+  "U00481": {
+    "txn_count": 49,
+    "mean_amount": 4204.29,
+    "std_amount": 5598.25,
+    "known_devices": [
+      "android-b",
+      "unk-6459",
+      "web-chrome",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Chennai",
+      "Hyderabad",
+      "Jaipur",
+      "Mumbai",
+      "Nagpur",
+      "Pune"
+    ]
+  },
+  "U00174": {
+    "txn_count": 49,
+    "mean_amount": 4416.57,
+    "std_amount": 4405.28,
+    "known_devices": [
+      "android-a",
+      "android-b",
+      "ios-b",
+      "unk-1780",
+      "web-chrome",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Chennai",
+      "Delhi",
+      "Jaipur",
+      "Mumbai",
+      "Nagpur"
+    ]
+  },
+  "U00327": {
+    "txn_count": 49,
+    "mean_amount": 3186.14,
+    "std_amount": 4318.6,
+    "known_devices": [
+      "android-a",
+      "android-b",
+      "ios-b",
+      "unk-3048",
+      "web-chrome",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Delhi",
+      "Hyderabad",
+      "Jaipur",
+      "Mumbai",
+      "Nagpur"
+    ]
+  },
+  "U00279": {
+    "txn_count": 49,
+    "mean_amount": 5583.77,
+    "std_amount": 6370.58,
+    "known_devices": [
+      "android-a",
+      "android-b",
+      "ios-a",
+      "unk-8956",
+      "web-chrome",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Delhi",
+      "Hyderabad",
+      "Jaipur",
+      "Nagpur",
+      "Pune"
+    ]
+  },
+  "U00149": {
+    "txn_count": 49,
+    "mean_amount": 3539.14,
+    "std_amount": 3600.01,
+    "known_devices": [
+      "android-a",
+      "android-b",
+      "ios-a",
+      "ios-b",
+      "web-chrome",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Delhi",
+      "Hyderabad",
+      "Mumbai",
+      "Nagpur"
+    ]
+  },
+  "U00841": {
+    "txn_count": 49,
+    "mean_amount": 1859.99,
+    "std_amount": 1884.07,
+    "known_devices": [
+      "android-a",
+      "android-b",
+      "ios-a",
+      "ios-b"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Hyderabad",
+      "Jaipur",
+      "Mumbai",
+      "Nagpur"
+    ]
+  },
+  "U00978": {
+    "txn_count": 49,
+    "mean_amount": 1747.94,
+    "std_amount": 1684.86,
+    "known_devices": [
+      "android-b",
+      "ios-a",
+      "ios-b",
+      "web-chrome",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Delhi",
+      "Hyderabad",
+      "Jaipur",
+      "Mumbai",
+      "Pune"
+    ]
+  },
+  "U00278": {
+    "txn_count": 49,
+    "mean_amount": 9045.49,
+    "std_amount": 10871.45,
+    "known_devices": [
+      "android-a",
+      "android-b",
+      "unk-9064",
+      "unk-9483",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Delhi",
+      "Hyderabad",
+      "Jaipur",
+      "Mumbai",
+      "Nagpur",
+      "Pune"
+    ]
+  },
+  "U00440": {
+    "txn_count": 49,
+    "mean_amount": 1481.6,
+    "std_amount": 1696.07,
+    "known_devices": [
+      "android-a",
+      "android-b",
+      "ios-a",
+      "ios-b",
+      "unk-7849",
+      "web-chrome"
+    ],
+    "known_locations": [
+      "Chennai",
+      "Hyderabad",
+      "Mumbai",
+      "Nagpur",
+      "Pune"
+    ]
+  },
+  "U00210": {
+    "txn_count": 49,
+    "mean_amount": 4338.59,
+    "std_amount": 4523.78,
+    "known_devices": [
+      "android-a",
+      "ios-a",
+      "ios-b",
+      "web-chrome",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Chennai",
+      "Delhi",
+      "Hyderabad",
+      "Jaipur",
+      "Mumbai",
+      "Pune"
+    ]
+  },
+  "U00818": {
+    "txn_count": 49,
+    "mean_amount": 4305.8,
+    "std_amount": 3039.68,
+    "known_devices": [
+      "android-a",
+      "ios-a",
+      "unk-3323",
+      "unk-9772",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Chennai",
+      "Delhi",
+      "Hyderabad",
+      "Jaipur",
+      "Nagpur",
+      "Pune"
+    ]
+  },
+  "U00924": {
+    "txn_count": 49,
+    "mean_amount": 1171.46,
+    "std_amount": 2600.67,
+    "known_devices": [
+      "android-a",
+      "android-b",
+      "ios-a",
+      "unk-1839",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Chennai",
+      "Delhi",
+      "Nagpur",
+      "Pune"
+    ]
+  },
+  "U00130": {
+    "txn_count": 49,
+    "mean_amount": 9062.28,
+    "std_amount": 10378.56,
+    "known_devices": [
+      "android-b",
+      "ios-a",
+      "unk-2674",
+      "web-chrome"
+    ],
+    "known_locations": [
+      "Chennai",
+      "Hyderabad",
+      "Nagpur"
+    ]
+  },
+  "U00808": {
+    "txn_count": 49,
+    "mean_amount": 1836.73,
+    "std_amount": 1849.61,
+    "known_devices": [
+      "android-a",
+      "android-b",
+      "ios-a",
+      "ios-b",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Chennai",
+      "Delhi",
+      "Jaipur",
+      "Pune"
+    ]
+  },
+  "U00872": {
+    "txn_count": 49,
+    "mean_amount": 8382.62,
+    "std_amount": 16277.02,
+    "known_devices": [
+      "android-a",
+      "ios-a",
+      "unk-302",
+      "web-chrome"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Chennai",
+      "Delhi",
+      "Hyderabad",
+      "Jaipur",
+      "Mumbai",
+      "Nagpur",
+      "Pune"
+    ]
+  },
+  "U00991": {
+    "txn_count": 49,
+    "mean_amount": 3245.33,
+    "std_amount": 2871.8,
+    "known_devices": [
+      "android-a",
+      "ios-a",
+      "ios-b",
+      "unk-717",
+      "web-chrome",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Chennai",
+      "Delhi",
+      "Hyderabad",
+      "Jaipur",
+      "Mumbai",
+      "Pune"
+    ]
+  },
+  "U00022": {
+    "txn_count": 49,
+    "mean_amount": 6160.28,
+    "std_amount": 8522.45,
+    "known_devices": [
+      "android-b",
+      "ios-a",
+      "unk-1915",
+      "web-chrome",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Chennai",
+      "Hyderabad",
+      "Jaipur",
+      "Mumbai"
+    ]
+  },
+  "U01119": {
+    "txn_count": 49,
+    "mean_amount": 10414.89,
+    "std_amount": 11244.6,
+    "known_devices": [
+      "android-b",
+      "ios-a",
+      "web-chrome",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Delhi",
+      "Jaipur",
+      "Mumbai",
+      "Nagpur",
+      "Pune"
+    ]
+  },
+  "U00708": {
+    "txn_count": 49,
+    "mean_amount": 1699.69,
+    "std_amount": 1826.59,
+    "known_devices": [
+      "android-a",
+      "android-b",
+      "ios-b",
+      "web-chrome",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Chennai",
+      "Hyderabad",
+      "Jaipur",
+      "Mumbai",
+      "Pune"
+    ]
+  },
+  "U00166": {
+    "txn_count": 49,
+    "mean_amount": 585.25,
+    "std_amount": 598.02,
+    "known_devices": [
+      "android-a",
+      "android-b",
+      "ios-a",
+      "ios-b",
+      "unk-8979",
+      "web-chrome",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Hyderabad",
+      "Jaipur",
+      "Mumbai",
+      "Nagpur",
+      "Pune"
+    ]
+  },
+  "U00102": {
+    "txn_count": 49,
+    "mean_amount": 1781.2,
+    "std_amount": 1935.78,
+    "known_devices": [
+      "android-a",
+      "ios-a",
+      "web-chrome"
+    ],
+    "known_locations": [
+      "Chennai",
+      "Delhi",
+      "Hyderabad",
+      "Nagpur",
+      "Pune"
+    ]
+  },
+  "U00654": {
+    "txn_count": 49,
+    "mean_amount": 1620.82,
+    "std_amount": 1621.4,
+    "known_devices": [
+      "android-a",
+      "android-b",
+      "ios-a",
+      "ios-b",
+      "web-chrome",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Chennai",
+      "Delhi",
+      "Hyderabad",
+      "Mumbai",
+      "Nagpur"
+    ]
+  },
+  "U00382": {
+    "txn_count": 49,
+    "mean_amount": 4198.35,
+    "std_amount": 9091.46,
+    "known_devices": [
+      "android-a",
+      "ios-a",
+      "ios-b",
+      "unk-1661",
+      "web-chrome",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Chennai",
+      "Hyderabad",
+      "Jaipur"
+    ]
+  },
+  "U01019": {
+    "txn_count": 49,
+    "mean_amount": 1763.02,
+    "std_amount": 1865.7,
+    "known_devices": [
+      "android-b",
+      "ios-a",
+      "ios-b",
+      "unk-99",
+      "web-chrome"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Chennai",
+      "Delhi",
+      "Hyderabad",
+      "Mumbai",
+      "Nagpur"
+    ]
+  },
+  "U00323": {
+    "txn_count": 49,
+    "mean_amount": 3309.87,
+    "std_amount": 3060.18,
+    "known_devices": [
+      "android-a",
+      "android-b",
+      "ios-b",
+      "unk-862",
+      "web-chrome"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Delhi",
+      "Hyderabad",
+      "Jaipur",
+      "Mumbai",
+      "Nagpur",
+      "Pune"
+    ]
+  },
+  "U00791": {
+    "txn_count": 48,
+    "mean_amount": 2594.21,
+    "std_amount": 7467.88,
+    "known_devices": [
+      "ios-a",
+      "ios-b",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Chennai",
+      "Delhi",
+      "Jaipur",
+      "Mumbai"
+    ]
+  },
+  "U00498": {
+    "txn_count": 48,
+    "mean_amount": 4566.41,
+    "std_amount": 11154.64,
+    "known_devices": [
+      "android-a",
+      "android-b",
+      "ios-a",
+      "ios-b",
+      "web-chrome",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Chennai",
+      "Delhi",
+      "Jaipur",
+      "Mumbai",
+      "Nagpur"
+    ]
+  },
+  "U00059": {
+    "txn_count": 48,
+    "mean_amount": 1518.99,
+    "std_amount": 2366.09,
+    "known_devices": [
+      "android-a",
+      "ios-a",
+      "ios-b",
+      "web-chrome"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Delhi"
+    ]
+  },
+  "U00006": {
+    "txn_count": 48,
+    "mean_amount": 7789.76,
+    "std_amount": 8347.36,
+    "known_devices": [
+      "android-a",
+      "ios-b",
+      "web-chrome"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Chennai",
+      "Delhi",
+      "Jaipur",
+      "Mumbai",
+      "Nagpur"
+    ]
+  },
+  "U00109": {
+    "txn_count": 48,
+    "mean_amount": 4189.18,
+    "std_amount": 5082.54,
+    "known_devices": [
+      "android-a",
+      "android-b",
+      "ios-a",
+      "ios-b",
+      "web-chrome",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Chennai",
+      "Delhi",
+      "Jaipur",
+      "Nagpur",
+      "Pune"
+    ]
+  },
+  "U00979": {
+    "txn_count": 48,
+    "mean_amount": 5784.13,
+    "std_amount": 5603.13,
+    "known_devices": [
+      "android-b",
+      "ios-a",
+      "ios-b",
+      "web-chrome",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Delhi",
+      "Hyderabad",
+      "Mumbai",
+      "Pune"
+    ]
+  },
+  "U00921": {
+    "txn_count": 48,
+    "mean_amount": 2524.2,
+    "std_amount": 4481.5,
+    "known_devices": [
+      "android-b",
+      "ios-b",
+      "unk-2311",
+      "unk-9747",
+      "web-chrome"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Chennai",
+      "Hyderabad",
+      "Jaipur",
+      "Mumbai",
+      "Nagpur",
+      "Pune"
+    ]
+  },
+  "U00547": {
+    "txn_count": 48,
+    "mean_amount": 2985.63,
+    "std_amount": 3458.48,
+    "known_devices": [
+      "ios-a",
+      "ios-b"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Chennai",
+      "Delhi",
+      "Jaipur",
+      "Mumbai",
+      "Nagpur"
+    ]
+  },
+  "U00103": {
+    "txn_count": 48,
+    "mean_amount": 1261.14,
+    "std_amount": 1775.53,
+    "known_devices": [
+      "android-a",
+      "android-b",
+      "ios-a",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Chennai",
+      "Delhi",
+      "Jaipur",
+      "Nagpur"
+    ]
+  },
+  "U00922": {
+    "txn_count": 48,
+    "mean_amount": 1254.75,
+    "std_amount": 1775.43,
+    "known_devices": [
+      "android-b",
+      "ios-a",
+      "ios-b",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Chennai",
+      "Delhi",
+      "Hyderabad",
+      "Jaipur",
+      "Mumbai",
+      "Pune"
+    ]
+  },
+  "U01154": {
+    "txn_count": 48,
+    "mean_amount": 3016.01,
+    "std_amount": 3344.95,
+    "known_devices": [
+      "android-a",
+      "android-b",
+      "ios-a",
+      "ios-b",
+      "web-chrome"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Chennai",
+      "Delhi",
+      "Nagpur"
+    ]
+  },
+  "U00955": {
+    "txn_count": 48,
+    "mean_amount": 7752.85,
+    "std_amount": 12461.49,
+    "known_devices": [
+      "web-chrome",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Delhi",
+      "Jaipur",
+      "Mumbai",
+      "Nagpur",
+      "Pune"
+    ]
+  },
+  "U00363": {
+    "txn_count": 48,
+    "mean_amount": 3939.69,
+    "std_amount": 6450.2,
+    "known_devices": [
+      "android-a",
+      "android-b",
+      "ios-a",
+      "ios-b",
+      "web-chrome",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Delhi",
+      "Hyderabad",
+      "Jaipur",
+      "Mumbai",
+      "Nagpur"
+    ]
+  },
+  "U00314": {
+    "txn_count": 48,
+    "mean_amount": 1600.08,
+    "std_amount": 1268.26,
+    "known_devices": [
+      "android-a",
+      "android-b",
+      "ios-a",
+      "ios-b",
+      "unk-3641",
+      "web-chrome",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Chennai",
+      "Delhi",
+      "Hyderabad",
+      "Jaipur",
+      "Mumbai"
+    ]
+  },
+  "U00649": {
+    "txn_count": 48,
+    "mean_amount": 2113.12,
+    "std_amount": 2847.36,
+    "known_devices": [
+      "android-a",
+      "android-b",
+      "ios-a",
+      "ios-b",
+      "web-chrome",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Chennai",
+      "Delhi",
+      "Jaipur",
+      "Pune"
+    ]
+  },
+  "U00967": {
+    "txn_count": 48,
+    "mean_amount": 2084.14,
+    "std_amount": 2172.28,
+    "known_devices": [
+      "android-a",
+      "android-b",
+      "ios-b",
+      "unk-281"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Chennai",
+      "Delhi",
+      "Hyderabad",
+      "Jaipur",
+      "Mumbai",
+      "Nagpur",
+      "Pune"
+    ]
+  },
+  "U00394": {
+    "txn_count": 48,
+    "mean_amount": 3511.03,
+    "std_amount": 3631.24,
+    "known_devices": [
+      "android-a",
+      "android-b",
+      "ios-a",
+      "unk-5864",
+      "web-chrome",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Chennai",
+      "Delhi",
+      "Hyderabad",
+      "Jaipur",
+      "Nagpur",
+      "Pune"
+    ]
+  },
+  "U00582": {
+    "txn_count": 48,
+    "mean_amount": 5916.33,
+    "std_amount": 6670.21,
+    "known_devices": [
+      "android-a",
+      "android-b",
+      "ios-a",
+      "web-chrome"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Delhi",
+      "Jaipur",
+      "Pune"
+    ]
+  },
+  "U00575": {
+    "txn_count": 48,
+    "mean_amount": 3338.34,
+    "std_amount": 3480.76,
+    "known_devices": [
+      "android-a",
+      "ios-a",
+      "ios-b",
+      "unk-2840",
+      "web-chrome"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Chennai",
+      "Delhi",
+      "Nagpur",
+      "Pune"
+    ]
+  },
+  "U00432": {
+    "txn_count": 48,
+    "mean_amount": 2455.26,
+    "std_amount": 2214.16,
+    "known_devices": [
+      "android-a",
+      "android-b",
+      "ios-b",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Chennai",
+      "Hyderabad",
+      "Jaipur",
+      "Mumbai"
+    ]
+  },
+  "U00578": {
+    "txn_count": 48,
+    "mean_amount": 3142.83,
+    "std_amount": 4621.47,
+    "known_devices": [
+      "android-a",
+      "android-b",
+      "ios-a",
+      "ios-b",
+      "web-chrome",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Delhi",
+      "Hyderabad",
+      "Jaipur",
+      "Mumbai",
+      "Pune"
+    ]
+  },
+  "U00150": {
+    "txn_count": 48,
+    "mean_amount": 1074.89,
+    "std_amount": 1230.14,
+    "known_devices": [
+      "android-a",
+      "ios-a",
+      "ios-b",
+      "web-chrome",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Chennai",
+      "Delhi",
+      "Hyderabad",
+      "Jaipur",
+      "Mumbai",
+      "Nagpur"
+    ]
+  },
+  "U01000": {
+    "txn_count": 48,
+    "mean_amount": 3887.94,
+    "std_amount": 4261.06,
+    "known_devices": [
+      "android-a",
+      "android-b",
+      "ios-a",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Hyderabad",
+      "Jaipur",
+      "Mumbai",
+      "Nagpur"
+    ]
+  },
+  "U00994": {
+    "txn_count": 48,
+    "mean_amount": 1312.09,
+    "std_amount": 1256.56,
+    "known_devices": [
+      "android-b",
+      "ios-b",
+      "web-chrome",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Chennai",
+      "Hyderabad",
+      "Jaipur"
+    ]
+  },
+  "U00287": {
+    "txn_count": 48,
+    "mean_amount": 5644.57,
+    "std_amount": 12620.49,
+    "known_devices": [
+      "android-a",
+      "ios-b",
+      "web-chrome",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Delhi",
+      "Mumbai",
+      "Nagpur"
+    ]
+  },
+  "U00083": {
+    "txn_count": 48,
+    "mean_amount": 4288.48,
+    "std_amount": 4117.26,
+    "known_devices": [
+      "android-a",
+      "android-b",
+      "ios-a",
+      "ios-b",
+      "web-chrome"
+    ],
+    "known_locations": [
+      "Chennai",
+      "Hyderabad",
+      "Mumbai",
+      "Nagpur",
+      "Pune"
+    ]
+  },
+  "U00669": {
+    "txn_count": 48,
+    "mean_amount": 5917.07,
+    "std_amount": 4591.89,
+    "known_devices": [
+      "android-a",
+      "android-b",
+      "ios-b",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Delhi",
+      "Hyderabad",
+      "Jaipur"
+    ]
+  },
+  "U01033": {
+    "txn_count": 48,
+    "mean_amount": 2798.74,
+    "std_amount": 2368.34,
+    "known_devices": [
+      "android-a",
+      "android-b",
+      "ios-a",
+      "ios-b",
+      "web-chrome"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Chennai",
+      "Delhi",
+      "Nagpur",
+      "Pune"
+    ]
+  },
+  "U00220": {
+    "txn_count": 48,
+    "mean_amount": 2081.15,
+    "std_amount": 1618.36,
+    "known_devices": [
+      "android-b",
+      "ios-a",
+      "web-chrome",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Chennai",
+      "Delhi",
+      "Hyderabad",
+      "Jaipur",
+      "Mumbai",
+      "Nagpur"
+    ]
+  },
+  "U00276": {
+    "txn_count": 48,
+    "mean_amount": 2614.38,
+    "std_amount": 2526.67,
+    "known_devices": [
+      "android-a",
+      "ios-a",
+      "ios-b",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Chennai",
+      "Hyderabad",
+      "Jaipur",
+      "Mumbai",
+      "Nagpur"
+    ]
+  },
+  "U00120": {
+    "txn_count": 48,
+    "mean_amount": 2027.44,
+    "std_amount": 2024.45,
+    "known_devices": [
+      "ios-b",
+      "web-chrome",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Chennai",
+      "Hyderabad",
+      "Jaipur"
+    ]
+  },
+  "U00623": {
+    "txn_count": 48,
+    "mean_amount": 3650.01,
+    "std_amount": 5314.01,
+    "known_devices": [
+      "android-a",
+      "ios-a",
+      "ios-b",
+      "web-chrome",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Chennai",
+      "Delhi",
+      "Hyderabad",
+      "Jaipur",
+      "Nagpur",
+      "Pune"
+    ]
+  },
+  "U01138": {
+    "txn_count": 48,
+    "mean_amount": 1823.08,
+    "std_amount": 2760.69,
+    "known_devices": [
+      "android-a",
+      "unk-7682",
+      "web-chrome"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Chennai",
+      "Delhi",
+      "Hyderabad",
+      "Jaipur",
+      "Nagpur"
+    ]
+  },
+  "U00236": {
+    "txn_count": 48,
+    "mean_amount": 5245.71,
+    "std_amount": 5726.22,
+    "known_devices": [
+      "android-a",
+      "ios-a",
+      "ios-b",
+      "web-chrome",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Chennai",
+      "Delhi",
+      "Hyderabad",
+      "Jaipur",
+      "Mumbai",
+      "Nagpur"
+    ]
+  },
+  "U00207": {
+    "txn_count": 48,
+    "mean_amount": 3474.46,
+    "std_amount": 3838.94,
+    "known_devices": [
+      "android-a",
+      "ios-a",
+      "ios-b",
+      "unk-7513",
+      "web-chrome"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Delhi",
+      "Jaipur",
+      "Mumbai",
+      "Nagpur"
+    ]
+  },
+  "U00593": {
+    "txn_count": 48,
+    "mean_amount": 1447.3,
+    "std_amount": 1841.39,
+    "known_devices": [
+      "android-a",
+      "ios-a",
+      "ios-b"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Delhi",
+      "Hyderabad",
+      "Jaipur",
+      "Mumbai",
+      "Nagpur"
+    ]
+  },
+  "U00717": {
+    "txn_count": 48,
+    "mean_amount": 1496.33,
+    "std_amount": 2597.4,
+    "known_devices": [
+      "ios-b",
+      "web-chrome",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Delhi",
+      "Jaipur",
+      "Nagpur"
+    ]
+  },
+  "U01070": {
+    "txn_count": 48,
+    "mean_amount": 2605.87,
+    "std_amount": 2678.44,
+    "known_devices": [
+      "android-a",
+      "android-b",
+      "ios-a",
+      "ios-b",
+      "unk-7806"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Chennai",
+      "Hyderabad",
+      "Jaipur",
+      "Nagpur",
+      "Pune"
+    ]
+  },
+  "U00781": {
+    "txn_count": 48,
+    "mean_amount": 1378.27,
+    "std_amount": 1475.97,
+    "known_devices": [
+      "android-b",
+      "ios-a",
+      "ios-b",
+      "web-chrome",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Delhi",
+      "Jaipur",
+      "Nagpur",
+      "Pune"
+    ]
+  },
+  "U00973": {
+    "txn_count": 48,
+    "mean_amount": 956.42,
+    "std_amount": 971.32,
+    "known_devices": [
+      "android-a",
+      "ios-b",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Chennai",
+      "Delhi",
+      "Pune"
+    ]
+  },
+  "U00125": {
+    "txn_count": 48,
+    "mean_amount": 3061.7,
+    "std_amount": 4719.92,
+    "known_devices": [
+      "android-b",
+      "ios-b"
+    ],
+    "known_locations": [
+      "Chennai",
+      "Delhi",
+      "Jaipur",
+      "Mumbai",
+      "Nagpur",
+      "Pune"
+    ]
+  },
+  "U00215": {
+    "txn_count": 47,
+    "mean_amount": 2448.8,
+    "std_amount": 2188.23,
+    "known_devices": [
+      "android-a",
+      "android-b",
+      "ios-b",
+      "web-chrome",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Hyderabad",
+      "Mumbai"
+    ]
+  },
+  "U00114": {
+    "txn_count": 47,
+    "mean_amount": 7473.8,
+    "std_amount": 6554.28,
+    "known_devices": [
+      "android-a",
+      "android-b",
+      "ios-a",
+      "ios-b",
+      "web-chrome"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Chennai",
+      "Delhi",
+      "Hyderabad",
+      "Jaipur",
+      "Nagpur",
+      "Pune"
+    ]
+  },
+  "U00645": {
+    "txn_count": 47,
+    "mean_amount": 2117.52,
+    "std_amount": 2323.95,
+    "known_devices": [
+      "android-a",
+      "android-b",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Delhi",
+      "Hyderabad",
+      "Jaipur",
+      "Mumbai",
+      "Nagpur"
+    ]
+  },
+  "U01169": {
+    "txn_count": 47,
+    "mean_amount": 3969.54,
+    "std_amount": 4245.96,
+    "known_devices": [
+      "android-a",
+      "android-b",
+      "ios-a",
+      "unk-5528",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Chennai",
+      "Delhi",
+      "Hyderabad",
+      "Mumbai",
+      "Nagpur"
+    ]
+  },
+  "U00359": {
+    "txn_count": 47,
+    "mean_amount": 3607.03,
+    "std_amount": 6277.07,
+    "known_devices": [
+      "android-a",
+      "android-b",
+      "ios-b",
+      "unk-1595",
+      "web-chrome",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Chennai",
+      "Hyderabad",
+      "Jaipur",
+      "Mumbai",
+      "Pune"
+    ]
+  },
+  "U00401": {
+    "txn_count": 47,
+    "mean_amount": 14746.03,
+    "std_amount": 14897.24,
+    "known_devices": [
+      "android-a",
+      "android-b",
+      "ios-a",
+      "web-chrome"
+    ],
+    "known_locations": [
+      "Chennai",
+      "Hyderabad",
+      "Jaipur",
+      "Mumbai",
+      "Nagpur"
+    ]
+  },
+  "U00312": {
+    "txn_count": 47,
+    "mean_amount": 525.14,
+    "std_amount": 557.32,
+    "known_devices": [
+      "android-a",
+      "android-b",
+      "web-chrome"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Chennai",
+      "Hyderabad"
+    ]
+  },
+  "U00985": {
+    "txn_count": 47,
+    "mean_amount": 2308.94,
+    "std_amount": 2422.23,
+    "known_devices": [
+      "android-a",
+      "android-b",
+      "unk-5507",
+      "unk-8398",
+      "web-chrome"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Chennai",
+      "Delhi",
+      "Hyderabad",
+      "Jaipur",
+      "Mumbai",
+      "Nagpur"
+    ]
+  },
+  "U00128": {
+    "txn_count": 47,
+    "mean_amount": 3649.18,
+    "std_amount": 3702.09,
+    "known_devices": [
+      "android-a",
+      "android-b",
+      "web-chrome",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Chennai",
+      "Delhi",
+      "Hyderabad",
+      "Mumbai",
+      "Nagpur",
+      "Pune"
+    ]
+  },
+  "U00576": {
+    "txn_count": 47,
+    "mean_amount": 3439.76,
+    "std_amount": 5571.17,
+    "known_devices": [
+      "android-a",
+      "android-b",
+      "unk-6803",
+      "web-chrome",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Chennai",
+      "Hyderabad",
+      "Jaipur",
+      "Mumbai",
+      "Nagpur",
+      "Pune"
+    ]
+  },
+  "U00877": {
+    "txn_count": 47,
+    "mean_amount": 3422.77,
+    "std_amount": 2334.04,
+    "known_devices": [
+      "ios-a",
+      "ios-b",
+      "unk-4274",
+      "web-chrome",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Delhi",
+      "Nagpur",
+      "Pune"
+    ]
+  },
+  "U01187": {
+    "txn_count": 47,
+    "mean_amount": 2838.74,
+    "std_amount": 3544.5,
+    "known_devices": [
+      "android-b",
+      "ios-a",
+      "ios-b",
+      "web-chrome",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Delhi",
+      "Hyderabad",
+      "Pune"
+    ]
+  },
+  "U00736": {
+    "txn_count": 47,
+    "mean_amount": 15276.97,
+    "std_amount": 36564.19,
+    "known_devices": [
+      "android-a",
+      "android-b",
+      "ios-a",
+      "ios-b",
+      "web-chrome",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Delhi",
+      "Hyderabad",
+      "Jaipur",
+      "Mumbai",
+      "Pune"
+    ]
+  },
+  "U00008": {
+    "txn_count": 47,
+    "mean_amount": 7483.7,
+    "std_amount": 11152.49,
+    "known_devices": [
+      "android-a",
+      "ios-a",
+      "web-chrome",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Chennai",
+      "Jaipur",
+      "Mumbai",
+      "Nagpur"
+    ]
+  },
+  "U00422": {
+    "txn_count": 47,
+    "mean_amount": 3110.56,
+    "std_amount": 3270.98,
+    "known_devices": [
+      "android-a",
+      "android-b",
+      "ios-b",
+      "web-chrome"
+    ],
+    "known_locations": [
+      "Chennai",
+      "Delhi",
+      "Hyderabad",
+      "Mumbai",
+      "Nagpur",
+      "Pune"
+    ]
+  },
+  "U00685": {
+    "txn_count": 47,
+    "mean_amount": 3113.49,
+    "std_amount": 7148.96,
+    "known_devices": [
+      "android-a",
+      "android-b",
+      "ios-a",
+      "unk-8931",
+      "web-chrome",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Delhi",
+      "Hyderabad",
+      "Jaipur",
+      "Pune"
+    ]
+  },
+  "U00652": {
+    "txn_count": 47,
+    "mean_amount": 1963.0,
+    "std_amount": 3045.34,
+    "known_devices": [
+      "android-a",
+      "android-b",
+      "web-chrome"
+    ],
+    "known_locations": [
+      "Chennai",
+      "Jaipur"
+    ]
+  },
+  "U00860": {
+    "txn_count": 47,
+    "mean_amount": 1770.56,
+    "std_amount": 2897.1,
+    "known_devices": [
+      "android-a",
+      "android-b",
+      "web-chrome",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Chennai",
+      "Delhi",
+      "Jaipur",
+      "Nagpur",
+      "Pune"
+    ]
+  },
+  "U01179": {
+    "txn_count": 47,
+    "mean_amount": 1686.05,
+    "std_amount": 3653.9,
+    "known_devices": [
+      "android-a",
+      "android-b",
+      "ios-b",
+      "web-chrome",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Chennai",
+      "Delhi",
+      "Jaipur",
+      "Mumbai",
+      "Pune"
+    ]
+  },
+  "U00324": {
+    "txn_count": 47,
+    "mean_amount": 4013.81,
+    "std_amount": 5431.26,
+    "known_devices": [
+      "android-a",
+      "android-b",
+      "ios-a",
+      "unk-4094",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Chennai",
+      "Delhi",
+      "Hyderabad",
+      "Mumbai",
+      "Nagpur",
+      "Pune"
+    ]
+  },
+  "U01173": {
+    "txn_count": 47,
+    "mean_amount": 2420.18,
+    "std_amount": 4963.82,
+    "known_devices": [
+      "android-a",
+      "android-b",
+      "ios-b",
+      "web-chrome",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Chennai",
+      "Hyderabad",
+      "Mumbai",
+      "Nagpur",
+      "Pune"
+    ]
+  },
+  "U00011": {
+    "txn_count": 47,
+    "mean_amount": 1309.42,
+    "std_amount": 1127.79,
+    "known_devices": [
+      "android-a",
+      "android-b",
+      "unk-987",
+      "web-chrome"
+    ],
+    "known_locations": [
+      "Hyderabad",
+      "Jaipur",
+      "Nagpur"
+    ]
+  },
+  "U00173": {
+    "txn_count": 47,
+    "mean_amount": 2193.47,
+    "std_amount": 2310.4,
+    "known_devices": [
+      "android-a",
+      "android-b",
+      "ios-b",
+      "unk-3187",
+      "unk-6591",
+      "web-chrome",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Jaipur",
+      "Mumbai",
+      "Nagpur",
+      "Pune"
+    ]
+  },
+  "U00034": {
+    "txn_count": 47,
+    "mean_amount": 3857.01,
+    "std_amount": 9087.02,
+    "known_devices": [
+      "android-a",
+      "android-b",
+      "ios-a",
+      "ios-b",
+      "unk-4998",
+      "unk-5438",
+      "web-chrome",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Chennai",
+      "Delhi",
+      "Jaipur",
+      "Mumbai",
+      "Nagpur"
+    ]
+  },
+  "U00945": {
+    "txn_count": 47,
+    "mean_amount": 7704.95,
+    "std_amount": 8523.29,
+    "known_devices": [
+      "android-a",
+      "android-b",
+      "ios-a",
+      "ios-b",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Chennai",
+      "Hyderabad",
+      "Jaipur",
+      "Mumbai",
+      "Nagpur",
+      "Pune"
+    ]
+  },
+  "U00366": {
+    "txn_count": 47,
+    "mean_amount": 4067.3,
+    "std_amount": 7682.75,
+    "known_devices": [
+      "android-a",
+      "ios-b",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Chennai",
+      "Delhi",
+      "Hyderabad",
+      "Jaipur",
+      "Mumbai",
+      "Nagpur"
+    ]
+  },
+  "U00475": {
+    "txn_count": 47,
+    "mean_amount": 2145.7,
+    "std_amount": 3233.84,
+    "known_devices": [
+      "android-a",
+      "ios-a",
+      "ios-b",
+      "web-chrome"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Chennai",
+      "Delhi",
+      "Hyderabad",
+      "Mumbai",
+      "Nagpur",
+      "Pune"
+    ]
+  },
+  "U00332": {
+    "txn_count": 47,
+    "mean_amount": 4845.88,
+    "std_amount": 6960.23,
+    "known_devices": [
+      "android-a",
+      "android-b",
+      "ios-a",
+      "ios-b",
+      "web-chrome",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Chennai",
+      "Delhi",
+      "Nagpur",
+      "Pune"
+    ]
+  },
+  "U00002": {
+    "txn_count": 47,
+    "mean_amount": 3978.51,
+    "std_amount": 5695.87,
+    "known_devices": [
+      "android-b",
+      "ios-b",
+      "unk-6765",
+      "web-chrome",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Chennai",
+      "Hyderabad",
+      "Mumbai",
+      "Pune"
+    ]
+  },
+  "U00515": {
+    "txn_count": 47,
+    "mean_amount": 1265.97,
+    "std_amount": 2097.88,
+    "known_devices": [
+      "android-a",
+      "android-b",
+      "ios-a",
+      "ios-b",
+      "unk-4409",
+      "web-chrome"
+    ],
+    "known_locations": [
+      "Chennai",
+      "Delhi",
+      "Nagpur"
+    ]
+  },
+  "U00989": {
+    "txn_count": 47,
+    "mean_amount": 12418.88,
+    "std_amount": 24996.84,
+    "known_devices": [
+      "android-b",
+      "ios-b",
+      "unk-594",
+      "web-chrome",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Chennai",
+      "Delhi",
+      "Hyderabad",
+      "Pune"
+    ]
+  },
+  "U00639": {
+    "txn_count": 47,
+    "mean_amount": 5835.89,
+    "std_amount": 12340.42,
+    "known_devices": [
+      "android-a",
+      "android-b",
+      "ios-a",
+      "ios-b",
+      "unk-1478",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Chennai",
+      "Delhi",
+      "Hyderabad",
+      "Nagpur",
+      "Pune"
+    ]
+  },
+  "U00862": {
+    "txn_count": 47,
+    "mean_amount": 3938.77,
+    "std_amount": 6097.7,
+    "known_devices": [
+      "android-a",
+      "android-b",
+      "ios-b",
+      "web-chrome",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Delhi",
+      "Pune"
+    ]
+  },
+  "U00974": {
+    "txn_count": 47,
+    "mean_amount": 2865.35,
+    "std_amount": 3002.72,
+    "known_devices": [
+      "android-a",
+      "android-b",
+      "ios-a",
+      "web-chrome"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Delhi",
+      "Mumbai",
+      "Nagpur",
+      "Pune"
+    ]
+  },
+  "U00635": {
+    "txn_count": 47,
+    "mean_amount": 2292.59,
+    "std_amount": 5075.48,
+    "known_devices": [
+      "android-b",
+      "ios-a",
+      "web-chrome",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Chennai",
+      "Delhi",
+      "Hyderabad",
+      "Jaipur",
+      "Nagpur",
+      "Pune"
+    ]
+  },
+  "U00809": {
+    "txn_count": 47,
+    "mean_amount": 1331.95,
+    "std_amount": 1975.3,
+    "known_devices": [
+      "android-a",
+      "android-b",
+      "ios-b",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Jaipur",
+      "Nagpur"
+    ]
+  },
+  "U01125": {
+    "txn_count": 47,
+    "mean_amount": 4417.56,
+    "std_amount": 3980.81,
+    "known_devices": [
+      "android-a",
+      "android-b",
+      "ios-a",
+      "unk-1554",
+      "unk-823",
+      "web-chrome",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Chennai",
+      "Delhi",
+      "Hyderabad",
+      "Jaipur",
+      "Mumbai",
+      "Nagpur",
+      "Pune"
+    ]
+  },
+  "U00551": {
+    "txn_count": 47,
+    "mean_amount": 1343.58,
+    "std_amount": 2009.45,
+    "known_devices": [
+      "android-a",
+      "android-b",
+      "ios-a",
+      "web-chrome"
+    ],
+    "known_locations": [
+      "Delhi",
+      "Hyderabad",
+      "Mumbai",
+      "Pune"
+    ]
+  },
+  "U00317": {
+    "txn_count": 47,
+    "mean_amount": 3272.24,
+    "std_amount": 3769.45,
+    "known_devices": [
+      "android-a",
+      "android-b",
+      "ios-a",
+      "web-chrome"
+    ],
+    "known_locations": [
+      "Delhi",
+      "Hyderabad",
+      "Nagpur",
+      "Pune"
+    ]
+  },
+  "U01124": {
+    "txn_count": 47,
+    "mean_amount": 3600.84,
+    "std_amount": 4969.89,
+    "known_devices": [
+      "android-a",
+      "android-b",
+      "ios-a",
+      "ios-b"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Delhi",
+      "Hyderabad",
+      "Jaipur",
+      "Mumbai",
+      "Pune"
+    ]
+  },
+  "U00996": {
+    "txn_count": 47,
+    "mean_amount": 4414.19,
+    "std_amount": 3834.03,
+    "known_devices": [
+      "android-a",
+      "android-b",
+      "ios-a",
+      "ios-b",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Chennai",
+      "Delhi",
+      "Hyderabad",
+      "Mumbai"
+    ]
+  },
+  "U00405": {
+    "txn_count": 46,
+    "mean_amount": 2341.24,
+    "std_amount": 3848.68,
+    "known_devices": [
+      "android-a",
+      "android-b",
+      "ios-b",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Delhi",
+      "Hyderabad",
+      "Mumbai",
+      "Nagpur",
+      "Pune"
+    ]
+  },
+  "U01020": {
+    "txn_count": 46,
+    "mean_amount": 2695.27,
+    "std_amount": 2580.72,
+    "known_devices": [
+      "android-a",
+      "android-b",
+      "ios-a",
+      "ios-b",
+      "unk-7134",
+      "web-chrome"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Chennai",
+      "Delhi",
+      "Hyderabad",
+      "Jaipur",
+      "Mumbai",
+      "Nagpur",
+      "Pune"
+    ]
+  },
+  "U00320": {
+    "txn_count": 46,
+    "mean_amount": 1076.94,
+    "std_amount": 890.84,
+    "known_devices": [
+      "android-b",
+      "ios-b",
+      "unk-6470",
+      "web-chrome",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Delhi",
+      "Hyderabad",
+      "Jaipur",
+      "Nagpur",
+      "Pune"
+    ]
+  },
+  "U00235": {
+    "txn_count": 46,
+    "mean_amount": 3999.2,
+    "std_amount": 4725.44,
+    "known_devices": [
+      "android-a",
+      "android-b",
+      "ios-a",
+      "unk-8952",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Chennai",
+      "Delhi",
+      "Hyderabad",
+      "Jaipur",
+      "Mumbai"
+    ]
+  },
+  "U00881": {
+    "txn_count": 46,
+    "mean_amount": 1289.59,
+    "std_amount": 1527.5,
+    "known_devices": [
+      "android-a",
+      "ios-a",
+      "web-chrome",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Chennai",
+      "Delhi",
+      "Mumbai",
+      "Nagpur",
+      "Pune"
+    ]
+  },
+  "U00237": {
+    "txn_count": 46,
+    "mean_amount": 3502.51,
+    "std_amount": 4196.79,
+    "known_devices": [
+      "android-a",
+      "android-b",
+      "ios-a",
+      "ios-b",
+      "unk-8317",
+      "web-chrome",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Chennai",
+      "Delhi",
+      "Jaipur",
+      "Mumbai",
+      "Nagpur",
+      "Pune"
+    ]
+  },
+  "U00141": {
+    "txn_count": 46,
+    "mean_amount": 12240.66,
+    "std_amount": 12369.33,
+    "known_devices": [
+      "android-a",
+      "ios-a",
+      "ios-b",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Chennai",
+      "Jaipur",
+      "Mumbai"
+    ]
+  },
+  "U00898": {
+    "txn_count": 46,
+    "mean_amount": 3097.64,
+    "std_amount": 3521.47,
+    "known_devices": [
+      "android-a",
+      "android-b",
+      "ios-a",
+      "ios-b",
+      "unk-883",
+      "web-chrome"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Chennai",
+      "Jaipur",
+      "Mumbai",
+      "Nagpur",
+      "Pune"
+    ]
+  },
+  "U00983": {
+    "txn_count": 46,
+    "mean_amount": 3176.07,
+    "std_amount": 4230.01,
+    "known_devices": [
+      "android-a",
+      "android-b",
+      "ios-a",
+      "ios-b",
+      "web-chrome",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Chennai",
+      "Delhi",
+      "Hyderabad",
+      "Jaipur",
+      "Nagpur",
+      "Pune"
+    ]
+  },
+  "U00715": {
+    "txn_count": 46,
+    "mean_amount": 1692.51,
+    "std_amount": 1688.7,
+    "known_devices": [
+      "android-b",
+      "ios-a",
+      "ios-b",
+      "web-chrome"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Chennai",
+      "Delhi",
+      "Hyderabad",
+      "Jaipur",
+      "Nagpur"
+    ]
+  },
+  "U00112": {
+    "txn_count": 46,
+    "mean_amount": 2029.36,
+    "std_amount": 3440.14,
+    "known_devices": [
+      "ios-b",
+      "web-chrome"
+    ],
+    "known_locations": [
+      "Chennai",
+      "Delhi",
+      "Mumbai",
+      "Pune"
+    ]
+  },
+  "U00874": {
+    "txn_count": 46,
+    "mean_amount": 1888.47,
+    "std_amount": 2341.74,
+    "known_devices": [
+      "android-a",
+      "android-b",
+      "unk-8660",
+      "web-chrome"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Chennai",
+      "Delhi",
+      "Hyderabad",
+      "Jaipur",
+      "Mumbai"
+    ]
+  },
+  "U00248": {
+    "txn_count": 46,
+    "mean_amount": 4715.72,
+    "std_amount": 3628.67,
+    "known_devices": [
+      "android-a",
+      "android-b",
+      "ios-a",
+      "ios-b"
+    ],
+    "known_locations": [
+      "Chennai",
+      "Delhi",
+      "Jaipur",
+      "Mumbai",
+      "Nagpur"
+    ]
+  },
+  "U00912": {
+    "txn_count": 46,
+    "mean_amount": 9944.19,
+    "std_amount": 12250.13,
+    "known_devices": [
+      "android-b",
+      "ios-b",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Chennai",
+      "Delhi",
+      "Hyderabad",
+      "Jaipur",
+      "Nagpur",
+      "Pune"
+    ]
+  },
+  "U00016": {
+    "txn_count": 46,
+    "mean_amount": 7014.3,
+    "std_amount": 6256.93,
+    "known_devices": [
+      "android-a",
+      "ios-b",
+      "unk-6120"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Hyderabad",
+      "Mumbai",
+      "Nagpur"
+    ]
+  },
+  "U01122": {
+    "txn_count": 46,
+    "mean_amount": 9630.31,
+    "std_amount": 13251.81,
+    "known_devices": [
+      "android-a",
+      "android-b",
+      "unk-4798",
+      "web-chrome",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Chennai",
+      "Jaipur",
+      "Mumbai",
+      "Pune"
+    ]
+  },
+  "U00049": {
+    "txn_count": 46,
+    "mean_amount": 1570.92,
+    "std_amount": 3662.77,
+    "known_devices": [
+      "android-a",
+      "ios-a",
+      "web-chrome",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Chennai",
+      "Hyderabad",
+      "Jaipur",
+      "Pune"
+    ]
+  },
+  "U00196": {
+    "txn_count": 46,
+    "mean_amount": 2238.14,
+    "std_amount": 2606.24,
+    "known_devices": [
+      "android-a",
+      "android-b",
+      "ios-a",
+      "ios-b",
+      "unk-3265",
+      "web-chrome",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Chennai",
+      "Delhi",
+      "Jaipur",
+      "Mumbai",
+      "Nagpur",
+      "Pune"
+    ]
+  },
+  "U00544": {
+    "txn_count": 46,
+    "mean_amount": 5498.79,
+    "std_amount": 10927.94,
+    "known_devices": [
+      "android-b",
+      "ios-a",
+      "ios-b",
+      "web-chrome"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Chennai",
+      "Hyderabad",
+      "Jaipur",
+      "Nagpur",
+      "Pune"
+    ]
+  },
+  "U00746": {
+    "txn_count": 46,
+    "mean_amount": 4908.89,
+    "std_amount": 10103.91,
+    "known_devices": [
+      "android-a",
+      "android-b",
+      "ios-b",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Delhi",
+      "Hyderabad",
+      "Jaipur",
+      "Mumbai",
+      "Nagpur"
+    ]
+  },
+  "U00129": {
+    "txn_count": 46,
+    "mean_amount": 1783.48,
+    "std_amount": 1354.68,
+    "known_devices": [
+      "android-a",
+      "ios-a",
+      "ios-b",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Chennai",
+      "Jaipur",
+      "Nagpur"
+    ]
+  },
+  "U01160": {
+    "txn_count": 46,
+    "mean_amount": 1376.53,
+    "std_amount": 1511.04,
+    "known_devices": [
+      "android-a",
+      "android-b",
+      "ios-a",
+      "ios-b",
+      "web-chrome"
+    ],
+    "known_locations": [
+      "Hyderabad",
+      "Jaipur",
+      "Mumbai",
+      "Nagpur",
+      "Pune"
+    ]
+  },
+  "U00783": {
+    "txn_count": 46,
+    "mean_amount": 8222.29,
+    "std_amount": 6057.65,
+    "known_devices": [
+      "android-b",
+      "ios-a",
+      "ios-b",
+      "unk-4646",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Delhi",
+      "Mumbai",
+      "Nagpur"
+    ]
+  },
+  "U00315": {
+    "txn_count": 46,
+    "mean_amount": 4730.58,
+    "std_amount": 5349.85,
+    "known_devices": [
+      "android-a",
+      "android-b",
+      "ios-b",
+      "web-chrome",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Chennai",
+      "Delhi",
+      "Hyderabad",
+      "Jaipur"
+    ]
+  },
+  "U00167": {
+    "txn_count": 46,
+    "mean_amount": 6202.16,
+    "std_amount": 6522.75,
+    "known_devices": [
+      "android-a",
+      "android-b",
+      "ios-a",
+      "ios-b",
+      "web-chrome",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Chennai",
+      "Delhi",
+      "Hyderabad",
+      "Nagpur",
+      "Pune"
+    ]
+  },
+  "U00556": {
+    "txn_count": 46,
+    "mean_amount": 5733.4,
+    "std_amount": 5490.86,
+    "known_devices": [
+      "android-a",
+      "android-b",
+      "ios-a",
+      "ios-b",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Chennai",
+      "Delhi",
+      "Hyderabad",
+      "Jaipur",
+      "Nagpur",
+      "Pune"
+    ]
+  },
+  "U00090": {
+    "txn_count": 46,
+    "mean_amount": 2126.22,
+    "std_amount": 1851.95,
+    "known_devices": [
+      "android-a",
+      "android-b",
+      "ios-a",
+      "web-chrome"
+    ],
+    "known_locations": [
+      "Bengaluru",
+      "Chennai",
+      "Delhi",
+      "Jaipur",
+      "Mumbai",
+      "Pune"
+    ]
+  },
+  "U00755": {
+    "txn_count": 46,
+    "mean_amount": 1851.4,
+    "std_amount": 2604.22,
+    "known_devices": [
+      "android-a",
+      "android-b",
+      "ios-b",
+      "web-edge"
+    ],
+    "known_locations": [
+      "Chennai",
+      "Hyderabad",
+      "Jaipur",
+      "Nagpur",
+      "Pune"
+    ]
+  }
+}

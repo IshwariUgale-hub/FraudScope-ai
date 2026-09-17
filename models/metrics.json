@@ -1,0 +1,33 @@
+{
+  "n_test": 10455,
+  "fraud_rate_test": 0.027259684361549498,
+  "threshold": 0.8921,
+  "precision": 0.5,
+  "recall": 0.4737,
+  "f1": 0.4865,
+  "pr_auc": 0.4712,
+  "roc_auc": 0.9393,
+  "confusion_matrix": [
+    [
+      10035,
+      135
+    ],
+    [
+      150,
+      135
+    ]
+  ],
+  "feature_importance": {
+    "hour": 0.2821,
+    "is_new_device": 0.17295,
+    "amount_ratio": 0.16189,
+    "amount_zscore": 0.09819,
+    "log_amount": 0.02749,
+    "seconds_since_prev": 0.02422,
+    "is_new_location": 0.00545,
+    "user_txn_index": 0.00147,
+    "is_night": 0.00096,
+    "txn_count_10min": -0.00019,
+    "txn_count_1h": -0.00055
+  }
+}
