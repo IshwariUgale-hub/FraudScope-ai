@@ -1,0 +1,22 @@
+# data (never commit the raw Kaggle files)
+data/raw/*
+!data/raw/.gitkeep
+data/processed/*
+!data/processed/.gitkeep
+
+# trained artefacts (regenerate with `python -m src.model`)
+models/*.pkl
+
+# python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+env/
+.env
+
+# os / editor
+.DS_Store
+.vscode/
+.idea/
