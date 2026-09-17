@@ -1,73 +1,113 @@
-# 🔐 FRAUDSCOPE AI
+# FRAUDSCOPE AI
 
-### Explainable Real-Time Financial Fraud Detection & Risk Scoring
+**Explainable real-time financial fraud intelligence & risk scoring platform**
+*Detect. Explain. Prioritize. Protect.*
 
-**FRAUDSCOPE AI** is an AI-powered fraud detection system that analyzes financial transactions, identifies suspicious patterns, generates a **risk score (0–100)**, and explains why a transaction may be risky.
+FRAUDSCOPE AI scores a financial transaction from **0 to 100**, assigns a risk level,
+explains **why** it was flagged, and recommends an action — instead of returning a bare
+"Fraud / Not Fraud" label.
 
-## 🎯 Problem
+![architecture](docs/architecture.png)
 
-Traditional fraud detection systems often rely on fixed rules and may generate too many false alerts. FRAUDSCOPE AI uses **Machine Learning + behavioral risk signals** to identify potentially suspicious transactions more intelligently.
+---
 
-## 💡 Key Features
+## Quickstart (works in under 2 minutes)
 
-* 🤖 ML-based fraud detection
-* 📊 Risk score from 0–100
-* 🔍 Explainable fraud alerts
-* 🧠 Behavioral anomaly analysis
-* ⚡ Transaction risk prioritization
-* 📈 Interactive Streamlit dashboard
+```bash
+git clone https://github.com/IshwariUgale-hub/FRAUDSCOPE-AI.git
+cd FRAUDSCOPE-AI
+pip install -r requirements.txt
 
-## 🏗️ Workflow
-
-```text
-Transaction
-     ↓
-Data Preprocessing
-     ↓
-Feature Engineering
-     ↓
-ML Model + Risk Analysis
-     ↓
-Risk Score
-     ↓
-Explanation & Alert
+python -m src.model --synthetic     # preprocess + train + evaluate + save model
+streamlit run dashboard/app.py      # open the dashboard
 ```
 
-## 🛠️ Tech Stack
+`--synthetic` uses the built-in transaction simulator, so the prototype runs with **zero
+downloads**. To train on real data instead, drop the Kaggle IEEE-CIS file at
+`data/raw/train_transaction.csv` (optionally `train_identity.csv` too) and run:
 
-* Python
-* Pandas & NumPy
-* Scikit-learn
-* Matplotlib & Seaborn
-* Streamlit
-* Joblib
-* Git & GitHub
-
-## 📂 Project Structure
-
-```text
-FRAUDSCOPE-AI/
-├── data/
-├── notebooks/
-├── src/
-├── models/
-├── dashboard/
-├── screenshots/
-├── requirements.txt
-└── README.md
+```bash
+python -m src.model --nrows 200000   # omit --nrows to use the full file
 ```
 
-## 🚀 Prototype
+The pipeline detects the file automatically and maps it onto the same canonical schema.
 
-The current prototype uses a public fraud-detection dataset and simulated transaction inputs to demonstrate fraud-risk analysis.
+---
 
+## How it works
 
-## 🔮 Future Scope
+| Stage | File | What it does |
+|---|---|---|
+| Preprocessing | `src/preprocessing.py` | Raw data → canonical events (`user_id, timestamp, amount, device_id, location, is_fraud`). Adapts IEEE-CIS or generates realistic synthetic data. |
+| Feature engineering | `src/features.py` | Behavioural features in one chronological pass — amount vs the customer's own baseline, hour, night flag, velocity, new device, new location, history depth. Also builds the customer profile store. |
+| Model | `src/model.py` | Gradient-boosted trees, class-weighted, **chronological** train/test split, threshold picked from the precision–recall curve. |
+| Risk engine | `src/risk_engine.py` | `score = ML component (max 60) + behavioural rules (max 40)`, plus the human-readable reasons. |
+| Predictor | `src/predictor.py` | Single object the dashboard/API calls: `FraudScope.load().score(txn, user_id)`. |
+| Dashboard | `dashboard/app.py` | Score a transaction, prioritised alert queue, model performance. |
 
-* Real-time transaction streaming
-* Graph-based fraud detection
-* SHAP-based explainability
-* Continuous model learning
-* Privacy-preserving/federated learning
+### Why features are built in one chronological pass
+Every feature uses only information available **before** the transaction, and the train/test
+split is by time, not random. Otherwise the model sees a customer's future behaviour while
+being tested on their past, and every metric looks far better than it really is.
 
-### **Detect. Explain. Prioritize. Protect. 🔐**
+### Why the score is split into two parts
+The model catches patterns nobody wrote down; the rules are auditable and produce the
+"why" sentence. Keeping them separate means an analyst can always see how much of a score
+came from a black box and how much from an explicit signal.
+
+---
+
+## Example
+
+```python
+from src.predictor import FraudScope
+
+fs = FraudScope.load()
+result = fs.score({
+    "amount": 85000, "hour": 2, "location": "Delhi", "device_id": "unknown-device",
+    "txn_count_10min": 7, "seconds_since_prev": 45,
+    "is_new_device": 1, "is_new_location": 1,
+})
+print(result["summary"])
+```
+
+```
+Risk 93/100 (HIGH). Flagged because of unusually high amount; high transaction velocity;
+new device; location deviation. Recommended action: Hold for additional verification and
+route to a fraud analyst.
+```
+
+## Risk levels
+
+| Score | Level | Meaning |
+|---|---|---|
+| 0–30 | LOW | Relatively normal transaction |
+| 31–70 | MEDIUM | Some unusual signals require attention |
+| 71–100 | HIGH | Multiple risk signals justify verification |
+
+## Evaluation
+
+Fraud data is heavily imbalanced, so accuracy is deliberately **not** reported. The model is
+scored on **precision, recall, F1, PR-AUC, ROC-AUC and the confusion matrix**, all written to
+`models/metrics.json` and shown in the dashboard's *Model performance* tab.
+
+## Limitations
+
+- The prototype does **not** connect to real bank accounts, UPI, payment gateways or customer data.
+- Scores and thresholds are demonstration values, not banking-industry standards.
+- A suspicious transaction is not automatically fraudulent; the system supports verification and
+  investigation. False positives and false negatives are possible and must be monitored.
+
+## Roadmap
+
+Real-time streaming ingestion, SHAP explanations per prediction, graph-based fraud rings,
+continuous model monitoring and drift alerts, secure scoring APIs, privacy-preserving /
+federated learning.
+
+## Project structure
+
+```
+data/raw  data/processed  notebooks  src  models  dashboard  screenshots  docs
+```
+
+Built by [Ishwari Ugale](https://github.com/IshwariUgale-hub).
