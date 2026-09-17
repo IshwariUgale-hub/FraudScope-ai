@@ -50,6 +50,24 @@ def get_engine():
     return FraudScope.load()
 
 
+def validate_transaction(amount, hour, velocity, gap) -> str | None:
+    """Return a user-friendly error string, or None if the inputs are usable.
+
+    The Streamlit widgets already clamp these ranges, so this is a defensive
+    second check - e.g. if this function is ever called from somewhere other
+    than the widgets below.
+    """
+    if amount is None or amount <= 0:
+        return "Amount must be a positive number."
+    if hour is None or not (0 <= hour <= 23):
+        return "Hour must be between 0 and 23."
+    if velocity is None or velocity < 1:
+        return "Transactions in the last 10 minutes must be at least 1."
+    if gap is None or gap < 0:
+        return "Seconds since previous transaction cannot be negative."
+    return None
+
+
 @st.cache_data
 def get_metrics():
     return load_metrics()
@@ -64,6 +82,17 @@ try:
 except FileNotFoundError as e:
     st.error(str(e))
     st.stop()
+except Exception as e:
+    st.error(
+        "Could not load the trained model. This usually means it was trained with a "
+        "different scikit-learn version than the one installed now.\n\n"
+        f"Technical detail: {type(e).__name__}: {e}\n\n"
+        "Fix: delete models/fraud_model.pkl and retrain with your current environment:\n"
+        "```\npython -m src.model --synthetic\n```"
+    )
+    st.stop()
+
+st.session_state.setdefault("alert_log", [])
 
 tab_score, tab_queue, tab_model = st.tabs(
     ["Score a transaction", "Alert queue", "Model performance"])
@@ -75,6 +104,9 @@ tab_score, tab_queue, tab_model = st.tabs(
 PRESETS = {
     "Normal purchase": dict(amount=2400.0, hour=14, location="Pune", new_device=False,
                             new_location=False, velocity=1, gap=7200),
+    "Suspicious - elevated amount only (PDR demo B)": dict(
+        amount=12000.0, hour=15, location="Pune", new_device=False,
+        new_location=False, velocity=1, gap=5000),
     "Travelling customer (unusual but legitimate)": dict(
         amount=80000.0, hour=16, location="Delhi", new_device=False,
         new_location=True, velocity=1, gap=21600),
@@ -107,15 +139,29 @@ with tab_score:
         velocity = st.slider("Transactions in the last 10 minutes", 1, 12, p["velocity"])
         gap = st.number_input("Seconds since previous transaction", 0, 604800, p["gap"], step=30)
 
-        st.caption(f"Profile baseline: avg Rs {profile['mean_amount']:,.0f} "
-                   f"over {profile['txn_count']} past transactions.")
+        if profile["txn_count"] == 0:
+            st.caption("No transaction history for this customer. Using a default assumed "
+                       f"baseline (Rs {profile['mean_amount']:,.0f}) for comparison only - "
+                       "not a learned pattern.")
+        else:
+            st.caption(f"Profile baseline: avg Rs {profile['mean_amount']:,.0f} "
+                       f"over {profile['txn_count']} past transactions.")
+
+    error = validate_transaction(amount, hour, velocity, gap)
+    if error:
+        st.warning(error)
+        st.stop()
 
     txn = {
         "amount": amount, "hour": hour, "location": location, "device_id": device,
         "txn_count_10min": velocity, "seconds_since_prev": gap,
         "is_new_device": int(new_device), "is_new_location": int(new_location),
     }
-    result = engine.score(txn, user_id=user_id, profile=profile)
+    try:
+        result = engine.score(txn, user_id=user_id, profile=profile)
+    except Exception as e:
+        st.error(f"Could not score this transaction: {type(e).__name__}: {e}")
+        st.stop()
     color = LEVEL_COLORS[result["level"]]
 
     with right:
@@ -146,6 +192,23 @@ with tab_score:
 
         with st.expander("Feature vector sent to the model"):
             st.dataframe(pd.DataFrame([result["features"]]).T.rename(columns={0: "value"}))
+
+        if result["level"] != "LOW":
+            if st.button("Add this transaction to Alert Queue", type="primary"):
+                top_reasons = "; ".join(
+                    r["signal"] for r in result["reasons"][1:3] if r["points"] > 0
+                ) or "-"
+                st.session_state.alert_log.append({
+                    "transaction_id": f"TXN-{len(st.session_state.alert_log) + 1:05d}",
+                    "source": "Live (Score a transaction)",
+                    "amount": txn["amount"],
+                    "location": txn["location"],
+                    "score": result["score"],
+                    "level": result["level"],
+                    "main_reason": top_reasons,
+                    "action": result["action"],
+                })
+                st.success("Added to the Alert Queue - see the 'Alert queue' tab.")
 
     st.info("A suspicious transaction is not automatically fraudulent. Scores and thresholds "
             "are prototype demonstration values and support verification, not automatic blocking.")
@@ -181,9 +244,22 @@ def simulate_batch(n: int = 40, seed: int = 7) -> pd.DataFrame:
 
 with tab_queue:
     st.subheader("Prioritised alert queue")
-    st.caption("Simulated incoming transactions, scored and sorted so analysts see the "
-               "riskiest cases first.")
-    batch = simulate_batch()
+    st.caption("Transactions you've scored and explicitly flagged (Live), merged with a "
+               "simulated incoming batch (Simulated) - sorted so analysts see the riskiest "
+               "cases first. Nothing here is a confirmed-fraud claim; each row still needs "
+               "analyst verification.")
+
+    sim = simulate_batch().reset_index(drop=True)
+    sim = sim.rename(columns={"top_reason": "main_reason"})
+    sim.insert(0, "transaction_id", [f"SIM-{i+1:05d}" for i in range(len(sim))])
+    sim.insert(1, "source", "Simulated batch")
+    sim = sim[["transaction_id", "source", "amount", "location", "score", "level",
+              "main_reason", "action"]]
+
+    live = pd.DataFrame(st.session_state.alert_log)
+    batch = pd.concat([live, sim], ignore_index=True) if len(live) else sim
+    batch = batch.sort_values("score", ascending=False).reset_index(drop=True)
+
     c1, c2, c3 = st.columns(3)
     c1.metric("HIGH risk", int((batch.level == "HIGH").sum()))
     c2.metric("MEDIUM risk", int((batch.level == "MEDIUM").sum()))
@@ -191,8 +267,15 @@ with tab_queue:
 
     level_filter = st.multiselect("Show levels", ["HIGH", "MEDIUM", "LOW"],
                                   default=["HIGH", "MEDIUM"])
-    view = batch[batch.level.isin(level_filter)]
+    source_filter = st.multiselect("Show source", ["Live (Score a transaction)", "Simulated batch"],
+                                   default=["Live (Score a transaction)", "Simulated batch"])
+    view = batch[batch.level.isin(level_filter) & batch.source.isin(source_filter)]
     st.dataframe(view, hide_index=True)
+
+    if len(live):
+        if st.button("Clear live alerts"):
+            st.session_state.alert_log = []
+            st.rerun()
 
 
 # --------------------------------------------------------------------------- #
@@ -200,6 +283,12 @@ with tab_queue:
 # --------------------------------------------------------------------------- #
 with tab_model:
     st.subheader("Model performance on the held-out (future) period")
+    meta = engine.metadata
+    if meta:
+        st.caption(f"Currently loaded model: trained on **{meta.get('source', 'unknown')}** "
+                   f"data, {meta.get('n_train', 0):,} training transactions, decision "
+                   f"threshold {meta.get('threshold', '-')}. This is the model actually "
+                   f"powering the scores in this session.")
     m = get_metrics()
     if not m:
         st.warning("Run `python -m src.model` to generate models/metrics.json.")

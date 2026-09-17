@@ -64,12 +64,21 @@ def _rule_reasons(f: dict, txn: dict) -> list:
     cur = txn.get("currency", "Rs ")
 
     ratio = f["amount_ratio"]
+    n_hist = int(f.get("user_txn_index", 0))
     if ratio >= 3:
         pts = 8.0 if ratio < 6 else 14.0
-        reasons.append(Reason(
-            "Unusually high amount",
-            f"{cur}{f['amount']:,.0f} is about {ratio:.1f}x this customer's usual transaction size.",
-            pts))
+        if n_hist == 0:
+            detail = (f"{cur}{f['amount']:,.0f} is {ratio:.1f}x a default assumed baseline. "
+                      f"This customer has no transaction history yet, so this comparison is "
+                      f"approximate, not a learned pattern.")
+        elif n_hist < 3:
+            detail = (f"{cur}{f['amount']:,.0f} is about {ratio:.1f}x this customer's average "
+                      f"so far, based on only {n_hist} past transaction(s) - an early, "
+                      f"low-confidence baseline.")
+        else:
+            detail = (f"{cur}{f['amount']:,.0f} is about {ratio:.1f}x this customer's usual "
+                      f"transaction size.")
+        reasons.append(Reason("Unusually high amount", detail, pts))
 
     if f["is_new_device"]:
         reasons.append(Reason(
