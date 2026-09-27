@@ -4,7 +4,7 @@ import logging
 import sys
 from contextlib import asynccontextmanager
 from pathlib import Path
-from typing import AsyncGenerator
+from typing import AsyncGenerator, Dict
 
 # Ensure both backend directory and repository root are on sys.path
 _backend_dir = Path(__file__).resolve().parent.parent
@@ -20,7 +20,9 @@ from fastapi.responses import JSONResponse
 
 from app.api.health import router as health_router
 from app.api.transactions import router as transactions_router
+from app.api.users import router as users_router
 from app.core.config import settings
+from app.db.session import check_db_connectivity, init_db
 from app.services.fraud_service import fraud_service
 
 # Configure application logging
@@ -33,8 +35,16 @@ logger = logging.getLogger("fraudscope.api")
 
 @asynccontextmanager
 async def lifespan(app: FastAPI) -> AsyncGenerator[None, None]:
-    """Lifespan context manager that initializes ML artifacts once upon startup."""
+    """Lifespan context manager that initializes DB tables and ML artifacts once upon startup."""
     logger.info("Starting up FRAUDSCOPE AI Backend...")
+
+    # 1. Initialize Database Schema
+    try:
+        init_db()
+    except Exception as exc:
+        logger.error("Database schema initialization warning: %s", exc)
+
+    # 2. Initialize FraudScope ML Engine
     try:
         fraud_service.initialize()
     except Exception as exc:
@@ -109,17 +119,22 @@ async def unhandled_exception_handler(request: Request, exc: Exception) -> JSONR
 # --------------------------------------------------------------------------- #
 # Routes
 # --------------------------------------------------------------------------- #
-# Health check on root as required by specification: GET /health
+# Root health check endpoint indicating API and database connectivity
 @app.get(
     "/health",
     tags=["Health"],
     summary="Health check",
-    description="Returns the health status of the service.",
+    description="Returns the health status of the service and database connectivity.",
 )
-def root_health() -> dict[str, str]:
-    return {"status": "ok"}
+def root_health() -> Dict[str, str]:
+    db_ok = check_db_connectivity()
+    return {
+        "status": "ok" if db_ok else "degraded",
+        "database": "connected" if db_ok else "disconnected",
+    }
 
 
-# Include API routers
+# Include API routers under /api/v1
 app.include_router(health_router, prefix=settings.API_V1_PREFIX)
 app.include_router(transactions_router, prefix=settings.API_V1_PREFIX)
+app.include_router(users_router, prefix=settings.API_V1_PREFIX)

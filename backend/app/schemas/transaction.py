@@ -1,5 +1,6 @@
 from __future__ import annotations
 
+from datetime import datetime
 from typing import Any, Dict, List, Optional
 from pydantic import BaseModel, ConfigDict, Field
 
@@ -45,16 +46,23 @@ class TransactionScoreRequest(BaseModel):
         description="City or billing region code",
         examples=["Delhi"],
     )
-    txn_count_10min: int = Field(
-        default=1,
+
+    # Contextual behavioral fields (Optional; prefer database-derived when user history exists)
+    timestamp: Optional[int] = Field(
+        default=None,
+        description="Unix timestamp of transaction (defaults to current time if omitted)",
+        examples=[1727448000],
+    )
+    txn_count_10min: Optional[int] = Field(
+        default=None,
         ge=1,
-        description="Number of transactions initiated in trailing 10 minutes",
+        description="Transactions in last 10 minutes (defaults to DB history or 1 on cold-start)",
         examples=[7],
     )
-    seconds_since_prev: float = Field(
-        default=86400.0,
+    seconds_since_prev: Optional[float] = Field(
+        default=None,
         ge=0.0,
-        description="Elapsed seconds since customer's previous transaction",
+        description="Seconds since previous transaction (defaults to DB history or 86400 on cold-start)",
         examples=[120.0],
     )
 
@@ -81,7 +89,7 @@ class TransactionScoreRequest(BaseModel):
     txn_count_1h: Optional[int] = Field(
         default=None,
         ge=1,
-        description="Transactions in trailing 1 hour (defaults to txn_count_10min if omitted)",
+        description="Transactions in trailing 1 hour (defaults to DB history)",
         examples=[7],
     )
     currency: Optional[str] = Field(
@@ -122,3 +130,41 @@ class TransactionScoreResponse(BaseModel):
         default=None,
         description="Complete feature vector passed to the ML classifier",
     )
+
+
+class TransactionDetailResponse(BaseModel):
+    """Full detail of a stored transaction record."""
+
+    id: int = Field(..., description="Internal database ID")
+    transaction_id: str = Field(..., description="Unique transaction reference ID")
+    user_id: str = Field(..., description="Customer or card identifier")
+    amount: float = Field(..., description="Transaction amount")
+    timestamp: int = Field(..., description="Transaction unix timestamp")
+    device_id: str = Field(..., description="Device identifier")
+    location: str = Field(..., description="Location")
+    currency: str = Field(..., description="Currency symbol")
+    txn_count_10min: int = Field(..., description="Evaluated 10-minute transaction count")
+    txn_count_1h: Optional[int] = Field(None, description="Evaluated 1-hour transaction count")
+    seconds_since_prev: float = Field(..., description="Evaluated seconds since previous transaction")
+    is_new_device: Optional[int] = Field(None, description="New device flag (0 or 1)")
+    is_new_location: Optional[int] = Field(None, description="New location flag (0 or 1)")
+    risk_score: int = Field(..., description="Assessed risk score (0-100)")
+    risk_level: str = Field(..., description="Risk tier")
+    ml_probability: float = Field(..., description="ML fraud probability")
+    ml_points: float = Field(..., description="ML points contribution")
+    rule_points: float = Field(..., description="Rule points contribution")
+    recommended_action: str = Field(..., description="Recommended action")
+    summary: str = Field(..., description="Explanation summary")
+    reasons: List[ReasonItem] = Field(default_factory=list, description="List of reasons")
+    features: Optional[Dict[str, Any]] = Field(default=None, description="Computed features")
+    created_at: Optional[datetime] = Field(None, description="Database record creation timestamp")
+
+    model_config = ConfigDict(from_attributes=True)
+
+
+class UserTransactionsResponse(BaseModel):
+    """Response containing list of recent transactions for a given user."""
+
+    user_id: str = Field(..., description="User ID queried")
+    total_transactions: int = Field(..., description="Total number of stored transactions for this user")
+    transactions: List[TransactionDetailResponse] = Field(..., description="List of transaction records")

@@ -1,15 +1,22 @@
 import os
 import sys
 from pathlib import Path
+from dotenv import load_dotenv
 
 # Resolve the project root directory (the parent directory containing 'src' and 'models')
 # Path: backend/app/core/config.py -> core -> app -> backend -> FRAUDSCOPE-AI
 _current_file = Path(__file__).resolve()
 PROJECT_ROOT = _current_file.parents[3]
+BACKEND_DIR = _current_file.parents[2]
 
-# Verify and ensure project root is on sys.path so that 'src.*' imports function properly
-if str(PROJECT_ROOT) not in sys.path:
-    sys.path.insert(0, str(PROJECT_ROOT))
+# Ensure project root and backend dir are in sys.path
+for _path in (str(PROJECT_ROOT), str(BACKEND_DIR)):
+    if _path not in sys.path:
+        sys.path.insert(0, _path)
+
+# Load environment variables from .env files if present
+load_dotenv(BACKEND_DIR / ".env")
+load_dotenv(PROJECT_ROOT / ".env")
 
 
 class Settings:
@@ -37,8 +44,13 @@ class Settings:
         str(PROJECT_ROOT / "models" / "metrics.json"),
     )
 
-    # CORS configuration for future React frontend
-    # Allows comma-separated string from environment, or sensible local dev defaults
+    # Database configuration (PostgreSQL with SQLite fallback for zero-friction local dev/testing)
+    DATABASE_URL: str = os.getenv(
+        "DATABASE_URL",
+        f"sqlite:///{PROJECT_ROOT}/fraudscope.db",
+    )
+
+    # CORS configuration for React frontend
     _cors_env = os.getenv("CORS_ORIGINS", "")
     if _cors_env.strip():
         CORS_ORIGINS: list[str] = [origin.strip() for origin in _cors_env.split(",") if origin.strip()]
